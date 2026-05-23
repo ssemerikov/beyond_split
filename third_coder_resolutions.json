@@ -1,0 +1,218 @@
+[
+  {
+    "case_id": "15894",
+    "component_name": "Атестаційний екзамен",
+    "coder_a": "pedagogy",
+    "coder_b": "subject",
+    "coder_c": "other",
+    "basis": "Coder-C rule"
+  },
+  {
+    "case_id": "15942",
+    "component_name": "Курсова робота",
+    "coder_a": "pedagogy",
+    "coder_b": "subject",
+    "coder_c": "subject",
+    "basis": "Coder-C rule"
+  },
+  {
+    "case_id": "15959",
+    "component_name": "П.П.Курсова робота з історії України ХІХ ст",
+    "coder_a": "pedagogy",
+    "coder_b": "subject",
+    "coder_c": "subject",
+    "basis": "Coder-C rule"
+  },
+  {
+    "case_id": "15959",
+    "component_name": "Кваліфікаційна бакалаврська робота",
+    "coder_a": "pedagogy",
+    "coder_b": "subject",
+    "coder_c": "subject",
+    "basis": "default-to-B (no Coder-C rule applied)"
+  },
+  {
+    "case_id": "15959",
+    "component_name": "П.П.Курсова робота з давньої історії",
+    "coder_a": "pedagogy",
+    "coder_b": "subject",
+    "coder_c": "subject",
+    "basis": "Coder-C rule"
+  },
+  {
+    "case_id": "16086",
+    "component_name": "Основи лінгвопсихології",
+    "coder_a": "subject",
+    "coder_b": "pedagogy",
+    "coder_c": "pedagogy",
+    "basis": "Coder-C rule"
+  },
+  {
+    "case_id": "16176",
+    "component_name": "Кваліфікаційний екзамен",
+    "coder_a": "pedagogy",
+    "coder_b": "subject",
+    "coder_c": "other",
+    "basis": "Coder-C rule"
+  },
+  {
+    "case_id": "16199",
+    "component_name": "ОК 46. Курсова робота",
+    "coder_a": "pedagogy",
+    "coder_b": "subject",
+    "coder_c": "subject",
+    "basis": "Coder-C rule"
+  },
+  {
+    "case_id": "16199",
+    "component_name": "ОК 47. Атестація",
+    "coder_a": "pedagogy",
+    "coder_b": "subject",
+    "coder_c": "other",
+    "basis": "Coder-C rule"
+  },
+  {
+    "case_id": "16286",
+    "component_name": "Курсова робота",
+    "coder_a": "pedagogy",
+    "coder_b": "subject",
+    "coder_c": "subject",
+    "basis": "Coder-C rule"
+  },
+  {
+    "case_id": "16286",
+    "component_name": "Атестаційний екзамен із фахової  підготовки",
+    "coder_a": "pedagogy",
+    "coder_b": "subject",
+    "coder_c": "other",
+    "basis": "Coder-C rule"
+  },
+  {
+    "case_id": "16306",
+    "component_name": "ОК  39. Курсова робота з ботаніки та зоології",
+    "coder_a": "pedagogy",
+    "coder_b": "subject",
+    "coder_c": "subject",
+    "basis": "Coder-C rule"
+  },
+  {
+    "case_id": "16306",
+    "component_name": "ОК 10. Провайдинг освітніх технологій",
+    "coder_a": "subject",
+    "coder_b": "pedagogy",
+    "coder_c": "pedagogy",
+    "basis": "Coder-C rule"
+  },
+  {
+    "case_id": "16310",
+    "component_name": "ОК 42.  Курсова робота з ботаніки та зоології або здоров’язбереження",
+    "coder_a": "pedagogy",
+    "coder_b": "subject",
+    "coder_c": "subject",
+    "basis": "Coder-C rule"
+  },
+  {
+    "case_id": "16310",
+    "component_name": "ОК 10. Провайдинг освітніх технологій",
+    "coder_a": "subject",
+    "coder_b": "pedagogy",
+    "coder_c": "pedagogy",
+    "basis": "Coder-C rule"
+  },
+  {
+    "case_id": "16324",
+    "component_name": "Курсова робота",
+    "coder_a": "pedagogy",
+    "coder_b": "subject",
+    "coder_c": "subject",
+    "basis": "Coder-C rule"
+  },
+  {
+    "case_id": "16332",
+    "component_name": "А2 Кваліфікаційний іспит зі спеціальності ІІ",
+    "coder_a": "pedagogy",
+    "coder_b": "subject",
+    "coder_c": "other",
+    "basis": "Coder-C rule"
+  },
+  {
+    "case_id": "16332",
+    "component_name": "А1 Кваліфікаційний іспит зі спеціальності І",
+    "coder_a": "pedagogy",
+    "coder_b": "subject",
+    "coder_c": "other",
+    "basis": "Coder-C rule"
+  },
+  {
+    "case_id": "16344",
+    "component_name": "Курсова робота з природничих наук",
+    "coder_a": "pedagogy",
+    "coder_b": "subject",
+    "coder_c": "subject",
+    "basis": "Coder-C rule"
+  },
+  {
+    "case_id": "16398",
+    "component_name": "ОК 38. Курсова робота з біології",
+    "coder_a": "pedagogy",
+    "coder_b": "subject",
+    "coder_c": "subject",
+    "basis": "Coder-C rule"
+  },
+  {
+    "case_id": "16398",
+    "component_name": "ОК 39. Курсова робота зі здоров'я людини",
+    "coder_a": "pedagogy",
+    "coder_b": "subject",
+    "coder_c": "subject",
+    "basis": "Coder-C rule"
+  },
+  {
+    "case_id": "16462",
+    "component_name": "ОК 36. Курсова робота з хімії або біології",
+    "coder_a": "pedagogy",
+    "coder_b": "subject",
+    "coder_c": "subject",
+    "basis": "Coder-C rule"
+  },
+  {
+    "case_id": "16462",
+    "component_name": "ОК 10. Провайдинг освітніх технологій",
+    "coder_a": "subject",
+    "coder_b": "pedagogy",
+    "coder_c": "pedagogy",
+    "basis": "Coder-C rule"
+  },
+  {
+    "case_id": "16475",
+    "component_name": "Креативні освітні технології",
+    "coder_a": "subject",
+    "coder_b": "pedagogy",
+    "coder_c": "pedagogy",
+    "basis": "Coder-C rule"
+  },
+  {
+    "case_id": "16518",
+    "component_name": "Оглядові лекції",
+    "coder_a": "pedagogy",
+    "coder_b": "subject",
+    "coder_c": "subject",
+    "basis": "Coder-C rule"
+  },
+  {
+    "case_id": "16518",
+    "component_name": "Курсова робота з історії",
+    "coder_a": "pedagogy",
+    "coder_b": "subject",
+    "coder_c": "subject",
+    "basis": "Coder-C rule"
+  },
+  {
+    "case_id": "16545",
+    "component_name": "Технології виховної роботи",
+    "coder_a": "subject",
+    "coder_b": "pedagogy",
+    "coder_c": "pedagogy",
+    "basis": "default-to-B (no Coder-C rule applied)"
+  }
+]

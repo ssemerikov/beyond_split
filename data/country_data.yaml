@@ -1,0 +1,163 @@
+# Hand-curated comparative data on dual-subject teacher education models.
+# Each entry verified against: official HE legislation, university programme catalogues,
+# accreditation body documentation. Source: plan3.md §4.1 (extracted 2026-05-09).
+#
+# weight_primary_pct + weight_secondary_pct refer to subject-content ECTS only,
+# excluding pedagogy/psychology, practicum, and statutory deductions.
+
+countries:
+
+  - id: DE
+    name: Germany
+    model_type: dual_primary_secondary
+    primary_label: Hauptfach
+    secondary_label: Nebenfach
+    weight_primary_pct: 60
+    weight_secondary_pct: 40
+    institutional_type: [Universität, Pädagogische Hochschule]
+    degree_structure: state_examination
+    duration_years: 4.5
+    notes: >
+      Standard for Gymnasium teacher preparation. PH Baden-Württemberg
+      mandates two subjects. Universities (e.g. Freiburg, Heidelberg)
+      offer teacher track within subject faculties.
+    sources:
+      - "KMK (2019). Standards für die Lehrerbildung"
+      - "PH Freiburg Studienordnung 2022"
+
+  - id: AT
+    name: Austria
+    model_type: dual_primary_secondary
+    primary_label: Erstfach
+    secondary_label: Zweitfach
+    weight_primary_pct: 55
+    weight_secondary_pct: 45
+    institutional_type: [Universität, Pädagogische Hochschule]
+    degree_structure: bachelor_master
+    duration_years: 5
+    notes: >
+      University of Vienna, University of Graz: two-subject requirement
+      for secondary school teacher preparation.
+    sources:
+      - "Universitätsgesetz 2002, §54"
+
+  - id: CZ
+    name: Czech Republic
+    model_type: dual_primary_secondary
+    primary_label: hlavní obor
+    secondary_label: vedlejší obor
+    weight_primary_pct: 60
+    weight_secondary_pct: 40
+    institutional_type: [Pedagogická fakulta]
+    degree_structure: bachelor_master
+    duration_years: 5
+    notes: >
+      Faculty of Education, Charles University Prague: two-subject
+      mandatory for secondary school preparation.
+    sources:
+      - "Zákon č. 111/1998 Sb. o vysokých školách"
+
+  - id: HU
+    name: Hungary
+    model_type: dual_primary_secondary
+    primary_label: főszak
+    secondary_label: mellékszak
+    weight_primary_pct: 60
+    weight_secondary_pct: 40
+    institutional_type: [Bölcsészettudományi Kar, Természettudományi Kar]
+    degree_structure: bachelor_master
+    duration_years: 5
+    notes: >
+      University of Miskolc, ELTE: two-subject requirement standard
+      for tanárszak (teacher track).
+    sources:
+      - "326/2013. (VIII. 30.) Korm. rendelet"
+
+  - id: PL
+    name: Poland
+    model_type: dual_optional
+    primary_label: kierunek główny
+    secondary_label: specjalizacja nauczycielska
+    weight_primary_pct: 70
+    weight_secondary_pct: 30
+    institutional_type: [Wydział Pedagogiczny, Wydział Humanistyczny]
+    degree_structure: bachelor_master
+    duration_years: 5
+    notes: >
+      Dual-subject increasingly optional. Mono-subject with teacher
+      track (przygotowanie pedagogiczne) becoming dominant.
+    sources:
+      - "Rozporządzenie MNiSW z dnia 25 lipca 2019 r."
+
+  - id: EE
+    name: Estonia
+    model_type: dual_primary_secondary
+    primary_label: peaaine
+    secondary_label: kõrvalaine
+    weight_primary_pct: 60
+    weight_secondary_pct: 40
+    institutional_type: [Tartu Ülikool]
+    degree_structure: bachelor_master
+    duration_years: 5
+    notes: >
+      University of Tartu: two-subject standard for secondary
+      school teacher preparation. Integrated 5-year programme.
+    sources:
+      - "Õpetajakoolituse raamnõuded 2022"
+
+  - id: GB
+    name: United Kingdom
+    model_type: major_minor_or_pgce
+    primary_label: major
+    secondary_label: minor
+    weight_primary_pct: 75
+    weight_secondary_pct: 25
+    institutional_type: [University, School Direct, SCITT]
+    degree_structure: bachelor_pgce_or_sd
+    duration_years: 4
+    notes: >
+      BA/BSc typically single or major-minor. PGCE (1 year) follows
+      with single subject focus. School Direct allows flexible subject
+      combinations. Minor subject teaching common in shortage subjects.
+    sources:
+      - "DfE Initial Teacher Training Core Content Framework 2019"
+
+  - id: US
+    name: United States
+    model_type: major_minor
+    primary_label: major
+    secondary_label: minor
+    weight_primary_pct: 65
+    weight_secondary_pct: 35
+    institutional_type: [College of Education, Arts & Sciences]
+    degree_structure: bachelor
+    duration_years: 4
+    notes: >
+      State certification requirements drive subject combinations.
+      Many states incentivise dual certification (e.g. Math + Special Ed,
+      Biology + Chemistry) for shortage area coverage.
+    sources:
+      - "CAEP Standards 2022"
+      - "NCTQ Teacher Prep Review 2023"
+
+  - id: UA
+    name: Ukraine
+    model_type: dual_primary_secondary_contested
+    primary_label: основна спеціальність
+    secondary_label: додаткова спеціальність
+    weight_primary_pct: null  # contested: NAQA pressure for 50/50
+    weight_secondary_pct: null
+    institutional_type: [Педагогічний університет, Класичний університет]
+    degree_structure: bachelor_master
+    duration_years: 4
+    notes: >
+      Dual-subject tradition since Soviet period. Order 1006 (2022)
+      established combinations; cancelled 2024. Replaced by non-binding
+      methodological recommendations. No HE standards for speciality
+      014 Secondary Education currently in force (2025). NAQA treating
+      dual-subject programmes as interdisciplinary creates accreditation
+      obstacles. Policy debate ongoing: 50/50 vs primary/secondary weight.
+    sources:
+      - "Наказ МОН №1006 від 2022 (скасований 2024)"
+      - "Методичні рекомендації МОН 2024"
+      - "Закон України Про вищу освіту 2014"

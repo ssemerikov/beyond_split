@@ -1,0 +1,10 @@
+Crossref validation report
+==========================
+
+Total entries: 89
+@article entries: 70
+  - validated against Crossref: 68
+  - missing DOI (skipped): 2
+  - DOI broken / not in Crossref: 0
+  - entries with discrepancies: 0
+

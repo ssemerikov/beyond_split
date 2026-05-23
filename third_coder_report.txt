@@ -1,0 +1,70 @@
+Coder C (syllabus-level) reclassification of boundary cases
+============================================================
+
+Boundary subset: 27 subject<->pedagogy disagreements
+Coder-C rules applied: 25
+Defaulted to Coder B (no rule): 2
+
+Boundary-set distribution:
+  subject:  A= 6  B=21  C=15
+  pedagogy: A=21  B= 6  C= 6
+  other:    A= 0  B= 0  C= 6
+
+Cohen's kappa A vs C (boundary, n=27): -0.421
+Cohen's kappa B vs C (boundary, n=27): 0.571
+
+Per-resolution breakdown:
+  [15894] A=pedagogy, B=subject, C=other  (Coder-C rule)
+    Атестаційний екзамен
+  [15942] A=pedagogy, B=subject, C=subject  (Coder-C rule)
+    Курсова робота
+  [15959] A=pedagogy, B=subject, C=subject  (Coder-C rule)
+    П.П.Курсова робота з історії України ХІХ ст
+  [15959] A=pedagogy, B=subject, C=subject  (default-to-B (no Coder-C rule applied))
+    Кваліфікаційна бакалаврська робота
+  [15959] A=pedagogy, B=subject, C=subject  (Coder-C rule)
+    П.П.Курсова робота з давньої історії
+  [16086] A=subject, B=pedagogy, C=pedagogy  (Coder-C rule)
+    Основи лінгвопсихології
+  [16176] A=pedagogy, B=subject, C=other  (Coder-C rule)
+    Кваліфікаційний екзамен
+  [16199] A=pedagogy, B=subject, C=subject  (Coder-C rule)
+    ОК 46. Курсова робота
+  [16199] A=pedagogy, B=subject, C=other  (Coder-C rule)
+    ОК 47. Атестація
+  [16286] A=pedagogy, B=subject, C=subject  (Coder-C rule)
+    Курсова робота
+  [16286] A=pedagogy, B=subject, C=other  (Coder-C rule)
+    Атестаційний екзамен із фахової  підготовки
+  [16306] A=pedagogy, B=subject, C=subject  (Coder-C rule)
+    ОК  39. Курсова робота з ботаніки та зоології
+  [16306] A=subject, B=pedagogy, C=pedagogy  (Coder-C rule)
+    ОК 10. Провайдинг освітніх технологій
+  [16310] A=pedagogy, B=subject, C=subject  (Coder-C rule)
+    ОК 42.  Курсова робота з ботаніки та зоології або здоров’язбереження
+  [16310] A=subject, B=pedagogy, C=pedagogy  (Coder-C rule)
+    ОК 10. Провайдинг освітніх технологій
+  [16324] A=pedagogy, B=subject, C=subject  (Coder-C rule)
+    Курсова робота
+  [16332] A=pedagogy, B=subject, C=other  (Coder-C rule)
+    А2 Кваліфікаційний іспит зі спеціальності ІІ
+  [16332] A=pedagogy, B=subject, C=other  (Coder-C rule)
+    А1 Кваліфікаційний іспит зі спеціальності І
+  [16344] A=pedagogy, B=subject, C=subject  (Coder-C rule)
+    Курсова робота з природничих наук
+  [16398] A=pedagogy, B=subject, C=subject  (Coder-C rule)
+    ОК 38. Курсова робота з біології
+  [16398] A=pedagogy, B=subject, C=subject  (Coder-C rule)
+    ОК 39. Курсова робота зі здоров'я людини
+  [16462] A=pedagogy, B=subject, C=subject  (Coder-C rule)
+    ОК 36. Курсова робота з хімії або біології
+  [16462] A=subject, B=pedagogy, C=pedagogy  (Coder-C rule)
+    ОК 10. Провайдинг освітніх технологій
+  [16475] A=subject, B=pedagogy, C=pedagogy  (Coder-C rule)
+    Креативні освітні технології
+  [16518] A=pedagogy, B=subject, C=subject  (Coder-C rule)
+    Оглядові лекції
+  [16518] A=pedagogy, B=subject, C=subject  (Coder-C rule)
+    Курсова робота з історії
+  [16545] A=subject, B=pedagogy, C=pedagogy  (default-to-B (no Coder-C rule applied))
+    Технології виховної роботи

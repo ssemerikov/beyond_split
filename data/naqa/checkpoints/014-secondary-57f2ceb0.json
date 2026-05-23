@@ -1,0 +1,26 @@
+{
+  "session_id": "014-secondary-57f2ceb0",
+  "created_at": "2026-05-10T07:14:13.364921",
+  "updated_at": "2026-05-10T07:18:06.557032",
+  "phase": "completed",
+  "case_urls": [
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/16545",
+      "case_id": "16545",
+      "form_url": null,
+      "institution_name": "Кременецька обласна гуманітарно-педагогічна академія ім. Тараса Шевченка",
+      "program_name": "Середня освіта (Мова і література) (польська)"
+    }
+  ],
+  "completed_cases": [
+    "16545"
+  ],
+  "failed_cases": [],
+  "current_index": 1,
+  "total_cases": 1,
+  "statistics": {
+    "total_files_downloaded": 28,
+    "total_components_extracted": 28
+  },
+  "completed_at": "2026-05-10T07:18:06.557011"
+}

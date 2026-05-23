@@ -1,0 +1,27 @@
+Inter-coder reliability report: OPP component categorisation
+============================================================
+
+Overall n = 851 components across 23 cases
+Simple agreement (proportion identical): 0.951 (95.1%)
+Cohen's kappa (chance-corrected agreement): 0.913
+
+Confusion matrix (rows = Coder A; columns = Coder B):
+       other    pedagogy    practicu    statutor     subject       total
+     other           0           0           0           0           0       0
+  pedagogy           6         193           0           1          21     221
+  practicu           0           0         116           0           0     116
+  statutor           0           1           0          13           0      14
+   subject           0           6           0           7         487     500
+                     6         200         116          21         508     851
+
+Marginal counts:
+  Coder A: {'pedagogy': 221, 'practicum': 116, 'statutory': 14, 'subject': 500}
+  Coder B: {'other': 6, 'pedagogy': 200, 'practicum': 116, 'statutory': 21, 'subject': 508}
+
+Per-category cell agreement (A's rows; agreement = diagonal/row-total):
+    pedagogy:  193 /  221 = 0.873
+   practicum:  116 /  116 = 1.000
+   statutory:   13 /   14 = 0.929
+     subject:  487 /  500 = 0.974
+
+Disagreements: 42 components (4.9%) — see intercoder_disagreements.json for the full list.

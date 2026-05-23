@@ -1,0 +1,218 @@
+{
+  "session_id": "014-prod-001",
+  "created_at": "2026-05-10T07:18:55.990885",
+  "updated_at": "2026-05-10T14:25:09.890869",
+  "phase": "completed",
+  "case_urls": [
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/16545",
+      "case_id": "16545",
+      "form_url": null,
+      "institution_name": "Кременецька обласна гуманітарно-педагогічна академія ім. Тараса Шевченка",
+      "program_name": "Середня освіта (Мова і література) (польська)"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/16518",
+      "case_id": "16518",
+      "form_url": null,
+      "institution_name": "Державний заклад \"Луганський національний університет імені Тараса Шевченка\"",
+      "program_name": "Історія, правознавство"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/16475",
+      "case_id": "16475",
+      "form_url": null,
+      "institution_name": "Житомирський державний університет імені Івана Франка",
+      "program_name": "Середня освіта (Трудове навчання та технології)"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/16462",
+      "case_id": "16462",
+      "form_url": null,
+      "institution_name": "Харківський національний педагогічний університет імені Г.С. Сковороди",
+      "program_name": "Хімія та біологія в закладах освіти"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/16425",
+      "case_id": "16425",
+      "form_url": null,
+      "institution_name": "Мелітопольський державний педагогічний університет імені Богдана Хмельницького",
+      "program_name": "Середня освіта. Хімія. Біологія, здоров`я людини та природознавство"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/16398",
+      "case_id": "16398",
+      "form_url": null,
+      "institution_name": "Ізмаїльський державний гуманітарний університет",
+      "program_name": "Середня освіта: біологія та здоров`я людини"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/16344",
+      "case_id": "16344",
+      "form_url": null,
+      "institution_name": "Глухівський національний педагогічний університет імені Олександра Довженка",
+      "program_name": "Середня освіта (Природничі науки)"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/16342",
+      "case_id": "16342",
+      "form_url": null,
+      "institution_name": "Сумський державний університет",
+      "program_name": "Середня освіта (Історія)"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/16332",
+      "case_id": "16332",
+      "form_url": null,
+      "institution_name": "Сумський державний університет",
+      "program_name": "Англійська та німецька мови та літератури"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/16324",
+      "case_id": "16324",
+      "form_url": null,
+      "institution_name": "Харківська державна академія фізичної культури",
+      "program_name": "Середня освіта (Фізична культура)"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/16310",
+      "case_id": "16310",
+      "form_url": null,
+      "institution_name": "Харківський національний педагогічний університет імені Г.С. Сковороди",
+      "program_name": "Біологія та здоров’я людини, практична психологія в закладах освіти"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/16306",
+      "case_id": "16306",
+      "form_url": null,
+      "institution_name": "Харківський національний педагогічний університет імені Г.С. Сковороди",
+      "program_name": "Біологія та здоров’я людини в закладах освіти"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/16286",
+      "case_id": "16286",
+      "form_url": null,
+      "institution_name": "Кам'янець-Подільський національний університет імені Івана Огієнка",
+      "program_name": "Середня освіта (Географія. Історія)"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/16262",
+      "case_id": "16262",
+      "form_url": null,
+      "institution_name": "Державний заклад \"Луганський національний університет імені Тараса Шевченка\"",
+      "program_name": "Мова і література (іспанська, англійська)"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/16257",
+      "case_id": "16257",
+      "form_url": null,
+      "institution_name": "Бердянський державний педагогічний університет",
+      "program_name": "Середня освіта (англійська мова та література)"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/16199",
+      "case_id": "16199",
+      "form_url": null,
+      "institution_name": "Комунальний заклад вищої освіти \"Луцький педагогічний інститут\" Волинської обласної ради",
+      "program_name": "Середня освіта (Фізична культура)"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/16176",
+      "case_id": "16176",
+      "form_url": null,
+      "institution_name": "Міжнародний університет",
+      "program_name": "Інформатика та програмування"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/16114",
+      "case_id": "16114",
+      "form_url": null,
+      "institution_name": "Бердянський державний педагогічний університет",
+      "program_name": "Середня освіта (англійська мова та література)"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/16105",
+      "case_id": "16105",
+      "form_url": null,
+      "institution_name": "Державний заклад \"Луганський національний університет імені Тараса Шевченка\"",
+      "program_name": "Математика. Фізика"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/16086",
+      "case_id": "16086",
+      "form_url": null,
+      "institution_name": "Мелітопольський державний педагогічний університет імені Богдана Хмельницького",
+      "program_name": "Середня освіта. Англійська та німецька мови. Психологія"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/15959",
+      "case_id": "15959",
+      "form_url": null,
+      "institution_name": "Національний університет водного господарства та природокористування",
+      "program_name": "Середня освіта (історія)"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/15944",
+      "case_id": "15944",
+      "form_url": null,
+      "institution_name": "Дрогобицький державний педагогічний університет імені Івана Франка",
+      "program_name": "Середня освіта (Фізика, інформатика)"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/15942",
+      "case_id": "15942",
+      "form_url": null,
+      "institution_name": "КОМУНАЛЬНИЙ ЗАКЛАД \"ХАРКІВСЬКА ГУМАНІТАРНО-ПЕДАГОГІЧНА АКАДЕМІЯ\" ХАРКІВСЬКОЇ ОБЛАСНОЇ РАДИ",
+      "program_name": "Середня освіта (Фізична культура)"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/15912",
+      "case_id": "15912",
+      "form_url": null,
+      "institution_name": "Волинський національний університет імені Лесі Українки",
+      "program_name": "Середня освіта. Англійська мова"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/15894",
+      "case_id": "15894",
+      "form_url": null,
+      "institution_name": "Класичний приватний університет\"",
+      "program_name": "Біологія та здоров’я людини"
+    }
+  ],
+  "completed_cases": [
+    "16475",
+    "16518",
+    "16545",
+    "16462",
+    "16425",
+    "16398",
+    "16344",
+    "16342",
+    "16332",
+    "16324",
+    "16310",
+    "16306",
+    "16286",
+    "16262",
+    "16257",
+    "16199",
+    "16176",
+    "16114",
+    "16105",
+    "16086",
+    "15959",
+    "15944",
+    "15942",
+    "15912",
+    "15894"
+  ],
+  "failed_cases": [],
+  "current_index": 25,
+  "total_cases": 25,
+  "statistics": {
+    "total_files_downloaded": 755,
+    "total_components_extracted": 755
+  },
+  "completed_at": "2026-05-10T14:25:09.890846"
+}

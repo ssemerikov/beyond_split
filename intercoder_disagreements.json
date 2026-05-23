@@ -1,0 +1,296 @@
+[
+  {
+    "case_id": "15894",
+    "component_name": "Атестаційний екзамен",
+    "component_type": "підсумкова атестація",
+    "coder_a": "pedagogy",
+    "coder_b": "subject"
+  },
+  {
+    "case_id": "15912",
+    "component_name": "ОП 10 Комплексний кваліфікаційний іспит",
+    "component_type": "підсумкова атестація",
+    "coder_a": "pedagogy",
+    "coder_b": "other"
+  },
+  {
+    "case_id": "15942",
+    "component_name": "Курсова робота",
+    "component_type": "курсова робота (проект)",
+    "coder_a": "pedagogy",
+    "coder_b": "subject"
+  },
+  {
+    "case_id": "15959",
+    "component_name": "П.П.Курсова робота з історії України ХІХ ст",
+    "component_type": "курсова робота (проект)",
+    "coder_a": "pedagogy",
+    "coder_b": "subject"
+  },
+  {
+    "case_id": "15959",
+    "component_name": "Кваліфікаційна бакалаврська робота",
+    "component_type": "підсумкова атестація",
+    "coder_a": "pedagogy",
+    "coder_b": "subject"
+  },
+  {
+    "case_id": "15959",
+    "component_name": "П.П.Курсова робота з давньої історії",
+    "component_type": "курсова робота (проект)",
+    "coder_a": "pedagogy",
+    "coder_b": "subject"
+  },
+  {
+    "case_id": "15959",
+    "component_name": "Безпека життєдіяльності та цивільний захист",
+    "component_type": "навчальна дисципліна",
+    "coder_a": "subject",
+    "coder_b": "statutory"
+  },
+  {
+    "case_id": "16086",
+    "component_name": "Основи лінгвопсихології",
+    "component_type": "навчальна дисципліна",
+    "coder_a": "subject",
+    "coder_b": "pedagogy"
+  },
+  {
+    "case_id": "16105",
+    "component_name": "Підсумкова атестація",
+    "component_type": "підсумкова атестація",
+    "coder_a": "pedagogy",
+    "coder_b": "other"
+  },
+  {
+    "case_id": "16176",
+    "component_name": "Кваліфікаційний екзамен",
+    "component_type": "підсумкова атестація",
+    "coder_a": "pedagogy",
+    "coder_b": "subject"
+  },
+  {
+    "case_id": "16176",
+    "component_name": "Академічна доброчесність та професійна етика",
+    "component_type": "навчальна дисципліна",
+    "coder_a": "subject",
+    "coder_b": "statutory"
+  },
+  {
+    "case_id": "16199",
+    "component_name": "ОК 46. Курсова робота",
+    "component_type": "курсова робота (проект)",
+    "coder_a": "pedagogy",
+    "coder_b": "subject"
+  },
+  {
+    "case_id": "16199",
+    "component_name": "ОК 47. Атестація",
+    "component_type": "підсумкова атестація",
+    "coder_a": "pedagogy",
+    "coder_b": "subject"
+  },
+  {
+    "case_id": "16199",
+    "component_name": "ОК 7. Інклюзивна освіта",
+    "component_type": "навчальна дисципліна",
+    "coder_a": "subject",
+    "coder_b": "statutory"
+  },
+  {
+    "case_id": "16199",
+    "component_name": "ОК 11. Безпека життєдіяльності. Попередження спортивного травматизму",
+    "component_type": "навчальна дисципліна",
+    "coder_a": "subject",
+    "coder_b": "statutory"
+  },
+  {
+    "case_id": "16262",
+    "component_name": "ОК.27. Підсумкова атестація",
+    "component_type": "підсумкова атестація",
+    "coder_a": "pedagogy",
+    "coder_b": "other"
+  },
+  {
+    "case_id": "16286",
+    "component_name": "Курсова робота",
+    "component_type": "курсова робота (проект)",
+    "coder_a": "pedagogy",
+    "coder_b": "subject"
+  },
+  {
+    "case_id": "16286",
+    "component_name": "Атестаційний екзамен із фахової  підготовки",
+    "component_type": "підсумкова атестація",
+    "coder_a": "pedagogy",
+    "coder_b": "subject"
+  },
+  {
+    "case_id": "16286",
+    "component_name": "Основи медичних знань і безпека життєдіяльності",
+    "component_type": "навчальна дисципліна",
+    "coder_a": "subject",
+    "coder_b": "statutory"
+  },
+  {
+    "case_id": "16306",
+    "component_name": "ОК  39. Курсова робота з ботаніки та зоології",
+    "component_type": "курсова робота (проект)",
+    "coder_a": "pedagogy",
+    "coder_b": "subject"
+  },
+  {
+    "case_id": "16306",
+    "component_name": "ОК 10. Провайдинг освітніх технологій",
+    "component_type": "навчальна дисципліна",
+    "coder_a": "subject",
+    "coder_b": "pedagogy"
+  },
+  {
+    "case_id": "16310",
+    "component_name": "ОК  39. Основи психологічної корекції",
+    "component_type": "навчальна дисципліна",
+    "coder_a": "statutory",
+    "coder_b": "pedagogy"
+  },
+  {
+    "case_id": "16310",
+    "component_name": "ОК 42.  Курсова робота з ботаніки та зоології або здоров’язбереження",
+    "component_type": "курсова робота (проект)",
+    "coder_a": "pedagogy",
+    "coder_b": "subject"
+  },
+  {
+    "case_id": "16310",
+    "component_name": "ОК 10. Провайдинг освітніх технологій",
+    "component_type": "навчальна дисципліна",
+    "coder_a": "subject",
+    "coder_b": "pedagogy"
+  },
+  {
+    "case_id": "16324",
+    "component_name": "Курсова робота",
+    "component_type": "курсова робота (проект)",
+    "coder_a": "pedagogy",
+    "coder_b": "subject"
+  },
+  {
+    "case_id": "16324",
+    "component_name": "Підсумкова атестація",
+    "component_type": "підсумкова атестація",
+    "coder_a": "pedagogy",
+    "coder_b": "other"
+  },
+  {
+    "case_id": "16332",
+    "component_name": "А2 Кваліфікаційний іспит зі спеціальності ІІ",
+    "component_type": "підсумкова атестація",
+    "coder_a": "pedagogy",
+    "coder_b": "subject"
+  },
+  {
+    "case_id": "16332",
+    "component_name": "А1 Кваліфікаційний іспит зі спеціальності І",
+    "component_type": "підсумкова атестація",
+    "coder_a": "pedagogy",
+    "coder_b": "subject"
+  },
+  {
+    "case_id": "16332",
+    "component_name": "ОК 9. Педагогіка зі змістовим модулем «Інклюзивна освіта»",
+    "component_type": "навчальна дисципліна",
+    "coder_a": "pedagogy",
+    "coder_b": "statutory"
+  },
+  {
+    "case_id": "16344",
+    "component_name": "Курсова робота з природничих наук",
+    "component_type": "курсова робота (проект)",
+    "coder_a": "pedagogy",
+    "coder_b": "subject"
+  },
+  {
+    "case_id": "16398",
+    "component_name": "ОК 27. Інклюзивна освіта",
+    "component_type": "навчальна дисципліна",
+    "coder_a": "subject",
+    "coder_b": "statutory"
+  },
+  {
+    "case_id": "16398",
+    "component_name": "ОК 38. Курсова робота з біології",
+    "component_type": "курсова робота (проект)",
+    "coder_a": "pedagogy",
+    "coder_b": "subject"
+  },
+  {
+    "case_id": "16398",
+    "component_name": "ОК 39. Курсова робота зі здоров'я людини",
+    "component_type": "курсова робота (проект)",
+    "coder_a": "pedagogy",
+    "coder_b": "subject"
+  },
+  {
+    "case_id": "16425",
+    "component_name": "Базова загальновійськова підготовка",
+    "component_type": "навчальна дисципліна",
+    "coder_a": "subject",
+    "coder_b": "statutory"
+  },
+  {
+    "case_id": "16462",
+    "component_name": "ОК 36. Курсова робота з хімії або біології",
+    "component_type": "курсова робота (проект)",
+    "coder_a": "pedagogy",
+    "coder_b": "subject"
+  },
+  {
+    "case_id": "16462",
+    "component_name": "ОК 10. Провайдинг освітніх технологій",
+    "component_type": "навчальна дисципліна",
+    "coder_a": "subject",
+    "coder_b": "pedagogy"
+  },
+  {
+    "case_id": "16475",
+    "component_name": "Креативні освітні технології",
+    "component_type": "навчальна дисципліна",
+    "coder_a": "subject",
+    "coder_b": "pedagogy"
+  },
+  {
+    "case_id": "16518",
+    "component_name": "Підсумкова атестація",
+    "component_type": "підсумкова атестація",
+    "coder_a": "pedagogy",
+    "coder_b": "other"
+  },
+  {
+    "case_id": "16518",
+    "component_name": "Оглядові лекції",
+    "component_type": "підсумкова атестація",
+    "coder_a": "pedagogy",
+    "coder_b": "subject"
+  },
+  {
+    "case_id": "16518",
+    "component_name": "Курсова робота з історії",
+    "component_type": "курсова робота (проект)",
+    "coder_a": "pedagogy",
+    "coder_b": "subject"
+  },
+  {
+    "case_id": "16545",
+    "component_name": "Підсумкова атестація",
+    "component_type": "підсумкова атестація",
+    "coder_a": "pedagogy",
+    "coder_b": "other"
+  },
+  {
+    "case_id": "16545",
+    "component_name": "Технології виховної роботи",
+    "component_type": "навчальна дисципліна",
+    "coder_a": "subject",
+    "coder_b": "pedagogy"
+  }
+]

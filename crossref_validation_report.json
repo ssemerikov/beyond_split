@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "total_entries": 89,
+    "article_entries": 70,
+    "no_doi": 2,
+    "broken_doi": 0,
+    "entries_with_issues": 0,
+    "auto_fix_candidates": 0
+  },
+  "findings": [],
+  "no_doi": [
+    "Engelbrecht:2015:EnactingUnderstanding",
+    "Goodwin:2010:CurriculumColonizer"
+  ],
+  "broken_doi": []
+}
