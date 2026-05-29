@@ -1,0 +1,30 @@
+{
+  "candidate_id": "14464",
+  "program_name": "Середня освіта (фізика та астрономія)",
+  "degree": "MA",
+  "primary_subject": "Фізика та астрономія (014.08)",
+  "additional_subject": "N/A — single-subject programme",
+  "design": "unclear",
+  "balance_remarks": [
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "ЕГ рекомендує гаранту ОП протягом 2025/2026 навчального року провести перегляд ОП, щодо доповнення освітніми компонентами з астрономії. Оскільки ОП \"Середня освіта (фізика та астрономія)\" а в навчальному плані є лише ОК9 Вибрані питання і технології навчання астрономії.",
+      "gloss_en": "The EG recommends that the programme guarantor review the programme during 2025/2026 to add educational components covering Astronomy, since the programme is titled 'Physics and Astronomy' but the curriculum contains only one astronomy component (OK9).",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": false
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "Така структура програми є збалансованою та відповідає вимогам щодо співвідношення обов'язкової та вибіркової частин освітньо-професійної програми магістерського рівня.",
+      "gloss_en": "The programme structure is balanced and meets requirements regarding the ratio of mandatory to elective parts of the master's level professional programme.",
+      "direction": "neutral",
+      "about_primary_additional_distribution": false
+    }
+  ],
+  "has_balance_remark": false,
+  "decision_outcome": "conditional",
+  "decision_basis": "possibleSolution=2 (conditional-deferred); accreditationDecision=2. Single-subject MA programme; no dual-subject credit distribution issue identified.",
+  "key_finding": "This is a single-subject MA programme in Physics and Astronomy; there is no second subject speciality, so there are no remarks about primary/additional subject credit distribution. The only content-balance remark concerns the underrepresentation of Astronomy relative to Physics within the single speciality (014.08), which is an intra-subject rather than inter-subject balance issue."
+}

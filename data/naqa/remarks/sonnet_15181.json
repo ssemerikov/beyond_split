@@ -1,0 +1,70 @@
+{
+  "candidate_id": "15181",
+  "program_name": "Фізика. Інформатика (мова навчання фахових дисциплін – угорська)",
+  "degree": "BA",
+  "primary_subject": "Фізика та астрономія",
+  "additional_subject": "Інформатика",
+  "design": "symmetric",
+  "balance_remarks": [
+    {
+      "source": "EG",
+      "criterion": "1",
+      "quote_uk": "Чітко артикульовано поєднання двох предметних спеціальностей на засадах паритетності — ОП готує «вчителів фізики та астрономії і інформатики». Це підкреслює унікальність програми та знімає попередні зауваження щодо непрозорості фокусу програми.",
+      "gloss_en": "The combination of two subject specialities on the basis of parity is explicitly articulated — the programme trains 'teachers of physics and astronomy and informatics'. This emphasises the programme's uniqueness and removes previous remarks about the lack of clarity of the programme focus.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "Недостатня інституційна регламентація паритетності міждисциплінарних ОП. Попри кількісне посилення інформатичного складника в ОП-2025, у внутрішніх положеннях ЗВО відсутні чіткі критерії балансу кредитів для програм із двома предметними спеціальностями (014.08 та 014.09), що створює ризик стихійного переважання змісту профільної спеціальності випускової кафедри.",
+      "gloss_en": "Insufficient institutional regulation of parity in interdisciplinary programmes. Despite the quantitative strengthening of the informatics component in the 2025 programme, the university's internal regulations lack clear criteria for credit balance for programmes with two subject specialities (014.08 and 014.09), which creates the risk of spontaneous predominance of the content of the graduating department's profile speciality.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "Дієва реакція на запити ринку праці шляхом вирівнювання міждисциплінарного балансу (посилення ІТ-блоку до 45+ кр. та введення сучасної обчислювальної практики) та реструктуризації системи педагогічних практик",
+      "gloss_en": "Effective response to labour market demands by levelling the interdisciplinary balance (strengthening the IT block to 45+ credits and introducing modern computing practice) and restructuring the system of pedagogical practices.",
+      "direction": "describes_asymmetry",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "ініціювати розробку інституційних критеріїв проєктування міждисциплінарних ОП із поєднаними предметними спеціальностями (014.08 та 014.09). Це надасть гаранту дієві орієнтири для балансування освітніх складників та дозволить ЗВО об'єктивно оцінити доцільність розподілу кредитів між відповідними складниками.",
+      "gloss_en": "Initiate development of institutional criteria for designing interdisciplinary programmes with combined subject specialities (014.08 and 014.09). This will provide the programme guarantor with effective guidelines for balancing educational components and allow the university to objectively assess the appropriateness of credit distribution between the respective components.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "",
+      "quote_uk": "Результативна та якісна реакція на рекомендації попередніх акредитаційних експертиз, що дозволило повністю адаптувати ОП до вимог Професійного стандарту вчителя (вилучення ненормативних кваліфікацій, введення астрономічного складника, вирівнювання міждисциплінарного балансу).",
+      "gloss_en": "Effective and high-quality response to recommendations of previous accreditation reviews, which allowed full adaptation of the programme to the requirements of the Teacher Professional Standard (removal of non-standard qualifications, introduction of the astronomy component, levelling the interdisciplinary balance).",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "",
+      "quote_uk": "Основним зауваженням ГЕР попередньої акредитації була непаритетність кредитонаповнення дисциплін, які спрямовані на опанування предметних спеціальностей 014.08 Фізика та астрономія та 014.09 Інформатика, яке в ОП 2024 р. розробники збільшили обсяг навчальної обчислювальної практики з предметних спеціальностей – фізики (ОК 33) та програмування (ОК 34) – на 1,5 кредитів ЄКТС, відповідно.",
+      "gloss_en": "The main remark of the GER of the previous accreditation was the non-parity of credit content of disciplines directed at mastering subject specialities 014.08 Physics and Astronomy and 014.09 Informatics, which in the 2024 programme the developers increased the volume of the computing practice for both subject specialities — physics (component 33) and programming (component 34) — by 1.5 ECTS credits respectively.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "ГЕР поділяє відзначені ризики ЕГ щодо гранично допустимого обсягу практик для опанування двох предметних спеціальностей і рекомендує її збільшення при наступному оновленні ОП.",
+      "gloss_en": "The GER shares the EG's noted risks regarding the borderline permissible volume of practice for mastering two subject specialities and recommends its increase at the next programme update.",
+      "direction": "neutral",
+      "about_primary_additional_distribution": false
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "accredited",
+  "decision_basis": "possibleSolution=1 (accredit); accreditationDecision=5. Previous accreditation had flagged non-parity; university partially corrected it. EG notes residual risk of spontaneous dominance by the graduating department's speciality but approves, recommending institutional criteria for credit balance in dual-subject programmes.",
+  "key_finding": "Case 15181 is the strongest example of explicit parity pressure in this batch: both GER (previous cycle) and EG explicitly invoked 'паритетність' and 'непаритетність' regarding credit distribution between the two subject specialities, recommending development of institutional criteria for credit balance. The programme self-describes its design as 'паритетне поєднання', directly endorsing a symmetric 50/50 model, which is the exact design this paper critiques."
+}

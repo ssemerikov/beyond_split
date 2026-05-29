@@ -1,0 +1,38 @@
+{
+  "candidate_id": "12248",
+  "program_name": "Середня освіта (Німецька, англійська/польська мови та зарубіжна література)",
+  "degree": "MA",
+  "primary_subject": "Англійська мова та зарубіжна література (014.021)",
+  "additional_subject": "Німецька або польська мова (додаткова спеціалізація)",
+  "design": "asymmetric",
+  "balance_remarks": [
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "На предметну підготовку із історії зарубіжної літератури та порівняльного літературознавства відведено 12 кредитів, предметну підготовку із англійської мови відведено 8 кредитів, 7 кредитів відведено на дисципліни з методик викладання іноземної мови та зарубіжної літератури, 6 кредитів відведено на психолого-педагогічні дисципліни, така ж кількість (6) - на методологію науки та досліджень, 18 кредитів спрямовано на практичну підготовку. На думку ЕГ зазначені обсяги вказують на певний дисбаланс ОПП у бік літературної підготовки здобувачів освіти, проте цей дисбаланс не є критичним і не має негативного впливу на загальну якість підготовки фахівців.",
+      "gloss_en": "The EG provides a full credit-count breakdown: 12 ECTS for world literature/comparative studies, 8 ECTS for English language, 7 ECTS for teaching methodology, 6 ECTS each for pedagogy/psychology and research methodology, 18 ECTS for practice. The EG notes this indicates a certain imbalance toward literary preparation, but judges it non-critical and without negative impact on overall quality.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "5",
+      "quote_uk": "Критерії оцінювання підсумкового іспиту не забезпечують рівних умов для здобувачів освіти, які обрали додаткову спеціальність, та тих, хто її не обрав.",
+      "gloss_en": "The EG finds that the final exam criteria do not provide equal conditions for students who chose the additional subject specialisation versus those who did not — a structural assessment fairness problem arising from the optional additional-subject track.",
+      "direction": "describes_asymmetry",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "5",
+      "quote_uk": "Переглянути систему оцінювання атестаційного іспиту, врахувавши наявність як здобувачів, які обрали додаткову спеціалізацію, так і здобувачів, які цього не зробили",
+      "gloss_en": "The GER requires revision of the attestation exam system to account for the presence of both students who chose the additional specialisation and those who did not — acknowledging the asymmetric optional design and demanding a fair assessment solution.",
+      "direction": "describes_asymmetry",
+      "about_primary_additional_distribution": true
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "accredited",
+  "decision_basis": "possibleSolution=1 (accredit); accreditationDecision=5. Non-critical weaknesses found; all criteria rated B.",
+  "key_finding": "Case 12248 is remarkable for providing a verbatim per-subject ECTS breakdown (12 for literature, 8 for English language) and for the EG explicitly naming an imbalance in favour of literary preparation — yet classifying it as non-critical. The additional-subject track is optional, creating assessment fairness problems that both EG and GER flag, illustrating how optional asymmetric design complicates standardised attestation procedures."
+}

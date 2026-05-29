@@ -1,0 +1,208 @@
+{
+ "id": 16105,
+ "status": {
+  "id": 300,
+  "name": "2.1 Справа на розгляді керівника ЗВО"
+ },
+ "general": {
+  "universityId": 1996,
+  "universityName": "Державний заклад \"Луганський національний університет імені Тараса Шевченка\"",
+  "subUniversityId": null,
+  "partnerUniversityInfo": null,
+  "programName": "Математика. Фізика",
+  "programId": 20897,
+  "languages": [
+   1
+  ],
+  "structureUnit": "Кафедра математики та інформатики навчально-наукового інституту математики та інформаційних технологій",
+  "proQualification": "Вчитель математики та фізики",
+  "guarantName": null,
+  "guarantPosition": "Доцент",
+  "guarantEdeboId": "538844",
+  "ownerName": null,
+  "description": "Освітньо-професійна програма «Математика. Фізика» (далі ОП) створена з метою підготовки висококваліфікованих фахівців в галузях освіти, математики та фізики зі спеціальності 014 Середня освіта (Математика), здатних вирішувати складні задачі та практичні проблеми в галузі фізико-математичної освіти, що характеризуються комплексністю та невизначеністю умов, володіти сучасними методами навчання, застосовувати інноваційні технології в науковій та навчальній діяльності, поповнювати знання протягом усього життя, формувати у здобувачів вищої освіти комплекс загальних та фахових компетентностей для застосування у професійній діяльності.\nПідготовка бакалаврів за спеціальністю 014 Середня освіта (Математика) створює фундамент для рівного доступу українців до сучасної та якісної математичної освіти в східному регіоні України та Полтавській області.\nОПП «Математика. Фізика» розроблена з урахуванням вимог Закону України «Про вищу освіту»; Національної рамки кваліфікацій, затвердженої постановою кабінету Міністрів України від 23.11.2011 р. № 1341 зі змінами від 25.06.2020 р. № 519 та зі змінами і доповненнями, внесеними наказом Міністерства економіки України від 25.10.2021р. № 810; Професійного стандарту за професіями «Вчитель початкових класів закладу загальної середньої освіти», «Вчитель закладу загальної середньої освіти», «Вчитель з початкової освіти (з дипломом молодшого спеціаліста)», наказ Міністерства регіонального розвитку економіки, торгівлі та сільського господарства № 2736-20 від 23.12.2020 р.; Концепції розвитку педагогічної освіти, наказ Міністерства освіти і науки України № 776 від 16.07.2018 р.\nУ 2017 р. було отримано сертифікат про чергову акредитацію спеціальності Середня освіта (Математика) (наказ МОН №1676 від 26.12.2017 р. на підставі наказу МОН №1565 19.12.2016 https://luguniv.edu.ua/Attach/public_info/certificates/specialties/cert_IFMIT_bac.pdf ) для підготовки бакалаврів за спеціальністю 014 Середня освіта (Математика) і вперше введено в дію ОПП «Математика. Фізика». Гарантом програми призначено доцента кафедри математики та інформатики Мурзіну О. А. (Наказ ДЗ «ЛНУ імені Тараса Шевченка» № 155-ОД від 10.12.2025 р., https://luguniv.edu.ua/Attach/public_info/nakazy_guarant_educ_programs/nakaz_guarant_ed_prog_74_od_10_may_2022.pdf ).\nОПП була розроблена у навчально-науковому інституті фізики, математики та інформаційних технологій робочою групою, до складу якої увійшли досвідчені викладачі двох кафедр – кафедри математики та інформатики та кафедри інформаційних технологій та систем, зовнішні стейкхолдери та представники студентського самоврядування, що дозволило максимально врахувати потреби потенційних роботодавців, обізнаних з труднощами, з якими стикається молодий вчитель, та запити здобувачів. Протягом останніх п’яти років ОП неодноразово переглядалася (протокол № 11 від 26.06.2020 р., протокол № 11 від 23.06.2022 р., протокол №12 від 23.06.2023 р.), її зміст корегувався у частині програмних результатів навчання та переліку, змісту й обсягу освітніх компонентів, що зумовлено змінами в системі вищої освіти, передбаченими Законом України «Про вищу освіту» (2014), затвердженням Переліку галузей знань і спеціальностей, за якими здійснюється підготовка здобувачів вищої освіти, затвердженого Професійного стандарту за професіями «Вчитель початкових класів закладу загальної середньої освіти», «Вчитель закладу загальної середньої освіти», «Вчитель з початкової освіти (з дипломом молодшого спеціаліста)» (2020 р.), розвитком України, її статусом і місцем на світовій арені, проблемами у суспільстві та потребами ринку праці. Зміни в ОП 2023 р. (чинна) здебільшого стосуються уточнення обсягу освітніх компонент, які забезпечують практичну підготовку майбутніх вчителів, програмних результатів навчання і фахових компетентностей відповідно до вимог МОН України, а також розробленого проєкту стандарту першого(бакалаврського) рівня вищої освіти спеціальності 014 Середня освіта (за предметними спеціальностями). Програма модернізована в рамках проєкту МОПЕД. «Модернізація педагогічної вищої освіти з використанням інформаційних інструментів викладання» (№586098-EPP-1-2017 1-UA-EPPKA2-CBHE-JP), програми ЄС Erasmus+K2 – розвиток потенціалу вищої освіти. Постійний зв'язок зі стейкхолдерами сприяє оновленню змісту ОП у відповідності до реформ середньої освіти та забезпечує потребу випускників на ринку праці. В ОП передбачене отримання додаткової спеціалізації з «Фізики», що значно збільшує можливості випускників у процевлаштуванні. Окрім спрямованості ОП на формування системи компетентностей з метою ведення професійної і навчальної діяльності в закладах загальної середньої освіти, в освітніх компонентах ОП наявна наукова складова, що забезпечує підготовку здобувачів до науково-дослідної діяльності та є підґрунтям для подальшого навчання за освітніми програмами «Алгебра та теорія чисел» та «Математика» відповідно другого та третього рівнів вищої освіти галузі знань 11 Математика та статистика, які акредитовані та реалізуються в ДЗ «ЛНУ імені Тараса Шевченка». Впродовж шести років фахову підготовку здобувачів першого (бакалаврського) рівня вищої освіти зі спеціальності Середня освіта (Математика) здійснювали дві кафедри – кафедра алгебри та системного аналізу (випускова кафедра) та кафедра фізико-технічних систем та інформатики навчально-наукового інституту фізики, математики та інформаційних технологій. Кафедра алгебри та системного аналізу – спадкоємець математичної освіти, що започаткували у Луганському національному університеті імені Тараса Шевченка такі визначні вчені як Лоповок Л.М. (1916-1992) – видатний педагог-математик, один із творців проблемного навчання та розвиваючої системи вправ з математики та професор, д.ф.-м.н. Усенко В. М. (1951-2006) – відомий український вчений, засновник та редактор наукових журналів «Algebra and discrete mathematics», «Український математичний вісник», керівник алгебраїчної наукової школи (http://luguniv.edu.ua/?page_id=10497 ). Створена у 2002 році кафедра алгебри пережила декілька переформатувань у зв’язку із розширенням кадрового складу і відкриттям нових спеціальностей. Після 2014 року наказом ректора № 1349\\1-ВК від 03.10.2014 кафедрі надано назву «Кафедра алгебри та системного аналізу». Внаслідок укрупнення структурних підрозділів у ДЗ «Луганський національний університет імені Тараса Шевченка» (наказ \"Про зміну назв, ліквідацію, реорганізацію, створення нових структурних підрозділів і переведенняпрацівників\" № 104-ОД від 23.08.2023 р.) 1 грудня 2023 р. на базі кафедри алгебри та системного аналізу та кафедри фізико-технічних систем та інформатики була утворена кафедра математики та інформатики (https://luguniv.edu.ua/?page_id=10419 ) навчально-наукового інституту математики та інформаційних технологій.\nКафедра математики та інформатики має потужний науково-педагогічний колектив, провадить наукову, навчальну, методичну і виховну діяльність з кількох споріднених математичних спеціальностей, веде викладання навчальних математичних дисциплін в університеті для інших спеціальностей, а також здійснює наукову діяльність у галузях математики (алгебра і теорія чисел), методики викладання математики, статистики та системного аналізу. Наукова діяльність кафедри також пов’язана з дослідженнями фізико-механічних полів в полімерах та композитах, використанням інформаційних технологій в різних областях науки, техніки, економіки та освіти, зокрема: системний аналіз і моделювання технічних, економічних, соціальних та інших процесів і об’єктів; управління процесами в галузях економіки, техніки, освіти, туризму; дослідження дискретних математичних структур і комбінаторних схем; дослідження з аналізу даних в соціології, психології, педагогіки; управління якістю дистанційного навчання у вищих навчальних закладах. З метою підвищення ефективності та результативності науково-дослідної діяльності в підрозділах університету на базі навчально-наукового інституту математики та інформаційних технологій створено дослідницьку групу з алгебри (Algebra Research Group), до складу якої увійшли викладачі-математики кафедри математики та інформатики, аспіранти та здобувачі першого та другого рівнів вищої освіти спеціальності Середня освіта (Математика). Науковий напрямок досліджень - \"Алгебра та теорія чисел\".\nПочинаючи з 2014 р., унаслідок російської військової агресії та вимушеної евакуації ЛНУ імені Тараса Шевченка,\nколишні кафедра алгебри та системного аналізу та кафедра фізико-технічних систем та інформатики у складі ННІФМІТ здійснювали освітню діяльність на базі приміщень університету в містах Луганської області: Кремінна, Старобільськ, Рубіжне. Сьогодні на тлі російсько-української війни та в умовах повторної евакуації (Указ Президента України від 24.02.2022 р. №64/2022 «Про введення воєнного стану в Україні», накази по університету від 03.03.2022 р. № 51-ОД «Про переміщення центру управління університетом в умовах воєнного стану», від 10.03.2022 р. № 54 «Про організацію освітнього процесу в умовах воєнного стану») викладачі та студенти університету продовжують освітній процес очно та дистанційно з використанням різних засобів дистанційного (змішаного) навчання (освітнього порталу університету, платформ Microsoft Teams, ZOOM, Google Meet, Classroom) на базі наданих приміщень у містах Полтавської області, а саме: м. Полтава, м. Лубни та м. Миргород. Попри складні умови існування університет демонструє високі показники та посідає провідні позиції в регіоні (http://luguniv.edu.ua/?page_id=31 ). Згідно з наказом МОН України № 372 від 25.03.2021 р. про результати державної атестації ЗВО в частині провадження ними наукової (науково-технічної) діяльності ДЗ ,,Луганський національний університет імені Тараса Шевченка” було атестовано за науковим напрямом ,,Математичні науки та природничі науки” та віднесено за вказаним напрямом до кваліфікаційної групи Б ( http://luguniv.edu.ua/?p=69463 ). На сьогодні випусковою для бакалаврів спеціальності 014 Середня освіта (Математика) є кафедра математики та інформатики. Кафедра в межах угод ДЗ «ЛНУ імені Тараса Шевченка» проводить дослідження у Філіалі інституту прикладної математики та механіки НАН України (директор – А. В. Жучок, доктор фізико-математичних наук, професор), який створено у 2004 р. з метою організації комплексних досліджень з проблем математики та їх застосувань. На базі філіалу здійснюється видавництво Міжнародного математичного журналу «Algebra and Discrete Mathematics» (http://admjournal.luguniv.edu.ua/). Засновником журналу є ДЗ «ЛНУ імені Тараса Шевченка».\nЖурнал входить до наукометричних баз даних Scopus (з 2012 р.) та Emerging Sources Citation Index (Web of Science) (з\n2016 р.). Згідно з наказом МОН України № 1413 від 24.10.2017 видання успішно пройшло перереєстрацію і було включене до списку наукових фахових видань України. Згідно з наказом МОН України № 612 від 07.05.2019 журнал\n«Algebra and Discrete Mathematics» включено до категорії «А» нового Переліку наукових фахових видань України. Журнал також реферується в таких всесвітніх базах наукових видань, як Mathematical Reviews, Zentralblatt Math, Реферативний журнал. Крім того, укладено договори про співробітництво з науковими та освітніми установами, необхідні для здійснення освітньої і наукової діяльності. Співробітництво кафедри у викладацькій та науковій галузях підтверджується відповідними угодами та договорами:\n1.\tІнститут математики НАН України, м. Київ. (Угода про науково-технічне співробітництво 2016 рік).\n2.\tСумський державний педагогічний університет імені А. С. Макаренка (Угода про проведення практики аспірантів та магістрантів).\n3.\tЧеркаська спеціалізована школа І-ІІІ ступенів №33 імені В. Симоненка Черкаської міської ради Черкаської області (договір про співробітництво, 2022 р.).\n4.\tКиївський національний університет імені Тараса Шевченка (впровадження наукових результатів, механіко- математичний факультеті Київського національного університету імені Тараса Шевченка).\n5.\tНаціональний університет біоресурсів і природокористування (м. Київ) (впровадження результатів на факультеті інформаційних технологій).\n6.\tХарківський національний педагогічний університет імені Григорія Сковороди (впровадження наукових результатів, фізико-математичний факультет Харківського національного педагогічного університету імені Григорія Сковороди).\n7.\tКУ \"Комишуваський ліцей\" Попаснянської міської територіальної громади Луганської області (Довгострокова угода №35 від 16.02.2024).\n",
+  "accreditationId": 19553,
+  "universityRegNumber": "81",
+  "educationalDegrees": [
+   1
+  ],
+  "otherUnit": "Факультет соціальних і гуманітарних наук (кафедра історії та археології, кафедра філософії та соціології, кафедра української мови і журналістики, кафедра іноземних мов); факультет охорони здоров'я і спорту (кафедра охорони здоров’я і реабілітації); факультет педагогіки і психології (кафедра спеціальної освіти, кафедра психології, кафедра педагогіки)",
+  "locationEducationalActivity": "вул. Івана Банка, 3, Полтава; вул. Старосвітська, б. 52/15, Миргород, Полтавська область",
+  "isProQualification": true,
+  "corporateEmailByGuarantor": null,
+  "phoneByGuarantor": null,
+  "addPhoneByGuarantor": null,
+  "generalAll": 64039,
+  "generalOwn": 44684,
+  "generalRented": 19355,
+  "generalRentedOut": 955,
+  "trainingAll": 25455,
+  "trainingOwn": 13828,
+  "trainingRented": 11627,
+  "trainingRentedOut": 0,
+  "isRestrictedInformation": null,
+  "restrictedInformation": [],
+  "educationForms": [
+   {
+    "educationFormId": 3,
+    "termStudy": [
+     3,
+     10
+    ]
+   },
+   {
+    "educationFormId": 1,
+    "termStudy": [
+     3,
+     10
+    ]
+   }
+  ],
+  "educationApplicants": {
+   "foreignPeople": [
+    {
+     "id": 1,
+     "name": "очна денна",
+     "students": [
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      }
+     ]
+    },
+    {
+     "id": 3,
+     "name": "заочна",
+     "students": [
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      }
+     ]
+    }
+   ],
+   "studentsContingent": [
+    {
+     "id": 1,
+     "name": "очна денна",
+     "students": [
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      },
+      {
+       "value": 8
+      },
+      {
+       "value": 10
+      }
+     ]
+    },
+    {
+     "id": 3,
+     "name": "заочна",
+     "students": [
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      }
+     ]
+    }
+   ],
+   "studyYearInformation": [
+    {
+     "year": "2025 - 2026",
+     "totalStudents": 80
+    },
+    {
+     "year": "2024 - 2025",
+     "totalStudents": 80
+    },
+    {
+     "year": "2023 - 2024",
+     "totalStudents": 80
+    },
+    {
+     "year": "2022 - 2023",
+     "totalStudents": 80
+    }
+   ]
+  },
+  "additionFiles": [],
+  "educationFiles": [
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "NjfVzr0484ivHot0i8sv4raKjfrXhhl8lCpbiL05ZYg=",
+    "sign": "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",
+    "id": 3837038,
+    "name": "ОП_Бак_СО_Математика.pdf.pdf"
+   }
+  ],
+  "studyFiles": [
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "C4lZ37HFOsdCUnqF2lBjl+Tfh9sf1p1YjIg51bPe7II=",
+    "sign": "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",
+    "id": 3837040,
+    "name": "НП_Бак_СО_Математика_дфн.pdf"
+   },
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "WSYQJR2vys/IQPlwFakvi+zEGFM+Fhh/A3qTJT7/Bgc=",
+    "sign": "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",
+    "id": 3837041,
+    "name": "НП_Бак_СО_Математика_зфн.pdf"
+   }
+  ],
+  "feedbackFiles": [
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "chPnVBm+2+vbO8iIh7j/7BHCIFvGg9z8E6q6NPNRq3g=",
+    "sign": "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",
+    "id": 3837066,
+    "name": "Рецензія_Одінцова ОО.pdf"
+   },
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "Qav33pwH7f8soQPK3I9rPsxTKNA+S982KT9UVWcx7gg=",
+    "sign": "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",
+    "id": 3837067,
+    "name": "Рецензія_Коваленко ОП.pdf"
+   }
+  ],
+  "isMilitaryUniversity": null,
+  "isNextYear": null,
+  "typeEducationalProgram": 1
+ }
+}

@@ -1,0 +1,22 @@
+{
+  "candidate_id": "13945",
+  "program_name": "Середня освіта. Англійська та друга іноземна мови. Зарубіжна література",
+  "degree": "BA",
+  "primary_subject": "Англійська мова та зарубіжна література",
+  "additional_subject": "Друга іноземна мова (German/French)",
+  "design": "unclear",
+  "balance_remarks": [
+    {
+      "source": "EG",
+      "criterion": "1",
+      "quote_uk": "у ТНПУ імені Володимира Гнатюка – в ОП Середня освіта (Англійська мова, німецька/французька мови та літератури, зарубіжна література) також вивчається англійська та друга іноземна мова та відповідні теоретичні курси цих мов, проте розподіл кредитів не є збалансованим, на відміну від НП ОП, яка акредитується",
+      "gloss_en": "At Ternopil National Pedagogical University – in the programme Secondary Education (English, German/French languages and literatures, foreign literature) English and the second foreign language are also studied along with their corresponding theory courses, but the credit distribution is not balanced, unlike the curriculum of the programme being accredited.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "conditional",
+  "decision_basis": "possibleSolution=1 but accreditationDecision=2 (conditional). EG found substantive violations relating to students admitted on NQF Level 5 receiving 120-credit diplomas instead of 240, and mixed-group language learning preventing adequate competency achievement. Balance between the two language subjects was not a critical deficiency in this case.",
+  "key_finding": "Case 13945 contains one balance-related remark, but it is framed positively: the accredited programme (VNU) is praised for having a balanced credit distribution between the two languages, explicitly contrasting it with TNPU's unbalanced distribution. This inverts the usual direction — here the programme under review is presented as a positive comparator for subject-credit balance, suggesting that balanced (approximately equal) credit distribution between the primary and additional language was viewed as a quality indicator by the EG."
+}

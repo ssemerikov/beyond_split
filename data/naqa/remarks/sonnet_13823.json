@@ -1,0 +1,86 @@
+{
+  "candidate_id": "13823",
+  "program_name": "Середня освіта (Трудове навчання та технології, інформатика)",
+  "degree": "BA",
+  "primary_subject": "Трудове навчання та технології",
+  "additional_subject": "Інформатика",
+  "design": "asymmetric",
+  "balance_remarks": [
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "встановлення паритетності обсягу кредитів на інформатичну та технологічну підготовку (підкритерій 2.2.)",
+      "gloss_en": "Establishing parity of the volume of credits for informatics and technology preparation (sub-criterion 2.2).",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "Особливу увагу ЕГ звертає на низьку паритетність між блоками «Технологій» та «Інформатики». СВЗЯО недолік не виявила. За свідченням гаранта та членів робочої групи до блоку технологій включено ряд ОК («Основи наукових досліджень», «Теорія і методика позашкільної освіти», «Комп'ютерна графіка»), які відносяться до загальної підготовки. Однак, навіть за таких умов, співвідношення між технологічною та інформатичною підготовкою складає 68 та 31 кредитів ЄКТС, що на думку ЕГ є недоліком даної ОП.",
+      "gloss_en": "The EG draws particular attention to the low parity between the 'Technologies' and 'Informatics' blocks. The internal quality assurance system did not identify this deficiency. According to the guarantor and project team, several components ('Foundations of Scientific Research', 'Theory and Methodology of Extracurricular Education', 'Computer Graphics') are included in the technology block as general preparation. However, even under these conditions, the ratio between technology and informatics preparation is 68 to 31 ECTS credits, which the EG considers a deficiency of this programme.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "ОП потребує встановлення паритету обсягу кредитів ЄКТС на забезпечення технологічної та інформатичної складових підготовки",
+      "gloss_en": "The programme requires establishing parity of ECTS credit volume for technology and informatics preparation components.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "Співвідношення кредитів обов'язкових ОК предметної спеціальності 014.10 Середня освіта (Технології) до обов'язкових ОК предметної спеціальності 014.09 Середня освіта (Інформатика) становить 82 до 31, що свідчить про непаритетний розподіл навчального навантаження між двома предметними спеціальностями.",
+      "gloss_en": "The ratio of credits of mandatory components for subject speciality 014.10 Secondary Education (Technologies) to mandatory components for subject speciality 014.09 Secondary Education (Informatics) is 82 to 31, which indicates a non-parity distribution of the educational workload between the two subject specialities.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "Такий необґрунтований розподіл кредитів за предметними спеціальностями може засвідчити недостатню фахову підготовку з інформатики, що не відповідає концепції подвійної спеціальності та не забезпечує рівноцінного розвитку професійних компетентностей у межах обох предметних галузей.",
+      "gloss_en": "Such an unjustified distribution of credits by subject specialities may indicate insufficient professional preparation in informatics, which does not correspond to the concept of dual speciality and does not ensure equal development of professional competencies within both subject areas.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "Необхідно переглянути структуру ОПП2025 та НП2025 з метою досягнення збалансованого співвідношення обсягів ОК кожної предметної спеціальності відповідно до Наказу МОН України від 21.03.2025 №482, «Про внесення змін до Вимог до міждисциплінарних освітніх (наукових) програм»",
+      "gloss_en": "It is necessary to review the structure of the 2025 programme and curriculum with the aim of achieving a balanced ratio of component volumes for each subject speciality in accordance with Order of the Ministry of Education and Science of Ukraine No. 482 of 21.03.2025 'On Amendments to the Requirements for Interdisciplinary Educational (Scientific) Programmes'.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "В змісті проєкту ОПП2025 необхідно урівноважити загальні обсяги ОК за технологічного та інформатичного спрямування.",
+      "gloss_en": "In the content of the 2025 programme draft, it is necessary to equalise the overall volumes of components in the technology and informatics directions.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "Доцільно переглянути перелік ОК й структуру ОПП і навчального плану з метою досягнення більш збалансованого співвідношення обсягів навчальних дисциплін кожної предметної спеціальності",
+      "gloss_en": "It is appropriate to review the list of components and the structure of the programme and curriculum with the aim of achieving a more balanced ratio of volumes of educational disciplines for each subject speciality.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "Взявши до уваги відповідь ДДПУ на звіт ЕГ, ГЕР вважає її обґрунтованою окрім «ОП потребує встановлення паритету обсягу кредитів ЄКТС на забезпечення технологічної та інформатичної складових підготовки»",
+      "gloss_en": "Taking into account DDPU's response to the EG report, GER considers it justified except for the point 'The programme requires establishing parity of ECTS credit volume for technology and informatics preparation components'.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "conditional",
+  "decision_basis": "possibleSolution=1 but accreditationDecision=2 (conditional). EG rated criterion 2 at level E (failure) for significant deficiencies including the 68:31 credit ratio between Technologies and Informatics. GER explicitly cited the 82:31 ratio and referenced MES Order No. 482 of 21.03.2025 requiring balanced distribution in interdisciplinary programmes. University response attempted to justify the imbalance but GER rejected that justification on the balance point.",
+  "key_finding": "Case 13823 provides the most explicit and strongly worded parity demand in this batch: GER documented an 82:31 credit ratio between the two subject specialities as 'непаритетний розподіл' (non-parity distribution), stated it does not correspond to the 'концепції подвійної спеціальності' (dual-speciality concept), and cited a specific regulatory basis (MES Order No. 482/2025) requiring balanced ratios. This directly contradicts the asymmetric Major/Minor model this paper argues for, applying a normative parity expectation derived from a ministerial order."
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_id": "15556",
+  "program_name": "Середня освіта (Польська мова і література, українська мова і література)",
+  "degree": "BA",
+  "primary_subject": "Польська мова і зарубіжна література (014.028)",
+  "additional_subject": "Українська мова і література (014.01)",
+  "design": "asymmetric",
+  "balance_remarks": [
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "на укр. мову – 22 кредити. На ОК2.20- ОК2.22, ОК2.1-2.2 покладено формування професійно-методичних умінь вчителів. предметно-фахову підготовку з української мови – 22 кред., з укр. літератури – 16 кр., на заруб. та польську літ.16 кр., польську мову 32 кр.",
+      "gloss_en": "The Ukrainian language receives 22 credits. Subject-speciality preparation: Ukrainian language – 22 cr., Ukrainian literature – 16 cr., foreign and Polish literature – 16 cr., Polish language – 32 cr.",
+      "direction": "credit_split_statement",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "Спостерігаємо дещо нерівномірний кредитний вимір лінгвістичної предметної підготовки, зокрема предметна підготовка з української мови становить 19 кред., предметна підготовка з польської мови становить 32 кред.",
+      "gloss_en": "We observe a somewhat uneven credit measure of linguistic subject preparation: subject preparation in Ukrainian language amounts to 19 credits, while subject preparation in Polish language amounts to 32 credits.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "Гаранту та робочій групі ОП до початку 2026-2027 н.р. рекомендуємо збільшити кредитний обсяг предметної підготовки з української мови.",
+      "gloss_en": "We recommend that the programme guarantor and working group increase the credit volume for subject preparation in the Ukrainian language before the start of the 2026–2027 academic year.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "accredited",
+  "decision_basis": "possibleSolution=1 (accredit); accreditationDecision=5. No substantial deficiencies; previously conditionally accredited programme now passed. GER noted uneven credit distribution (Polish 32 vs Ukrainian 19 language credits) and recommended increase.",
+  "key_finding": "The GER identified an asymmetry between the primary subject (Polish, 32 credits) and the additional subject (Ukrainian, 19 credits) in language preparation, characterising it as 'somewhat uneven' and recommending an increase in Ukrainian-language credits. This represents a direct GER-level pressure toward a more balanced distribution between the two subject specialisations, even while the programme was ultimately accredited."
+}

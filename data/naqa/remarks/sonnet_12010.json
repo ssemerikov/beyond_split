@@ -1,0 +1,30 @@
+{
+  "candidate_id": "12010",
+  "program_name": "Середня освіта (Хімія, Біологія та здоров'я людини)",
+  "degree": "MA",
+  "primary_subject": "Хімія",
+  "additional_subject": "Біологія та здоров'я людини",
+  "design": "unclear",
+  "balance_remarks": [
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "На думку ЕГ, варто було б збільшити обсяг ОК, які забезпечують складник \"Здоров'я людини\", більше звертати увагу не на історію та розвиток здоров'язбереження, а на біолого-медичні та психолого-соціальні аспекти здоров'я людини.",
+      "gloss_en": "In the EG's view, it would be worthwhile to increase the volume of educational components covering the 'Human Health' constituent, paying more attention to the biomedical and psychosocial aspects of human health rather than the history and development of health preservation.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "Забезпечити шляхом введення окремих ОК/тем у вже існуючих ОК досягнення ПРН, що стосуються викладання здоров'я людини у ЗЗСО та ЗВО. Додати до програм виробничих практик завдання, що стосуються викладання здоров'я людини у ЗЗСО та ЗВО.",
+      "gloss_en": "Ensure achievement of LOs relating to teaching Human Health in secondary and higher education by introducing separate educational components or topics in existing ones. Add tasks relating to teaching Human Health to the practical training programmes.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": true
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "conditional",
+  "decision_basis": "possibleSolution=2 (conditional-deferred); accreditationDecision=2; ОП відповідає критеріям з недоліками, що потребують усунення",
+  "key_finding": "The Expert Group and GER both criticise the under-representation of the 'Human Health' constituent within the three-part qualification (Chemistry + Biology + Human Health), recommending its expansion through dedicated educational components and practice tasks. While not framed as a primary-vs-additional binary, this shows accreditors applying pressure to strengthen a weaker third-component, analogous to asymmetry concerns. This is the only conditional outcome in the batch."
+}

@@ -1,0 +1,214 @@
+{
+ "id": 13945,
+ "status": {
+  "id": 800,
+  "name": "6.1 Програма візиту направлена на погодження до ЗВО"
+ },
+ "general": {
+  "universityId": 1917,
+  "universityName": "Волинський національний університет імені Лесі Українки",
+  "subUniversityId": null,
+  "partnerUniversityInfo": null,
+  "programName": "Середня освіта. Англійська та друга іноземна мови. Зарубіжна література",
+  "programId": 50478,
+  "languages": [
+   1,
+   10,
+   2,
+   9
+  ],
+  "structureUnit": "Кафедра практики англійської мови, кафедра англійської філології",
+  "proQualification": null,
+  "guarantName": null,
+  "guarantPosition": "Доцент",
+  "guarantEdeboId": "253822",
+  "ownerName": null,
+  "description": "Історія становлення освітньої програми (далі – ОП) безпосередньо пов’язана з реорганізацією Луцького державного педагогічного інституту імені Лесі Українки та зі створенням у 1993 р. кафедри практики англійської мови як структурного підрозділу ВДУ імені Лесі Українки. Засновниками кафедри були Гороть Є. І., Мудрик Л. В., Єфремова Н. В. У 1994/1995 н. р. здійснено перший набір на спеціальність Мова і література (англійська). За час існування кафедри якісний показник викладацького складу покращився: з 13 викладачів - 1 доктор філологічних наук, професор, 1 кандидат філологічних наук, професор, 10 кандидатів філологічних наук, доцентів, 1 кандидат педагогічних наук, доцент. У 2016 р. було розмежовано спеціальності 014 Середня освіта і 035 Філологія та розпочато навчання за ОП Середня освіта. Англійська мова. У 2023 р. розроблено ОПП Середня освіта. Англійська та друга іноземна мови. Зарубіжна література. Специфікою ОП є вивчення блоку дисциплін методичного спрямування в галузі знань 01 Освіта / Педагогіка предметної спеціальності 014.02 Середня освіта (Мова та зарубіжна література) спеціалізації Англійська мова та зарубіжна література. Незмінною складовою освітньої діяльності на ОП є фокус уваги на всебічній професійній та інтелектуальній підготовці вчителів англійської та німецької/французької мов, зарубіжної літератури, що передбачає інтеграцію лінгвістичного, літературознавчого аспектів та педагогічного спрямування на навчання мови та зарубіжної літератури. Таке поєднання має на меті підготовку, розвиток та удосконалення фахівців, що майстерно володіють англійською та німецькою/французькою мовами і зарубіжною літературою, практично втілюють стратегії розвитку й освітньої діяльності провідного закладу вищої освіти Волині. За відсутності Стандарту вищої освіти для першого (бакалаврського) рівня за спеціальністю 014 Середня освіта ОП було розроблено з урахуванням модерних тенденцій в освіті, що корелюють з Концепцією Нової української школи, Концепцією розвитку педагогічної освіти, рецензій роботодавців. Після публічного обговорення ОП було долучено зміни, аби передусім врахувати вимоги регіонального ринку праці та подані пропозиції. Представлені зміни інтегрували досвід вітчизняних та зарубіжних ОП та взяли до уваги рекомендації представників студентської спільноти й роботодавців. Заходи, спрямовані на вдосконалення ОП, сприяли її модернізації та перегляду загальних і фахових компетентностей у їх взаємодії, розширили перелік вибіркових ОК, який представлено в загальноуніверситетському електронному Каталозі вибіркових освітніх компонентів, що сприяє формуванню індивідуальної освітньої траєкторії ЗО. Позитивні відгуки стейкголдерів та здобувачів освіти сприяли затвердженню ОП вченою радою факультету іноземної філології (протокол № 12 від 20.06.2023 р.) та Вченою радою ВНУ імені Лесі Українки (протокол № 8 від 29.06.2023 р.). ОП було перезатверджено Вченою радою ВНУ імені Лесі Українки (протокол № 8 від 20.06.2024 р.).\n *Волинський національний університет (ВНУ) імені Лесі Українки є правонаступником Східноєвропейського національного університету імені Лесі Українки (Наказ Міністерства освіти і науки України від 17.08.2020 р. №1057).",
+  "accreditationId": 16265,
+  "universityRegNumber": "44",
+  "educationalDegrees": [
+   4,
+   1,
+   2,
+   3
+  ],
+  "otherUnit": "Кафедра прикладної лінгвістики, кафедра німецької філології, кафедра романської філології, кафедра української мови та лінгводидактики, кафедра фізіології людини і тварин, кафедра загальної педагогіки та дошкільної освіти, кафедра педагогічної та вікової психології, кафедра спеціальної та інклюзивної освіти, кафедри теорії літератури та зарубіжної літератури",
+  "locationEducationalActivity": "м. Луцьк, 43025, пр. Волі, 13 (корпус А); вул. Потапова (Банкова), 9 (корпус С); вул. Винниченка, 30 (корпус В); вул. Винниченка, 30а (корпус Н)",
+  "isProQualification": false,
+  "corporateEmailByGuarantor": null,
+  "phoneByGuarantor": null,
+  "addPhoneByGuarantor": null,
+  "generalAll": 99601,
+  "generalOwn": 99601,
+  "generalRented": 0,
+  "generalRentedOut": 1937,
+  "trainingAll": 21069,
+  "trainingOwn": 21069,
+  "trainingRented": 0,
+  "trainingRentedOut": 0,
+  "isRestrictedInformation": null,
+  "restrictedInformation": [],
+  "educationForms": [
+   {
+    "educationFormId": 3,
+    "termStudy": [
+     3,
+     10
+    ]
+   },
+   {
+    "educationFormId": 1,
+    "termStudy": [
+     3,
+     10
+    ]
+   }
+  ],
+  "educationApplicants": {
+   "foreignPeople": [
+    {
+     "id": 1,
+     "name": "очна денна",
+     "students": [
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      }
+     ]
+    },
+    {
+     "id": 3,
+     "name": "заочна",
+     "students": [
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      }
+     ]
+    }
+   ],
+   "studentsContingent": [
+    {
+     "id": 1,
+     "name": "очна денна",
+     "students": [
+      {
+       "value": 30
+      },
+      {
+       "value": 32
+      },
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      }
+     ]
+    },
+    {
+     "id": 3,
+     "name": "заочна",
+     "students": [
+      {
+       "value": 6
+      },
+      {
+       "value": 27
+      },
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      }
+     ]
+    }
+   ],
+   "studyYearInformation": [
+    {
+     "year": "2024 - 2025",
+     "totalStudents": 95
+    },
+    {
+     "year": "2023 - 2024",
+     "totalStudents": 60
+    },
+    {
+     "year": "2022 - 2023",
+     "totalStudents": 0
+    },
+    {
+     "year": "2021 - 2022",
+     "totalStudents": 0
+    }
+   ]
+  },
+  "additionFiles": [],
+  "educationFiles": [
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "9CN6mmzkIsGEu0T468zN8Ox+5Kni0b8g1NQuB5chrh0=",
+    "sign": "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",
+    "id": 3685395,
+    "name": "ОПП_СО_Англ_мова_Зар_літ_2024.pdf"
+   }
+  ],
+  "studyFiles": [
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "gabbOOJ5mXH4SDp86ZKC+C0t2w1VgUMpT5/AwLYuxyk=",
+    "sign": "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",
+    "id": 3685394,
+    "name": "014 СО ДФН (бак) 2024 р. (1).pdf"
+   }
+  ],
+  "feedbackFiles": [
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "dOIgTadyYj0h3RHxbiIOXkSQZYUqu+74sq21hCwzklQ=",
+    "sign": "MIIJ0QYJKoZIhvcNAQcCoIIJwjCCCb4CAQExDjAMBgoqhiQCAQEBAQIBMAsGCSqGSIb3DQEHAaCCBsAwgga8MIIGZKADAgECAhQ/qpKINY7AAwQAAACx+y0AnZXZADANBgsqhiQCAQEBAQMBATCBujFIMEYGA1UECgw/0JTQtdGA0LbQsNCy0L3QsCDQv9C+0LTQsNGC0LrQvtCy0LAg0YHQu9GD0LbQsdCwINCj0LrRgNCw0ZfQvdC4MRowGAYDVQQDDBHQmtCd0JXQlNCfINCU0J/QoTEZMBcGA1UEBRMQVUEtNDMwMDUzOTMtMDUyMjELMAkGA1UEBhMCVUExETAPBgNVBAcMCNCa0LjRl9CyMRcwFQYDVQRhDA5OVFJVQS00MzAwNTM5MzAeFw0yNDEwMDEwODU1MTNaFw0yNjEwMDEwODU1MTNaMIIBZzFyMHAGA1UECgxp0JLQntCb0JjQndCh0KzQmtCY0Jkg0J3QkNCm0IbQntCd0JDQm9Cs0J3QmNCZINCj0J3QhtCS0JXQoNCh0JjQotCV0KIg0IbQnNCV0J3QhiDQm9CV0KHQhiDQo9Ca0KDQkNCH0J3QmtCYMTkwNwYDVQQDDDDQptGM0L7RgdGMINCQ0L3QsNGC0L7Qu9GW0Lkg0JLQsNGB0LjQu9GM0L7QstC40YcxEzARBgNVBAQMCtCm0YzQvtGB0YwxLjAsBgNVBCoMJdCQ0L3QsNGC0L7Qu9GW0Lkg0JLQsNGB0LjQu9GM0L7QstC40YcxGTAXBgNVBAUTEFRJTlVBLTI0MTA4MDYyMzUxCzAJBgNVBAYTAlVBMRMwEQYDVQQHDArQm9GD0YbRjNC6MRswGQYDVQQIDBLQktC+0LvQuNC90YHRjNC60LAxFzAVBgNVBGEMDk5UUlVBLTAyMTI1MTAyMIHyMIHJBgsqhiQCAQEBAQMBATCBuTB1MAcCAgEBAgEMAgEABCEQvuPbauqeH4ZXjEXBJZT/lCOUp9c4+Rh+ZRUBcpT0zgECIQCAAAAAAAAAAAAAAAAAAAAAZ1khOvGC6YfT4XcUkH1HDQQhtg/S2NzoqTQjxhAbypHEegB+bDALJs1VbJsOfSDvKSoABECp1utF8TxwgoDElnsjH16t9ljrpMA3KR042WvwJcpOF/jpcg3GFbQ6KJdfC8Heo2Q4tWTqLBef0BI+bbj6xXkEAyQABCHEjIxUD547fsAPSAcTLj7Toxs/ypUVKAYgqo8TVbt9LQGjggL5MIIC9TApBgNVHQ4EIgQgHDEWhXEvMh9xANZd+qgB+ZTozPNM7LeqSmQNN1BXTAIwKwYDVR0jBCQwIoAgv6qSiDWOwAMbou9sLfNph6SNehL7yzdAqSbhpYZ3LqMwDgYDVR0PAQH/BAQDAgbAMEUGA1UdIAQ+MDwwOgYJKoYkAgEBAQICMC0wKwYIKwYBBQUHAgEWH2h0dHBzOi8vY2EudGF4Lmdvdi51YS9yZWdsYW1lbnQwCQYDVR0TBAIwADBrBggrBgEFBQcBAwRfMF0wCAYGBACORgEBMC0GBgQAjkYBBTAjMCEWG2h0dHBzOi8vY2EudGF4Lmdvdi51YS9hYm91dBMCZW4wFQYIKwYBBQUHCwIwCQYHBACL7EkBATALBgkqhiQCAQEBAgEwHgYDVR0RBBcwFaATBgorBgEEAYI3FAIDoAUMAzk5OTBLBgNVHR8ERDBCMECgPqA8hjpodHRwOi8vY2EudGF4Lmdvdi51YS9kb3dubG9hZC9jcmxzL0NBLUJGQUE5Mjg4LUZ1bGwtUzIuY3JsMEwGA1UdLgRFMEMwQaA/oD2GO2h0dHA6Ly9jYS50YXguZ292LnVhL2Rvd25sb2FkL2NybHMvQ0EtQkZBQTkyODgtRGVsdGEtUzIuY3JsMIGLBggrBgEFBQcBAQR/MH0wLwYIKwYBBQUHMAGGI2h0dHA6Ly9jYS50YXguZ292LnVhL3NlcnZpY2VzL29jc3AvMEoGCCsGAQUFBzAChj5odHRwOi8vY2EudGF4Lmdvdi51YS9kb3dubG9hZC9jZXJ0aWZpY2F0ZXMvYWxsYWNza2lkZC0yMDIyLnA3YjA+BggrBgEFBQcBCwQyMDAwLgYIKwYBBQUHMAOGImh0dHA6Ly9jYS50YXguZ292LnVhL3NlcnZpY2VzL3RzcC8wQwYDVR0JBDwwOjAaBgwqhiQCAQEBCwEEAgExChMIMDIxMjUxMDIwHAYMKoYkAgEBAQsBBAEBMQwTCjI0MTA4MDYyMzUwDQYLKoYkAgEBAQEDAQEDQwAEQF7ekJzo8Kry/QXlaCTkVr4ietHpzSj8wK1P61ae/JVZMmh+JphAU604jrqx9qtDO5UM+WpETQhWbJwmjdmCozkxggLWMIIC0gIBATCB0zCBujFIMEYGA1UECgw/0JTQtdGA0LbQsNCy0L3QsCDQv9C+0LTQsNGC0LrQvtCy0LAg0YHQu9GD0LbQsdCwINCj0LrRgNCw0ZfQvdC4MRowGAYDVQQDDBHQmtCd0JXQlNCfINCU0J/QoTEZMBcGA1UEBRMQVUEtNDMwMDUzOTMtMDUyMjELMAkGA1UEBhMCVUExETAPBgNVBAcMCNCa0LjRl9CyMRcwFQYDVQRhDA5OVFJVQS00MzAwNTM5MwIUP6qSiDWOwAMEAAAAsfstAJ2V2QAwDAYKKoYkAgEBAQECAaCCAZYwGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUwMTE1MTQwNjI0WjAvBgkqhkiG9w0BCQQxIgQgdOIgTadyYj0h3RHxbiIOXkSQZYUqu+74sq21hCwzklQwggEpBgsqhkiG9w0BCRACLzGCARgwggEUMIIBEDCCAQwwDAYKKoYkAgEBAQECAQQgktbteord++ZWVW3fRldO2V2vhVNU0sXfLnb75d2hoT4wgdkwgcCkgb0wgboxSDBGBgNVBAoMP9CU0LXRgNC20LDQstC90LAg0L/QvtC00LDRgtC60L7QstCwINGB0LvRg9C20LHQsCDQo9C60YDQsNGX0L3QuDEaMBgGA1UEAwwR0JrQndCV0JTQnyDQlNCf0KExGTAXBgNVBAUTEFVBLTQzMDA1MzkzLTA1MjIxCzAJBgNVBAYTAlVBMREwDwYDVQQHDAjQmtC40ZfQsjEXMBUGA1UEYQwOTlRSVUEtNDMwMDUzOTMCFD+qkog1jsADBAAAALH7LQCdldkAMA0GCyqGJAIBAQEBAwEBBEA5HiLVAu6JVZiVIC4Ef91FZ02Tz4OOtQ1WuCyHTrj5YHv/ybNuyxujrl/7it8l5rz9LM/h8sQRWMSivyAanNF+",
+    "id": 3685396,
+    "name": "Витяг з протоколу про затвердження ОПП зі змінами 2024.pdf"
+   },
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "nw8SPQYz4hPwMO1TcsxYZKi8o2lvdsnhpeKKtE7dZcA=",
+    "sign": "MIIJ0QYJKoZIhvcNAQcCoIIJwjCCCb4CAQExDjAMBgoqhiQCAQEBAQIBMAsGCSqGSIb3DQEHAaCCBsAwgga8MIIGZKADAgECAhQ/qpKINY7AAwQAAACx+y0AnZXZADANBgsqhiQCAQEBAQMBATCBujFIMEYGA1UECgw/0JTQtdGA0LbQsNCy0L3QsCDQv9C+0LTQsNGC0LrQvtCy0LAg0YHQu9GD0LbQsdCwINCj0LrRgNCw0ZfQvdC4MRowGAYDVQQDDBHQmtCd0JXQlNCfINCU0J/QoTEZMBcGA1UEBRMQVUEtNDMwMDUzOTMtMDUyMjELMAkGA1UEBhMCVUExETAPBgNVBAcMCNCa0LjRl9CyMRcwFQYDVQRhDA5OVFJVQS00MzAwNTM5MzAeFw0yNDEwMDEwODU1MTNaFw0yNjEwMDEwODU1MTNaMIIBZzFyMHAGA1UECgxp0JLQntCb0JjQndCh0KzQmtCY0Jkg0J3QkNCm0IbQntCd0JDQm9Cs0J3QmNCZINCj0J3QhtCS0JXQoNCh0JjQotCV0KIg0IbQnNCV0J3QhiDQm9CV0KHQhiDQo9Ca0KDQkNCH0J3QmtCYMTkwNwYDVQQDDDDQptGM0L7RgdGMINCQ0L3QsNGC0L7Qu9GW0Lkg0JLQsNGB0LjQu9GM0L7QstC40YcxEzARBgNVBAQMCtCm0YzQvtGB0YwxLjAsBgNVBCoMJdCQ0L3QsNGC0L7Qu9GW0Lkg0JLQsNGB0LjQu9GM0L7QstC40YcxGTAXBgNVBAUTEFRJTlVBLTI0MTA4MDYyMzUxCzAJBgNVBAYTAlVBMRMwEQYDVQQHDArQm9GD0YbRjNC6MRswGQYDVQQIDBLQktC+0LvQuNC90YHRjNC60LAxFzAVBgNVBGEMDk5UUlVBLTAyMTI1MTAyMIHyMIHJBgsqhiQCAQEBAQMBATCBuTB1MAcCAgEBAgEMAgEABCEQvuPbauqeH4ZXjEXBJZT/lCOUp9c4+Rh+ZRUBcpT0zgECIQCAAAAAAAAAAAAAAAAAAAAAZ1khOvGC6YfT4XcUkH1HDQQhtg/S2NzoqTQjxhAbypHEegB+bDALJs1VbJsOfSDvKSoABECp1utF8TxwgoDElnsjH16t9ljrpMA3KR042WvwJcpOF/jpcg3GFbQ6KJdfC8Heo2Q4tWTqLBef0BI+bbj6xXkEAyQABCHEjIxUD547fsAPSAcTLj7Toxs/ypUVKAYgqo8TVbt9LQGjggL5MIIC9TApBgNVHQ4EIgQgHDEWhXEvMh9xANZd+qgB+ZTozPNM7LeqSmQNN1BXTAIwKwYDVR0jBCQwIoAgv6qSiDWOwAMbou9sLfNph6SNehL7yzdAqSbhpYZ3LqMwDgYDVR0PAQH/BAQDAgbAMEUGA1UdIAQ+MDwwOgYJKoYkAgEBAQICMC0wKwYIKwYBBQUHAgEWH2h0dHBzOi8vY2EudGF4Lmdvdi51YS9yZWdsYW1lbnQwCQYDVR0TBAIwADBrBggrBgEFBQcBAwRfMF0wCAYGBACORgEBMC0GBgQAjkYBBTAjMCEWG2h0dHBzOi8vY2EudGF4Lmdvdi51YS9hYm91dBMCZW4wFQYIKwYBBQUHCwIwCQYHBACL7EkBATALBgkqhiQCAQEBAgEwHgYDVR0RBBcwFaATBgorBgEEAYI3FAIDoAUMAzk5OTBLBgNVHR8ERDBCMECgPqA8hjpodHRwOi8vY2EudGF4Lmdvdi51YS9kb3dubG9hZC9jcmxzL0NBLUJGQUE5Mjg4LUZ1bGwtUzIuY3JsMEwGA1UdLgRFMEMwQaA/oD2GO2h0dHA6Ly9jYS50YXguZ292LnVhL2Rvd25sb2FkL2NybHMvQ0EtQkZBQTkyODgtRGVsdGEtUzIuY3JsMIGLBggrBgEFBQcBAQR/MH0wLwYIKwYBBQUHMAGGI2h0dHA6Ly9jYS50YXguZ292LnVhL3NlcnZpY2VzL29jc3AvMEoGCCsGAQUFBzAChj5odHRwOi8vY2EudGF4Lmdvdi51YS9kb3dubG9hZC9jZXJ0aWZpY2F0ZXMvYWxsYWNza2lkZC0yMDIyLnA3YjA+BggrBgEFBQcBCwQyMDAwLgYIKwYBBQUHMAOGImh0dHA6Ly9jYS50YXguZ292LnVhL3NlcnZpY2VzL3RzcC8wQwYDVR0JBDwwOjAaBgwqhiQCAQEBCwEEAgExChMIMDIxMjUxMDIwHAYMKoYkAgEBAQsBBAEBMQwTCjI0MTA4MDYyMzUwDQYLKoYkAgEBAQEDAQEDQwAEQF7ekJzo8Kry/QXlaCTkVr4ietHpzSj8wK1P61ae/JVZMmh+JphAU604jrqx9qtDO5UM+WpETQhWbJwmjdmCozkxggLWMIIC0gIBATCB0zCBujFIMEYGA1UECgw/0JTQtdGA0LbQsNCy0L3QsCDQv9C+0LTQsNGC0LrQvtCy0LAg0YHQu9GD0LbQsdCwINCj0LrRgNCw0ZfQvdC4MRowGAYDVQQDDBHQmtCd0JXQlNCfINCU0J/QoTEZMBcGA1UEBRMQVUEtNDMwMDUzOTMtMDUyMjELMAkGA1UEBhMCVUExETAPBgNVBAcMCNCa0LjRl9CyMRcwFQYDVQRhDA5OVFJVQS00MzAwNTM5MwIUP6qSiDWOwAMEAAAAsfstAJ2V2QAwDAYKKoYkAgEBAQECAaCCAZYwGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUwMTE1MTQwNjI0WjAvBgkqhkiG9w0BCQQxIgQgnw8SPQYz4hPwMO1TcsxYZKi8o2lvdsnhpeKKtE7dZcAwggEpBgsqhkiG9w0BCRACLzGCARgwggEUMIIBEDCCAQwwDAYKKoYkAgEBAQECAQQgktbteord++ZWVW3fRldO2V2vhVNU0sXfLnb75d2hoT4wgdkwgcCkgb0wgboxSDBGBgNVBAoMP9CU0LXRgNC20LDQstC90LAg0L/QvtC00LDRgtC60L7QstCwINGB0LvRg9C20LHQsCDQo9C60YDQsNGX0L3QuDEaMBgGA1UEAwwR0JrQndCV0JTQnyDQlNCf0KExGTAXBgNVBAUTEFVBLTQzMDA1MzkzLTA1MjIxCzAJBgNVBAYTAlVBMREwDwYDVQQHDAjQmtC40ZfQsjEXMBUGA1UEYQwOTlRSVUEtNDMwMDUzOTMCFD+qkog1jsADBAAAALH7LQCdldkAMA0GCyqGJAIBAQEBAwEBBEBrw67UKZvAn5eYqbTqNKPu5sKX+mypdeMXK/EsOw8EeG98WFuDPkbyaIEsbCA67OpE4y7vVBGXUEje7K82Yedk",
+    "id": 3685397,
+    "name": "Рецензія Поліщук Р. В..pdf"
+   },
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "ZuGv7gni7nt0R+O/+Z+cMlGS/60vEWox7KShGI5HM+8=",
+    "sign": "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",
+    "id": 3685398,
+    "name": "Рецензія Чапко І. І..pdf"
+   }
+  ],
+  "isMilitaryUniversity": null,
+  "isNextYear": null,
+  "typeEducationalProgram": 1
+ }
+}

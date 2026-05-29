@@ -1,0 +1,121 @@
+{
+ "id": 12270,
+ "status": {
+  "id": 800,
+  "name": "6.1 Програма візиту направлена на погодження до ЗВО"
+ },
+ "general": {
+  "universityId": 1999,
+  "universityName": "Державний заклад «Південноукраїнський національний педагогічний університет імені К.Д. Ушинського»",
+  "subUniversityId": null,
+  "partnerUniversityInfo": null,
+  "programName": "середня освіта (Трудове навчання та технології. Інформатика)",
+  "programId": 50789,
+  "languages": [
+   1
+  ],
+  "structureUnit": "Кафедра технологічної та професійної освіти",
+  "proQualification": "Вчитель трудового навчання та технологій, інформатики; викладач вищої освіти",
+  "guarantName": null,
+  "guarantPosition": "В.о. зав.кафедри",
+  "guarantEdeboId": "156939",
+  "ownerName": null,
+  "description": "Аналіз ринку професійної підготовки за спорідненими ОП показав незайнятість цього сегменту, у зв’язку із чим було ухвалено рішення про відкриття ОП кафедрою технологічної та професійної освіти у 2023 році (протокол № 12 від 27.04.2023 р.). \nРозроблення ОП «Середня освіта (Трудове навчання та технології. Інформатика)» за спеціальністю 014 Середня освіта (Трудове навчання та технології) (далі ОП) обумовлена необхідністю забезпечення потреб регіонального ринку праці кваліфікованими фахівцями – вчителями трудового навчання та технологій, інформатики; викладачами вищої освіти за відповідною спеціальністю. Для ОП характерним є підготовка фахівців до втілення нових педагогічних та інформаційних технологій у практику викладання трудового навчання, технологій та інформатики в закладах освіти різних видів, ураховуючи сучасний рівень розвитку інформаційних технологій, техніки та технології виробництва.\nПід час розроблення ОП враховано результати опитування та індивідуальних бесід зі здобувачами освіти та роботодавцями враховано їх побажання об’єднати в ОП професійну підготовку за двома предметними спеціальностями «Трудове навчання та технологій» та «Інформатика». Що є особливістю цієї ОП.\nУ зв’язку з тим, що сьогоріч не було оголошено набору на перший курс, у таблиці 2 подаватимемо інформацію за 2023/2024 н.р. Оскільки викладач, який забезпечував ОК 07, звільнився з університету і даних про нього немає в ЄДЕБО, у таблиці 2 не буде подано інформації про цей ОК. Запевняємо, що відразу надамо її на відповідний запит.",
+  "accreditationId": 14088,
+  "universityRegNumber": "84",
+  "educationalDegrees": [
+   5,
+   6
+  ],
+  "otherUnit": "1.\tКафедра прикладної математики та інформатики;  2.\tКафедра західних і східних мов та методики їх навчання;  3.\tКафедра педагогіки;  4.\tкафедра філософії, соціології та менеджменту соціокультурної діяльності;  5.\tКафедра освітнього менеджменту та публічного управління;  6.\tКафедра загальної та диференціальної психології;  7.\tКафедра теорії і методики декоративно-прикладного мистецтва та графіки",
+  "locationEducationalActivity": "вулиця Старопортофранківська, буд.2/4, \nм. Одеса, 65029 \n",
+  "isProQualification": true,
+  "corporateEmailByGuarantor": null,
+  "phoneByGuarantor": null,
+  "addPhoneByGuarantor": null,
+  "generalAll": 68273,
+  "generalOwn": 68273,
+  "generalRented": 0,
+  "generalRentedOut": 1065,
+  "trainingAll": 45754,
+  "trainingOwn": 45754,
+  "trainingRented": 0,
+  "trainingRentedOut": 669,
+  "isRestrictedInformation": null,
+  "restrictedInformation": [],
+  "educationForms": [
+   {
+    "educationFormId": 1,
+    "termStudy": [
+     1,
+     4
+    ]
+   }
+  ],
+  "educationApplicants": {
+   "foreignPeople": [
+    {
+     "id": 1,
+     "name": "очна денна",
+     "students": [
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      }
+     ]
+    }
+   ],
+   "studentsContingent": [
+    {
+     "id": 1,
+     "name": "очна денна",
+     "students": [
+      {
+       "value": 0
+      },
+      {
+       "value": 11
+      }
+     ]
+    }
+   ],
+   "studyYearInformation": [
+    {
+     "year": "2024 - 2025",
+     "totalStudents": 0
+    },
+    {
+     "year": "2023 - 2024",
+     "totalStudents": 30
+    }
+   ]
+  },
+  "additionFiles": [],
+  "educationFiles": [
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "yl1tmrTguskgRUWcn8WjELcY0UxyzKBxSp4B2Q1AVy0=",
+    "sign": "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",
+    "id": 3568712,
+    "name": "ОПП маг 2023 Середня освіта (Трудове навчання та технології. Інформатика).pdf"
+   }
+  ],
+  "studyFiles": [
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "4nh2eJ6cmDS2Z/f+j8FhV/87RZtsKPlQKzalgjU+LZE=",
+    "sign": "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",
+    "id": 3568714,
+    "name": "Навчальний_план_вступ_2023_Середня_освіта_ТНТ_маг.pdf"
+   }
+  ],
+  "feedbackFiles": [],
+  "isMilitaryUniversity": null,
+  "isNextYear": null,
+  "typeEducationalProgram": null
+ }
+}

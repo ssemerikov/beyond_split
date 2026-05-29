@@ -1,0 +1,46 @@
+{
+  "candidate_id": "14413",
+  "program_name": "Німецька мова і друга західноєвропейська мова, зарубіжна література, методика навчання іноземних мов",
+  "degree": "MA",
+  "primary_subject": "Німецька мова та зарубіжна література (014.022)",
+  "additional_subject": "Друга західноєвропейська мова (within 014.02)",
+  "design": "asymmetric",
+  "balance_remarks": [
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "На ОК 9 \"Зарубіжна література та методика її навчання у ЗЗСО\" відводиться тільки 3 кредити ЄКТС, що є свідченням того, що співвідношення кредитів на мовну підготовку та зарубіжну літературу - не рівнозначне.",
+      "gloss_en": "Only 3 ECTS are allocated to component OK9 'Foreign Literature and its Teaching Methodology', which demonstrates that the credit ratio between language preparation and foreign literature is not equal.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "ЕГ рекомендує підсилити напрям підготовки з зарубіжної літератури, адже це відповідатиме зазначеній у ОП освітній та професійній кваліфікації.",
+      "gloss_en": "The EG recommends strengthening the Foreign Literature preparation strand, as this would correspond to the educational and professional qualification stated in the programme.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "Забезпечити здобувачам вищої освіти достатній і виважений обсяг літературознавчої підготовки із зарубіжної літератури.",
+      "gloss_en": "The GER instructs the programme to ensure students receive a sufficient and well-considered volume of literary studies preparation in Foreign Literature.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "Забезпечити формування на ОП ПРН 4, ПРН7, ПРН8, ПРН17 для досягнення цілей ОП в частині «зарубіжна література».",
+      "gloss_en": "The GER requires that learning outcomes PRN4, PRN7, PRN8, PRN17 be achieved within the 'Foreign Literature' part of the programme goals.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "conditional",
+  "decision_basis": "possibleSolution=2 (conditional-deferred); accreditationDecision=2. Criteria rated B; deficiencies correctable by 2026-2027.",
+  "key_finding": "The EG explicitly identified an unequal credit ratio between language preparation (dominant) and foreign literature (only 3 ECTS for OK9), framing this as a mismatch with the stated qualification, and both the EG and GER pressed for greater parity — illustrating how accreditors apply implicit symmetry expectations even to multi-subject programmes where the subjects are within a single speciality code."
+}

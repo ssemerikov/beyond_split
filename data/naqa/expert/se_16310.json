@@ -1,0 +1,221 @@
+{
+ "id": 16310,
+ "status": {
+  "id": 300,
+  "name": "2.1 Справа на розгляді керівника ЗВО"
+ },
+ "general": {
+  "universityId": 1927,
+  "universityName": "Харківський національний педагогічний університет імені Г.С. Сковороди",
+  "subUniversityId": null,
+  "partnerUniversityInfo": null,
+  "programName": "Біологія та здоров’я людини, практична психологія в закладах освіти",
+  "programId": 52102,
+  "languages": [
+   1
+  ],
+  "structureUnit": "Факультет природничої, спеціальної та здоров’язбережувальної освіти. Кафедра здоров’я людини, реабілітології і спеціальної психології",
+  "proQualification": null,
+  "guarantName": null,
+  "guarantPosition": "доцент",
+  "guarantEdeboId": "91874",
+  "ownerName": null,
+  "description": "ОП «Біологія та здоров’я людини, практична психологія в закладах освіти» відповідає викликам суспільства щодо потреби у фахівцях, які можуть працювати в галузі А Освіта бути компетентними та конкурентоспроможними вчителями закладу загальної середньої освіти (базового рівня) за предметною спеціальністю «Біологія та здоров’я людини».\nОП «Біологія та здоров’я людини, практична психологія в закладах освіти» була створена у 2021році кандидатом біологічних наук, доцентом Галій А.І. за рекомендацією доктора педагогічних наук, професора, ректора ХНПУ імені Г.С. Сковороди Бойчука Ю.Д. із залученням фахівців доктора психологічних наук, професора Хомуленко Т.Б. доктора психологічних наук, професора Бацилєвої О.В. До складу робочої групи увійшли науково-педагогічні працівники, які мають значний професійний досвід: доктор педагогічних наук професор кафедри здоров’я людини, реабілітології і спеціальної психології Науменко Н.В. кандидат педагогічних наук доц. Дрожик Л.., к.п.н. доц. Щербак І. М., к.б.н., доц. Ликова І.., учитель біології і основ здоровʼя КЗ “Харківський ліцей № 124 Кочеткова Н., Солошенко К.-Директор КЗ \"ХЛ № 146 здобувачка 2 курсу Євчик Кіра.\nОП «Біологія та здоров’я людини і практична психологія в закладах освіти» була затверджена рішенням Вченої ради ХНПУ імені Г.С. Сковороди (протокол № 5 від 30.04.2025 р.); схвалена Науково-методичною комісією факультету природничої, спеціальної і здоров’язбережувальної освіти (протокол № 8 від 08.04.2025 р.) та Вченою радою факультету (протокол № 8 від 09.04.2024 р.).\nВ основу розробки освітньої програми покладено результати сучасних наукових досліджень, багаторічний досвід університету, факультету, біологічних кафедр і кафедри здоров’я людини, реабілітології і спеціальної психології, які мають тривалу історію в підготовці висококваліфікованих та конкурентоспроможних учителів біології та основ здоров’я. \nПід час розробки ОП було враховано: Закoн України «Прo oсвiту»; Закoн України «Прo вищу oсвiту» від 01.07.2015 р. № 1556-VII зі змінами та доповненнями; постанову КМУ «Про затвердження Національної рамки кваліфікацій»; постанову КМУ «Про затвердження Ліцензійних умов провадження освітньої діяльності»; професійний стандарт «Вчителя закладу загальної середньої освіти». \nЗміст ОП спрямований на підготовку фахівців за першим (бакалаврським) рівнем вищої освіти за спеціальністю А4.05 Середня освіта (Біологія та здоров’я людини), щo відповідає шостому квалiфiкацiйнoму рівню освіти Національної рамки кваліфікацій та передбачає отримання здобувачами вищої освіти теоретичних знань та практичних умiнь i навичoк, дoстатнiх для успiшнoгo викoнання прoфесiйних oбoв’язкiв за предметнoю спецiальнiстю А4.05 Середня освіта (Біологія та здоров’я людини).\nОсновна увага в ОП зосереджена на забезпеченні формування компетентностей, що сприяють реалізації на високому рівню різних напрямів професійної діяльності. У 2021-2025 рр. до перегляду ОП були залучені зовнішні стейкголдери.\n",
+  "accreditationId": 19720,
+  "universityRegNumber": "57",
+  "educationalDegrees": [
+   5,
+   6,
+   2,
+   1,
+   3,
+   4
+  ],
+  "otherUnit": "Історичний факультет: кафедра теорії і методики викладання суспільно-правових дисциплін; кафедра суспільно-економічних дисциплін і географії; кафедра філософії; факультет соціальних і поведінкових наук: кафедра політології, соціології і культурології; факультет початкового навчання: кафедра теорії і методики викладання філологічних дисциплін у дошкільній, початковій і спеціальній освіті; кафедра початкової і професійної освіти; кафедра теорії і методики викладання природничо-математичних дисциплін у дошкільній, початковій і спеціальній освіті;  Український мовно-літературний факультет імені Г.Ф. Квітки-Основ'яненка: кафедра теорії і практики англійської мови; Факультет мистецтв: кафедра образотворчого мистецтва; Факультет дошкільної освіти: кафедра технологій дистанційного навчання та цифрової дидактики в дошкільній освіті; Факультет природничої, спеціальної та здоров’язбережувальної освіти: кафедра спеціальної педагогіки; кафедра анатомії і фізіології людини імені професора Я.Р.Синельникова; кафедра зоології;  Центр інформатизації освіти; Наукова бібліотека;Навчальний відділ; Відділ практик; Відділ кар’єрного зростання; Психологічна служба; Центр інклюзивної освіти; Студентський Парламент; Центр забезпечення якості освіти; Спортивний клуб; Асоціація випускників ХНПУ імені Г.С.Сковороди; Сковорода-Хаб .",
+  "locationEducationalActivity": "м. Харків, вул. Алчевських, 29;\nм. Харків, вул. Валентинівська, 2;\nм. Харкiв, прoв. Фанiнський, 3\n",
+  "isProQualification": null,
+  "corporateEmailByGuarantor": null,
+  "phoneByGuarantor": null,
+  "addPhoneByGuarantor": null,
+  "generalAll": 77518,
+  "generalOwn": 77518,
+  "generalRented": 0,
+  "generalRentedOut": 0,
+  "trainingAll": 17096,
+  "trainingOwn": 17096,
+  "trainingRented": 0,
+  "trainingRentedOut": 0,
+  "isRestrictedInformation": null,
+  "restrictedInformation": [],
+  "educationForms": [
+   {
+    "educationFormId": 3,
+    "termStudy": [
+     3,
+     10
+    ]
+   },
+   {
+    "educationFormId": 1,
+    "termStudy": [
+     3,
+     10
+    ]
+   }
+  ],
+  "educationApplicants": {
+   "foreignPeople": [
+    {
+     "id": 1,
+     "name": "очна денна",
+     "students": [
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      }
+     ]
+    },
+    {
+     "id": 3,
+     "name": "заочна",
+     "students": [
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      }
+     ]
+    }
+   ],
+   "studentsContingent": [
+    {
+     "id": 1,
+     "name": "очна денна",
+     "students": [
+      {
+       "value": 4
+      },
+      {
+       "value": 6
+      },
+      {
+       "value": 9
+      },
+      {
+       "value": 0
+      }
+     ]
+    },
+    {
+     "id": 3,
+     "name": "заочна",
+     "students": [
+      {
+       "value": 9
+      },
+      {
+       "value": 1
+      },
+      {
+       "value": 3
+      },
+      {
+       "value": 9
+      }
+     ]
+    }
+   ],
+   "studyYearInformation": [
+    {
+     "year": "2025 - 2026",
+     "totalStudents": 30
+    },
+    {
+     "year": "2024 - 2025",
+     "totalStudents": 25
+    },
+    {
+     "year": "2023 - 2024",
+     "totalStudents": 30
+    },
+    {
+     "year": "2022 - 2023",
+     "totalStudents": 30
+    }
+   ]
+  },
+  "additionFiles": [],
+  "educationFiles": [
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "jBuXgkBd8omRouJ2VreGqt8dcZig8QYCAksHF97VBNc=",
+    "sign": "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",
+    "id": 3852263,
+    "name": "ОП 2024 Біол зд люд і пр психол.pdf"
+   },
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "qdTNqEOxrUQrJyRBj04gBsANMGUEK65QyQjAtVMZjhc=",
+    "sign": "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",
+    "id": 3852264,
+    "name": "ОП 2025 Biologiya_ta_zdorovya_lydunu_praktuchna_psuhologiya.pdf"
+   }
+  ],
+  "studyFiles": [
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "qeAdFxeTxgUl0SHu42HE4Of04bH13iuj9AXAT7kJEps=",
+    "sign": "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",
+    "id": 3852265,
+    "name": "014СО_Б_зд_Б_ОП_Б_зд_псих в ЗО_2024_денна.pdf"
+   },
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "v+7nZ3isvSnyMQEEtSWSWtD1ThkQLnwnlv2dzYYvVzI=",
+    "sign": "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",
+    "id": 3852267,
+    "name": "А4.05_Псих_ДФ_2025-2029.pdf"
+   }
+  ],
+  "feedbackFiles": [
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "KRj2aRb8b1+z4D7Kc9MFf5LcWCdH+ATDaC9zvvUTw6M=",
+    "sign": "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",
+    "id": 3852881,
+    "name": "Рецензія від Даниленка за 2025.pdf"
+   },
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "mO4aj6rDdfe2iWXc8mUboHw2MuvscgbNsXg1HtRdUEU=",
+    "sign": "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",
+    "id": 3852885,
+    "name": "Рецензія від Солошенко за 2025.pdf"
+   }
+  ],
+  "isMilitaryUniversity": null,
+  "isNextYear": null,
+  "typeEducationalProgram": 1
+ }
+}

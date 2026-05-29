@@ -1,0 +1,140 @@
+{
+ "id": 15520,
+ "status": {
+  "id": 800,
+  "name": "6.1 Програма візиту направлена на погодження до ЗВО"
+ },
+ "general": {
+  "universityId": 1877,
+  "universityName": "Вінницький державний педагогічний університет імені Михайла Коцюбинського",
+  "subUniversityId": null,
+  "partnerUniversityInfo": null,
+  "programName": "Середня освіта. Інформатика, математика",
+  "programId": 42630,
+  "languages": [
+   1
+  ],
+  "structureUnit": "Кафедра математики та інформатики",
+  "proQualification": "Вчитель інформатики, викладач закладу фахової передвищої освіти, вчитель математики",
+  "guarantName": null,
+  "guarantPosition": "Доцент",
+  "guarantEdeboId": "364363",
+  "ownerName": null,
+  "description": "За ОП Середня освіта. Інформатика, математика здійснюється підготовка здобувачів за ступенем вищої освіти бакалавра з терміном навчання 3 р. 10 м. на основі повної загальної середньої освіти (240 кредитів ЕСТS). Освітня кваліфікація: Бакалавр середньої освіти (Інформатика). Вчитель інформатики, викладач закладу фахової передвищої освіти, вчитель математики. Вперше у ВДПУ ім. М. Коцюбинського ОП підготовки бакалаврів за предметною спеціальністю 0403 “Системні науки та кібернетика” напрямку підготовки 6.040302 “Інформатика” була введена в 2014 році. В 2015 році відповідно до узгодження переліку спеціальностей, за якими здійснюється підготовка здобувачів вищої освіти за ступенем бакалавра, спеціаліста, магістра та ліцензованого обсягу Вінницького державного педагогічного університету імені Михайла Коцюбинського (Ліцензія: Серія АЕ “458758 дата видачі 05.08.2014) спеціальність 0403 “Системні науки та кібернетика” напрямку підготовки 6.040302 “Інформатика” переіменовано у Галузь знань: 01 Освіта Напрям підготовки: 014 Середня освіта (Інформатика). У 2021 р. відбувся перегляд ОП, перенесені окремі ОК з циклу загальної до циклу професійної підготовки, урівноважене співвідношення ОК за напрямами інформатика, математика, вилучені вибіркові ОК. Освітня програма була затверджена вченою радою ВДПУ з урахуванням положень Професійного стандарту за професіями «Вчитель початкових класів закладу загальної середньої освіти», «Вчитель закладу загальної середньої освіти», «Вчитель з початкової освіти (з дипломом молодшого спеціаліста)» (Наказ Міністерства розвитку економіки, торгівлі та сільського господарства України №2736-20 від 23.12.2020р. https://cutt.ly/hWMp9mn), наказу МОНУ №584 від 30.04.2020р. «Про унесення змін до Методичних рекомендацій щодо розроблення стандартів вищої освіти» у 2021р. до ОП були внесені корективи, які торкнулись змісту і формулювань компетентностей, програмних результатів навчання, структури освітніх компонент циклів загальної та професійної підготовки. Діюча ОП розглянута затверджена рішенням вченої ради ВДПУ 30.06.2023 р. З огляду на пропозиції стейкхолдерів в діючій ОП збільшений обсяг ОК Програмування та збільшено кількість кредитів на ОК Технології захисту інформації,    розширено перелік вибіркових компонентів.",
+  "accreditationId": 18592,
+  "universityRegNumber": "252",
+  "educationalDegrees": [
+   1
+  ],
+  "otherUnit": "",
+  "locationEducationalActivity": "Україна, 21001, м. Вінниця, вул. Острозького, 32",
+  "isProQualification": true,
+  "corporateEmailByGuarantor": null,
+  "phoneByGuarantor": null,
+  "addPhoneByGuarantor": null,
+  "generalAll": 38376,
+  "generalOwn": 38376,
+  "generalRented": 0,
+  "generalRentedOut": 0,
+  "trainingAll": 23928,
+  "trainingOwn": 23928,
+  "trainingRented": 0,
+  "trainingRentedOut": 0,
+  "isRestrictedInformation": null,
+  "restrictedInformation": [],
+  "educationForms": [
+   {
+    "educationFormId": 1,
+    "termStudy": [
+     3,
+     10
+    ]
+   }
+  ],
+  "educationApplicants": {
+   "foreignPeople": [
+    {
+     "id": 1,
+     "name": "очна денна",
+     "students": [
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      }
+     ]
+    }
+   ],
+   "studentsContingent": [
+    {
+     "id": 1,
+     "name": "очна денна",
+     "students": [
+      {
+       "value": 6
+      },
+      {
+       "value": 10
+      },
+      {
+       "value": 11
+      },
+      {
+       "value": 11
+      }
+     ]
+    }
+   ],
+   "studyYearInformation": [
+    {
+     "year": "2025 - 2026",
+     "totalStudents": 20
+    },
+    {
+     "year": "2024 - 2025",
+     "totalStudents": 20
+    },
+    {
+     "year": "2023 - 2024",
+     "totalStudents": 20
+    },
+    {
+     "year": "2022 - 2023",
+     "totalStudents": 19
+    }
+   ]
+  },
+  "additionFiles": [],
+  "educationFiles": [
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "Ys1DemoOsCo4WMsRJIzWC6BgEOy3PzB53jo8/xoXMps=",
+    "sign": "MIIKIgYJKoZIhvcNAQcCoIIKEzCCCg8CAQExDjAMBgoqhiQCAQEBAQIBMAsGCSqGSIb3DQEHAaCCBsIwgga+MIIGZqADAgECAhRRS1yGoeXaEQQAAABngpQBuVo+BTANBgsqhiQCAQEBAQMBATCB4TEWMBQGA1UECgwN0JTQnyAi0JTQhtCvIjFzMHEGA1UEAwxqItCU0ZbRjyIuINCa0LLQsNC70ZbRhNGW0LrQvtCy0LDQvdC40Lkg0L3QsNC00LDQstCw0Ycg0LXQu9C10LrRgtGA0L7QvdC90LjRhSDQtNC+0LLRltGA0YfQuNGFINC/0L7RgdC70YPQszEZMBcGA1UEBRMQVUEtNDMzOTUwMzMtMjUwMTELMAkGA1UEBhMCVUExETAPBgNVBAcMCNCa0LjRl9CyMRcwFQYDVQRhDA5OVFJVQS00MzM5NTAzMzAeFw0yNjAxMTQxNDIzNTRaFw0yNzAxMTQxNDIzNTRaMIIBNjFGMEQGA1UECgw90JLQlNCf0KMg0IbQnNCV0J3QhiDQnNCY0KXQkNCZ0JvQkCDQmtCe0KbQrtCR0JjQndCh0KzQmtCe0JPQnjEeMBwGA1UEDAwV0LIu0L4uINGA0LXQutGC0L7RgNCwMTEwLwYDVQQDDCjQl9Cw0LLQsNC70YzQvdGO0Log0IbQvdC90LAg0K/QutGW0LLQvdCwMRswGQYDVQQEDBLQl9Cw0LLQsNC70YzQvdGO0LoxHjAcBgNVBCoMFdCG0L3QvdCwINCv0LrRltCy0L3QsDEZMBcGA1UEBRMQVElOVUEtMjUxMTUxNDg4MzELMAkGA1UEBhMCVUExFzAVBgNVBAcMDtCS0ZbQvdC90LjRhtGPMRswGQYDVQQIDBLQktGW0L3QvdC40YbRjNC60LAwgfIwgckGCyqGJAIBAQEBAwEBMIG5MHUwBwICAQECAQwCAQAEIRC+49tq6p4fhleMRcEllP+UI5Sn1zj5GH5lFQFylPTOAQIhAIAAAAAAAAAAAAAAAAAAAABnWSE68YLph9PhdxSQfUcNBCG2D9LY3OipNCPGEBvKkcR6AH5sMAsmzVVsmw59IO8pKgAEQKnW60XxPHCCgMSWeyMfXq32WOukwDcpHTjZa/Alyk4X+OlyDcYVtDool18Lwd6jZDi1ZOosF5/QEj5tuPrFeQQDJAAEIcJJGybzFO7QhKoHwElzOkOblufcad0xEW7WvjeloyUtAaOCAwUwggMBMCkGA1UdDgQiBCD7INTe8H96YHGhTXk1Dp2KUXhuVSc2I6yxTqsaUGYl1DArBgNVHSMEJDAigCDRS1yGoeXaEfIH9/arCCi3/+N15imkVFZLLyVwvzYhszAOBgNVHQ8BAf8EBAMCBsAwRgYDVR0gBD8wPTA7BgkqhiQCAQEBAgIwLjAsBggrBgEFBQcCARYgaHR0cHM6Ly9jYS5kaWlhLmdvdi51YS9yZWdsYW1lbnQwCQYDVR0TBAIwADA8BggrBgEFBQcBAwQwMC4wCAYGBACORgEBMBUGCCsGAQUFBwsCMAkGBwQAi+xJAQEwCwYJKoYkAgEBAQIBMF0GA1UdEQRWMFSgJgYMKwYBBAGBl0YBAQQBoBYMFCszOCAoMCA2OCkgMDIzLTU0LTg5gRV3ZXN0c3Ryb25nMkBnbWFpbC5jb22gEwYKKwYBBAGCNxQCA6AFDAMxNDgwTQYDVR0fBEYwRDBCoECgPoY8aHR0cDovL2NhLmRpaWEuZ292LnVhL2Rvd25sb2FkL2NybHMvQ0EtRDE0QjVDODYtRnVsbC1TMzAuY3JsME4GA1UdLgRHMEUwQ6BBoD+GPWh0dHA6Ly9jYS5kaWlhLmdvdi51YS9kb3dubG9hZC9jcmxzL0NBLUQxNEI1Qzg2LURlbHRhLVMzMC5jcmwwgYEGCCsGAQUFBwEBBHUwczAwBggrBgEFBQcwAYYkaHR0cDovL2NhLmRpaWEuZ292LnVhL3NlcnZpY2VzL29jc3AvMD8GCCsGAQUFBzAChjNodHRwOi8vY2EuZGlpYS5nb3YudWEvdXBsb2Fkcy9jZXJ0aWZpY2F0ZXMvZGlpYS5wN2IwPwYIKwYBBQUHAQsEMzAxMC8GCCsGAQUFBzADhiNodHRwOi8vY2EuZGlpYS5nb3YudWEvc2VydmljZXMvdHNwLzBDBgNVHQkEPDA6MBoGDCqGJAIBAQELAQQCATEKEwgwMjEyNTA5NDAcBgwqhiQCAQEBCwEEAQExDBMKMjUxMTUxNDg4MzANBgsqhiQCAQEBAQMBAQNDAARAiP/HlIwQwpZfnT79fY6Q4fB6mjtyh3j1oVHZfqdmXVow8qlry7MadKYNYx/KqTFMUX8B9GU/NCD4qxiqmkJAPjGCAyUwggMhAgEBMIH6MIHhMRYwFAYDVQQKDA3QlNCfICLQlNCG0K8iMXMwcQYDVQQDDGoi0JTRltGPIi4g0JrQstCw0LvRltGE0ZbQutC+0LLQsNC90LjQuSDQvdCw0LTQsNCy0LDRhyDQtdC70LXQutGC0YDQvtC90L3QuNGFINC00L7QstGW0YDRh9C40YUg0L/QvtGB0LvRg9CzMRkwFwYDVQQFExBVQS00MzM5NTAzMy0yNTAxMQswCQYDVQQGEwJVQTERMA8GA1UEBwwI0JrQuNGX0LIxFzAVBgNVBGEMDk5UUlVBLTQzMzk1MDMzAhRRS1yGoeXaEQQAAABngpQBuVo+BTAMBgoqhiQCAQEBAQIBoIIBvjAYBgkqhkiG9w0BCQMxCwYJKoZIhvcNAQcBMBwGCSqGSIb3DQEJBTEPFw0yNjAxMzAxMjM3MjRaMC8GCSqGSIb3DQEJBDEiBCBizUN6ag6wKjhYyxEkjNYLoGAQ7Lc/MHneOjz/GhcymzCCAVEGCyqGSIb3DQEJEAIvMYIBQDCCATwwggE4MIIBNDAMBgoqhiQCAQEBAQIBBCDfcL97zct0aJQ4dyyzDp0WIOVjdpET3R5lK5cxGWztxzCCAQAwgeekgeQwgeExFjAUBgNVBAoMDdCU0J8gItCU0IbQryIxczBxBgNVBAMMaiLQlNGW0Y8iLiDQmtCy0LDQu9GW0YTRltC60L7QstCw0L3QuNC5INC90LDQtNCw0LLQsNGHINC10LvQtdC60YLRgNC+0L3QvdC40YUg0LTQvtCy0ZbRgNGH0LjRhSDQv9C+0YHQu9GD0LMxGTAXBgNVBAUTEFVBLTQzMzk1MDMzLTI1MDExCzAJBgNVBAYTAlVBMREwDwYDVQQHDAjQmtC40ZfQsjEXMBUGA1UEYQwOTlRSVUEtNDMzOTUwMzMCFFFLXIah5doRBAAAAGeClAG5Wj4FMA0GCyqGJAIBAQEBAwEBBECayFsPK20oEDUUxa8cLOk8ikOxpEF/bMlGeBpZcC18b6dSnpXfM2R7LvlSd6AbxDX/psx0Ar0phTT163c6JYxI",
+    "id": 3785597,
+    "name": "opp_a4_bak_2023.pdf"
+   }
+  ],
+  "studyFiles": [
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "RrZp3SxIwhNmhzJl7PcVrHRjTzb0YTqWabABNn4/Wzg=",
+    "sign": "MIIKIgYJKoZIhvcNAQcCoIIKEzCCCg8CAQExDjAMBgoqhiQCAQEBAQIBMAsGCSqGSIb3DQEHAaCCBsIwgga+MIIGZqADAgECAhRRS1yGoeXaEQQAAABngpQBuVo+BTANBgsqhiQCAQEBAQMBATCB4TEWMBQGA1UECgwN0JTQnyAi0JTQhtCvIjFzMHEGA1UEAwxqItCU0ZbRjyIuINCa0LLQsNC70ZbRhNGW0LrQvtCy0LDQvdC40Lkg0L3QsNC00LDQstCw0Ycg0LXQu9C10LrRgtGA0L7QvdC90LjRhSDQtNC+0LLRltGA0YfQuNGFINC/0L7RgdC70YPQszEZMBcGA1UEBRMQVUEtNDMzOTUwMzMtMjUwMTELMAkGA1UEBhMCVUExETAPBgNVBAcMCNCa0LjRl9CyMRcwFQYDVQRhDA5OVFJVQS00MzM5NTAzMzAeFw0yNjAxMTQxNDIzNTRaFw0yNzAxMTQxNDIzNTRaMIIBNjFGMEQGA1UECgw90JLQlNCf0KMg0IbQnNCV0J3QhiDQnNCY0KXQkNCZ0JvQkCDQmtCe0KbQrtCR0JjQndCh0KzQmtCe0JPQnjEeMBwGA1UEDAwV0LIu0L4uINGA0LXQutGC0L7RgNCwMTEwLwYDVQQDDCjQl9Cw0LLQsNC70YzQvdGO0Log0IbQvdC90LAg0K/QutGW0LLQvdCwMRswGQYDVQQEDBLQl9Cw0LLQsNC70YzQvdGO0LoxHjAcBgNVBCoMFdCG0L3QvdCwINCv0LrRltCy0L3QsDEZMBcGA1UEBRMQVElOVUEtMjUxMTUxNDg4MzELMAkGA1UEBhMCVUExFzAVBgNVBAcMDtCS0ZbQvdC90LjRhtGPMRswGQYDVQQIDBLQktGW0L3QvdC40YbRjNC60LAwgfIwgckGCyqGJAIBAQEBAwEBMIG5MHUwBwICAQECAQwCAQAEIRC+49tq6p4fhleMRcEllP+UI5Sn1zj5GH5lFQFylPTOAQIhAIAAAAAAAAAAAAAAAAAAAABnWSE68YLph9PhdxSQfUcNBCG2D9LY3OipNCPGEBvKkcR6AH5sMAsmzVVsmw59IO8pKgAEQKnW60XxPHCCgMSWeyMfXq32WOukwDcpHTjZa/Alyk4X+OlyDcYVtDool18Lwd6jZDi1ZOosF5/QEj5tuPrFeQQDJAAEIcJJGybzFO7QhKoHwElzOkOblufcad0xEW7WvjeloyUtAaOCAwUwggMBMCkGA1UdDgQiBCD7INTe8H96YHGhTXk1Dp2KUXhuVSc2I6yxTqsaUGYl1DArBgNVHSMEJDAigCDRS1yGoeXaEfIH9/arCCi3/+N15imkVFZLLyVwvzYhszAOBgNVHQ8BAf8EBAMCBsAwRgYDVR0gBD8wPTA7BgkqhiQCAQEBAgIwLjAsBggrBgEFBQcCARYgaHR0cHM6Ly9jYS5kaWlhLmdvdi51YS9yZWdsYW1lbnQwCQYDVR0TBAIwADA8BggrBgEFBQcBAwQwMC4wCAYGBACORgEBMBUGCCsGAQUFBwsCMAkGBwQAi+xJAQEwCwYJKoYkAgEBAQIBMF0GA1UdEQRWMFSgJgYMKwYBBAGBl0YBAQQBoBYMFCszOCAoMCA2OCkgMDIzLTU0LTg5gRV3ZXN0c3Ryb25nMkBnbWFpbC5jb22gEwYKKwYBBAGCNxQCA6AFDAMxNDgwTQYDVR0fBEYwRDBCoECgPoY8aHR0cDovL2NhLmRpaWEuZ292LnVhL2Rvd25sb2FkL2NybHMvQ0EtRDE0QjVDODYtRnVsbC1TMzAuY3JsME4GA1UdLgRHMEUwQ6BBoD+GPWh0dHA6Ly9jYS5kaWlhLmdvdi51YS9kb3dubG9hZC9jcmxzL0NBLUQxNEI1Qzg2LURlbHRhLVMzMC5jcmwwgYEGCCsGAQUFBwEBBHUwczAwBggrBgEFBQcwAYYkaHR0cDovL2NhLmRpaWEuZ292LnVhL3NlcnZpY2VzL29jc3AvMD8GCCsGAQUFBzAChjNodHRwOi8vY2EuZGlpYS5nb3YudWEvdXBsb2Fkcy9jZXJ0aWZpY2F0ZXMvZGlpYS5wN2IwPwYIKwYBBQUHAQsEMzAxMC8GCCsGAQUFBzADhiNodHRwOi8vY2EuZGlpYS5nb3YudWEvc2VydmljZXMvdHNwLzBDBgNVHQkEPDA6MBoGDCqGJAIBAQELAQQCATEKEwgwMjEyNTA5NDAcBgwqhiQCAQEBCwEEAQExDBMKMjUxMTUxNDg4MzANBgsqhiQCAQEBAQMBAQNDAARAiP/HlIwQwpZfnT79fY6Q4fB6mjtyh3j1oVHZfqdmXVow8qlry7MadKYNYx/KqTFMUX8B9GU/NCD4qxiqmkJAPjGCAyUwggMhAgEBMIH6MIHhMRYwFAYDVQQKDA3QlNCfICLQlNCG0K8iMXMwcQYDVQQDDGoi0JTRltGPIi4g0JrQstCw0LvRltGE0ZbQutC+0LLQsNC90LjQuSDQvdCw0LTQsNCy0LDRhyDQtdC70LXQutGC0YDQvtC90L3QuNGFINC00L7QstGW0YDRh9C40YUg0L/QvtGB0LvRg9CzMRkwFwYDVQQFExBVQS00MzM5NTAzMy0yNTAxMQswCQYDVQQGEwJVQTERMA8GA1UEBwwI0JrQuNGX0LIxFzAVBgNVBGEMDk5UUlVBLTQzMzk1MDMzAhRRS1yGoeXaEQQAAABngpQBuVo+BTAMBgoqhiQCAQEBAQIBoIIBvjAYBgkqhkiG9w0BCQMxCwYJKoZIhvcNAQcBMBwGCSqGSIb3DQEJBTEPFw0yNjAxMzAxMjM3MjRaMC8GCSqGSIb3DQEJBDEiBCBGtmndLEjCE2aHMmXs9xWsdGNPNvRhOpZpsAE2fj9bODCCAVEGCyqGSIb3DQEJEAIvMYIBQDCCATwwggE4MIIBNDAMBgoqhiQCAQEBAQIBBCDfcL97zct0aJQ4dyyzDp0WIOVjdpET3R5lK5cxGWztxzCCAQAwgeekgeQwgeExFjAUBgNVBAoMDdCU0J8gItCU0IbQryIxczBxBgNVBAMMaiLQlNGW0Y8iLiDQmtCy0LDQu9GW0YTRltC60L7QstCw0L3QuNC5INC90LDQtNCw0LLQsNGHINC10LvQtdC60YLRgNC+0L3QvdC40YUg0LTQvtCy0ZbRgNGH0LjRhSDQv9C+0YHQu9GD0LMxGTAXBgNVBAUTEFVBLTQzMzk1MDMzLTI1MDExCzAJBgNVBAYTAlVBMREwDwYDVQQHDAjQmtC40ZfQsjEXMBUGA1UEYQwOTlRSVUEtNDMzOTUwMzMCFFFLXIah5doRBAAAAGeClAG5Wj4FMA0GCyqGJAIBAQEBAwEBBECf0a4RIkjKJH3NZXuL46wPv4J/C8NRCF8oQJeGtC1KAVybWgCaq20Q4XKohLL09ucHAk0O21NmkeK+y1qpgdVI",
+    "id": 3785598,
+    "name": "np_a4_bak_2023.pdf"
+   }
+  ],
+  "feedbackFiles": [],
+  "isMilitaryUniversity": null,
+  "isNextYear": null,
+  "typeEducationalProgram": 1
+ }
+}

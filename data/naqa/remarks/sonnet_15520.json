@@ -1,0 +1,30 @@
+{
+  "candidate_id": "15520",
+  "program_name": "Середня освіта. Інформатика, математика",
+  "degree": "BA",
+  "primary_subject": "Інформатика (014.09)",
+  "additional_subject": "Математика (014.04)",
+  "design": "symmetric",
+  "balance_remarks": [
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "Збалансований обсяг навч. навантаження на вивчення дисциплін інформатичного та математичного напрямів.",
+      "gloss_en": "A balanced volume of academic workload for studying disciplines in the computer-science and mathematics directions [is noted].",
+      "direction": "credit_split_statement",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "1",
+      "quote_uk": "ОП поєднує підготовку вчителя інформатики (основна предм. спец-ть 014.09) та вчителя математики (додаткова предм. спец-ть 014.04) і передбачає присвоєння проф. кваліфікації «Вчитель інформатики, викладач закладу фахової передвищої освіти, вчитель математики».",
+      "gloss_en": "The programme combines training of a computer science teacher (primary subject specialisation 014.09) and a mathematics teacher (additional subject specialisation 014.04) and provides for the award of the professional qualification 'Teacher of Computer Science, Lecturer at a Vocational Pre-Higher Education Institution, Teacher of Mathematics'.",
+      "direction": "describes_asymmetry",
+      "about_primary_additional_distribution": true
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "conditional",
+  "decision_basis": "possibleSolution=2 (conditional-deferred); accreditationDecision=2. Structural-logical scheme deficiencies, misalignment between OP and curriculum plan, sequencing violations (ОК 6, 19, 24, 27), overloaded 6th semester. Main weaknesses are technical/organisational rather than subject-balance.",
+  "key_finding": "The EG briefly noted a 'balanced workload' for the two subject directions without specifying exact credits, suggesting the symmetric design was taken as given rather than scrutinised. The programme explicitly names 014.09 (Computer Science) as primary and 014.04 (Mathematics) as additional, with no pressure from EG or GER to alter the inter-subject credit distribution; the conditional outcome arose from structural and procedural deficiencies unrelated to subject balance."
+}

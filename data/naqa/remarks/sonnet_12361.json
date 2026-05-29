@@ -1,0 +1,30 @@
+{
+  "candidate_id": "12361",
+  "program_name": "Середня освіта (Трудове навчання та технології. Інформатика)",
+  "degree": "MA",
+  "primary_subject": "Трудове навчання та технології (014.10)",
+  "additional_subject": "Інформатика (014.09)",
+  "design": "asymmetric",
+  "balance_remarks": [
+    {
+      "source": "GER",
+      "criterion": "5",
+      "quote_uk": "відповідно до основної предметної спеціальності 014.10 Середня освіта (Трудове навчання та технології) доцільним є в зміст кваліфікаційної роботи закласти комплексну перевірку рівня сформованості компетентностей та результатів навчання; перевірку сформованості ЗК, ФК і ПРН за додатковою предметною спеціальністю 014.10 Середня освіта (Інформатика) можна здійснювати атестаційним іспитом.",
+      "gloss_en": "The GER recommends that the thesis/qualification work comprehensively assess competencies aligned with the primary subject specialisation (Technologies), while competencies for the additional subject specialisation (Informatics) may be assessed through the attestation exam — an explicit asymmetric assessment architecture.",
+      "direction": "describes_asymmetry",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "Розробити методичні рекомендації до РПНД Виробнича (педагогічна) практика з чіткою інформацією про семестр, терміни, обсяг та кількість годин виробничої (педагогічної) практики; вказати кількісні показники проведених занять та заходів, конкретизувати інформацію про змістове наповнення звітної документації за предметними спеціальностями.",
+      "gloss_en": "The GER asks for methodology guidelines specifying volume and lesson counts for teaching practice, itemised by subject specialisation — implying that the two specialisations receive distinct (not identical) practical allocations.",
+      "direction": "describes_asymmetry",
+      "about_primary_additional_distribution": true
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "accredited",
+  "decision_basis": "possibleSolution=1 (accredit); accreditationDecision=5. All criteria rated B; no critical weaknesses found.",
+  "key_finding": "Case 12361 is notable for the GER's explicit endorsement of an asymmetric assessment architecture: the qualification thesis should test primary-subject competencies, while additional-subject competencies are tested by the attestation exam. This operationalises the Major/Minor distinction at the assessment level without any panel pressure toward parity."
+}

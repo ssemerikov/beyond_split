@@ -1,0 +1,22 @@
+{
+  "candidate_id": "15840",
+  "program_name": "Середня освіта (Трудове навчання та технології, інформатика)",
+  "degree": "BA",
+  "primary_subject": "Трудове навчання та технології (014.10)",
+  "additional_subject": "Інформатика (014.09)",
+  "design": "symmetric",
+  "balance_remarks": [
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "ГЕР зазначає реалізацію рекомендацій 2-3 за критерієм 2: співвідношення кредитів ЄКТС за предметними спеціальностями Технології та Інформатика є орієнтовно однаковими й становлять 47/45 відповідно.",
+      "gloss_en": "The GER notes implementation of recommendations 2–3 under criterion 2: the ECTS credit ratio for the subject specialisations Technology and Computer Science is approximately equal, standing at 47/45 respectively.",
+      "direction": "credit_split_statement",
+      "about_primary_additional_distribution": true
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "accredited",
+  "decision_basis": "possibleSolution=1 (accredit); accreditationDecision=5. No substantial deficiencies found by EG; GER confirmed near-symmetric credit split (47/45) as satisfactory.",
+  "key_finding": "The GER explicitly confirmed that the two subject specialisations carry almost equal ECTS loads (47 vs 45 credits), treating near-symmetric distribution as a positive outcome. No pressure was exerted toward further equalisation, but the near-50/50 split was noted approvingly, illustrating how accreditation bodies can implicitly normalise symmetric design."
+}

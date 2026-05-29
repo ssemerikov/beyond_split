@@ -1,0 +1,38 @@
+{
+  "candidate_id": "11980",
+  "program_name": "Середня освіта (Біологія та здоров'я людини. Географія)",
+  "degree": "MA",
+  "primary_subject": "Біологія та здоров'я людини",
+  "additional_subject": "Географія",
+  "design": "unclear",
+  "balance_remarks": [
+    {
+      "source": "EG",
+      "criterion": "1",
+      "quote_uk": "У профілі ОП не зазначено, що у ній використано поєднання предметних спеціальностей, хоча у назві ОП та її змісті це зазначено.",
+      "gloss_en": "The programme profile does not state that it uses a combination of subject specialities, although this is indicated in the programme title and content.",
+      "direction": "neutral",
+      "about_primary_additional_distribution": false
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "В цілому зміст ОП відповідає предметній області визначеної для неї спеціальності Середня освіта (Біологія та здоров'я людини) для другого (магістерського) рівня вищої освіти з поєднанням предметних спеціальностей (додана Географія). При цьому розширено професійну кваліфікацію (перелік, компетентностей, результатів навчання, освітніх компонентів).",
+      "gloss_en": "Overall, the content of the educational programme corresponds to the subject area of the designated speciality Secondary Education (Biology and Human Health) at the second (master's) level of higher education, with a combination of subject specialities (Geography added). The professional qualification was thereby expanded (list of competencies, learning outcomes, educational components).",
+      "direction": "describes_asymmetry",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "Рекомендовано переглянути можливість збільшити обсяг педагогічної практики, ураховуючи присвоєння професійних кваліфікацій вчителя біології, основ здоров'я та географії і Концепцію розвитку педагогічної освіти.",
+      "gloss_en": "It is recommended to review the possibility of increasing the volume of pedagogical practice, taking into account the awarding of professional qualifications as a teacher of biology, basics of health and geography, and the Concept for the Development of Pedagogical Education.",
+      "direction": "neutral",
+      "about_primary_additional_distribution": false
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "accredited",
+  "decision_basis": "possibleSolution=1 (accredit); accreditationDecision=5; ОП в цілому відповідає критеріям з рівнем В за всіма критеріями",
+  "key_finding": "The programme was created by adding Geography as a second speciality to an existing Biology & Human Health programme. The EG acknowledges this asymmetric expansion (Biology as the foundation, Geography as the addition) without criticising it, and the accreditation succeeds. The main formal deficiency was that the programme profile text did not explicitly declare the dual-subject combination, which illustrates how the administrative category of 'combination of subject specialities' is handled as a labelling issue rather than a parity issue."
+}

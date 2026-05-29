@@ -1,0 +1,30 @@
+{
+  "candidate_id": "13718",
+  "program_name": "Середня освіта. Польська та англійська мови. Зарубіжна література",
+  "degree": "BA",
+  "primary_subject": "Польська мова та зарубіжна література (014.028)",
+  "additional_subject": "Англійська мова (within same speciality 014.02)",
+  "design": "unclear",
+  "balance_remarks": [
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "Розподіл кредитів між обов'язковими та вибірковими компонентами дотримано відповідно до чинного законодавства: обов'язкові компоненти – 180 кредитів (75%), вибіркові компоненти – 60 кредитів (25%). Аналіз тематичного наповнення силабусу на сайті кафедри містить змістовий дисбаланс.",
+      "gloss_en": "The mandatory/elective credit split conforms to legislation (75%/25%), but analysis of the course syllabi revealed a content imbalance (змістовий дисбаланс) in thematic coverage.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": false
+    },
+    {
+      "source": "GER",
+      "criterion": "1",
+      "quote_uk": "Не втручаючись до автономії ЗВО, враховуючи значний обсяг англомовного компонента в ОП, рекомендується або скоригувати назву спеціалізації з включенням англійської мови, або збалансувати структуру ОП відповідно до вказаної спеціалізації.",
+      "gloss_en": "Without interfering with university autonomy, given the significant volume of English-language component in the programme, the GER recommends either correcting the specialisation title to include English, or rebalancing the programme structure to match the stated specialisation.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": false
+    }
+  ],
+  "has_balance_remark": false,
+  "decision_outcome": "accredited",
+  "decision_basis": "possibleSolution=1 (accredit); accreditationDecision=5. All criteria rated B with no essential deficiencies.",
+  "key_finding": "This three-subject programme (Polish, English, Foreign Literature) under a single subject-speciality code shows no EG or GER remarks specifically about primary/additional subject credit distribution. The GER's 'content imbalance' observation concerns syllabus thematic coverage within a single component (OK19), not the split between two subject specialities; the recommendation about English reflects a title-vs-content mismatch rather than a primary/additional weighting issue."
+}

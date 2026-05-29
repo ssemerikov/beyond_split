@@ -1,0 +1,46 @@
+{
+  "candidate_id": "14410",
+  "program_name": "Математика та інформатика",
+  "degree": "MA",
+  "primary_subject": "Математика (014.04)",
+  "additional_subject": "Інформатика (within programme scope, no separate speciality code)",
+  "design": "asymmetric",
+  "balance_remarks": [
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "В освітній програмі недостатньо представлено компоненти, що сприяють формуванню предметної інформатичної підготовки майбутніх учителів інформатики.",
+      "gloss_en": "The programme insufficiently represents components that foster the subject-specific Informatics preparation of future Informatics teachers.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "В тоже час на ОК, які б забезпечували предметну інформатичну предметну підготовку виділено недостатньо кредитів.",
+      "gloss_en": "At the same time, insufficient credits have been allocated to the components that would ensure subject-specific Informatics preparation.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "Розробникам ОП розглянути можливість введення окремих компонентів, спрямованих на розвиток знань і вмінь у галузі сучасних цифрових технологій, алгоритмізації та програмування до 2026-2027 н.р.",
+      "gloss_en": "Programme developers are asked to consider introducing separate components aimed at developing knowledge and skills in modern digital technologies, algorithmisation, and programming by the 2026-2027 academic year.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "гарантові, робочій групі ОПП при оновленні ОПП розширити предметну інформатичну підготовку, спрямовану на розвиток знань і вмінь у галузі сучасних цифрових технологій, алгоритмізації та програмування, правової інформатики, теорії та методики організації та проведення конкурсів, олімпіад тощо з інформатичної галузі",
+      "gloss_en": "The GER instructs the programme guarantor and working group to expand the subject-specific Informatics preparation focused on digital technologies, algorithmisation, programming, legal informatics, and competition/olympiad methodology.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "accredited",
+  "decision_basis": "possibleSolution=1 (accredit); accreditationDecision=5. All criteria rated B; weaknesses regarding Informatics component non-essential.",
+  "key_finding": "Despite being accredited, this MA programme received consistent EG and GER pressure to increase Informatics-specific content, as the programme tilts heavily toward Mathematics while neglecting adequate subject-matter preparation for the Informatics teaching qualification — a clear case where asymmetry in a dual-subject programme (Mathematics dominant over Informatics) was criticised even though accreditation was granted."
+}

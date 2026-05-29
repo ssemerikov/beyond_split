@@ -1,0 +1,30 @@
+{
+  "candidate_id": "12270",
+  "program_name": "Середня освіта (Трудове навчання та технології. Інформатика)",
+  "degree": "MA",
+  "primary_subject": "Трудове навчання та технології (014.10)",
+  "additional_subject": "Інформатика",
+  "design": "asymmetric",
+  "balance_remarks": [
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "ОП потребує удосконалення переліку ОК, їх співвідношення між спеціальностями, модернізації та поглиблення змісту техніко-технологічної та методичної підготовки майбутніх учителів технологій, інформатики відповідно до шкільних навчальних програм відповідних галузей знань за ОП",
+      "gloss_en": "The EG recommends improving the list of educational components and their ratio between the subject specialisations, and deepening the content of tech-technology and methodological preparation for teachers of Technologies and Informatics according to school curricula — explicitly flagging the inter-subject ratio as an improvement target.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "5",
+      "quote_uk": "Запровадити атестацію у формі кваліфікаційного іспиту, що дасть можливість перевірити досяжність здобувачами ПРН за обома предметними спеціальностями",
+      "gloss_en": "The GER recommends introducing a qualification exam to verify that learning outcomes for both subject specialisations are achieved — implicitly recognising that the current assessment does not adequately cover both subjects and that both deserve verifiable coverage.",
+      "direction": "describes_asymmetry",
+      "about_primary_additional_distribution": true
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "accredited",
+  "decision_basis": "possibleSolution=1 (accredit); accreditationDecision=2 (conditional-deferred status noted in header). Substantial weaknesses found in criteria 2.2, 2.3, 6.1, 6.2, 6.3, 8.5.",
+  "key_finding": "Case 12270 is conditionally deferred and the EG explicitly identifies imbalance in the inter-subject ratio of educational components as a weakness requiring correction. The GER further recommends an exam covering both specialisations, implicitly acknowledging that the additional subject's outcomes were under-verified — a clear case where asymmetric design attracted accreditation pressure."
+}

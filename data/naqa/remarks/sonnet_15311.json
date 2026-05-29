@@ -1,0 +1,70 @@
+{
+  "candidate_id": "15311",
+  "program_name": "Середня освіта (Хімія, біологія та здоров'я людини)",
+  "degree": "BA",
+  "primary_subject": "Хімія",
+  "additional_subject": "Біологія та здоров'я людини",
+  "design": "asymmetric",
+  "balance_remarks": [
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "В ОП 2024 вивчення обов'язкових ОК, з урахуванням практичної підготовки, розподілений наступним чином, в кредитах: хімічні – 72,5 (40,73%), біологічні – 23 (12,92%), здоров'язбережувальні – 3 (1,7%), педагогічні – 19 (10,67%), методичні – 13,5 (7,58%).",
+      "gloss_en": "In the 2024 programme, mandatory components are distributed as follows in credits: chemistry – 72.5 (40.73%), biology – 23 (12.92%), health-preserving – 3 (1.7%), pedagogical – 19 (10.67%), methodological – 13.5 (7.58%).",
+      "direction": "credit_split_statement",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "у структурі обов'язкових компонентів спостерігається значне переважання хімічної підготовки над біологічною та здоров'язбережувальною, що недостатньо корелює з додатковою кваліфікацією вчителя біології та здоров'я людини",
+      "gloss_en": "In the structure of mandatory components there is significant predominance of chemistry preparation over biology and health-preserving preparation, which insufficiently correlates with the additional qualification of a teacher of biology and health.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "Аналіз переліку ОК ОП і НП 2024, їх орієнтації та освітнього фокуса дозволяє констатувати зосередження на хімічній підготовці і брак здоров'язбережувального компонента, що пояснюється пріоритетністю предметної спеціальності 014.06 і значним науковим доробком викладачів хіміко-біологічного факультету",
+      "gloss_en": "Analysis of the list of programme components for 2024 confirms concentration on chemistry preparation and a lack of health-preserving component, explained by the priority of subject speciality 014.06 and the significant research output of chemistry-biology faculty members.",
+      "direction": "describes_asymmetry",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "Варто зазначити, що гарант та проєктна група в ОП 2025 року виправили певний дисбаланс за рахунок введення ОК 28 «Здоров'я та безпека людини», заміни дисципліни «Методика навчання біології» на ОК 29 «Методика навчання біології та здоров'я людини» та збільшення кількості кредитів з 5 до 7.",
+      "gloss_en": "It should be noted that the programme guarantor and project team corrected a certain imbalance in the 2025 programme by introducing component 28 'Human Health and Safety', replacing 'Methodology of Biology Teaching' with component 29 'Methodology of Biology and Health Teaching', and increasing the credits from 5 to 7.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "На думку ЕГ потребує збалансування вивчення методик навчання біології та здоров'я здоров'я шляхом їх розділення на два освітніх компоненти.",
+      "gloss_en": "In the EG's opinion, the study of biology and health teaching methodologies requires balancing by separating them into two educational components.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "Посилити її біол. та здоров'язбережувальну складову з огляду на задекларовану у редакції ОПП 2025 року підготовку вчителя ІК «ЗБД». Зокрема, розглянути можливість запровадження окремого ОК, спрямованого на формування метод. компетентностей щодо навчання цього курсу.",
+      "gloss_en": "Strengthen the biological and health-preserving component in view of the declared preparation of a teacher for the integrated course 'Health, Safety and Wellbeing' in the 2025 programme edition. In particular, consider introducing a separate component aimed at forming methodological competencies for teaching this course.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "",
+      "quote_uk": "Водночас вважаємо доцільним підсилити в освітній програмі здоров'язбережувальну складову, що сприятиме більш повному відображенню додаткової предметної області та формуванню відповідних професійних компетентностей майбутніх учителів.",
+      "gloss_en": "At the same time we consider it appropriate to strengthen the health-preserving component in the educational programme, which will contribute to a more complete reflection of the additional subject area and the formation of corresponding professional competencies of future teachers.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "accredited",
+  "decision_basis": "possibleSolution=1 (accredit); accreditationDecision=5. Imbalance between primary (chemistry) and additional (biology/health) components was noted as a non-critical deficiency; the 2025 programme partially corrected it. No criterion-level failure on balance grounds.",
+  "key_finding": "Case 15311 documents a clear asymmetric design with chemistry holding 40.73% vs. biology at 12.92% and health at 1.7% of mandatory credits. Both EG and GER criticised the under-preparation for the additional subject (biology and health) and pressed for partial rebalancing, framing it not as a demand for 50/50 parity but as ensuring adequate preparation for the additional qualification. The case explicitly confirms an asymmetric Major/Minor architecture while demanding a minimum floor for the additional subject."
+}
