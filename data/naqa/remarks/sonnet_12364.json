@@ -1,0 +1,38 @@
+{
+  "candidate_id": "12364",
+  "program_name": "Середня освіта (Польська мова і література, українська мова і література)",
+  "degree": "MA",
+  "primary_subject": "Польська мова та зарубіжна література (014.028)",
+  "additional_subject": "Українська мова і література (041.01 / 014.01)",
+  "design": "asymmetric",
+  "balance_remarks": [
+    {
+      "source": "GER",
+      "criterion": "",
+      "quote_uk": "ОП «Середня освіта (Польська мова і література, українська мова і література)» спеціальності 014.028 Середня освіта (Польська мова та зарубіжна література) з додатковою предметною спеціальністю 041.01 Середня освіта (Українська мова і література) враховує специфіку роботи вчителів польської мови і зарубіжної літератури, української мови і літератури та відповідає вимогам наказу Міністерства освіти і науки №128 від 01.02.2021 р.",
+      "gloss_en": "The programme is explicitly described as having a primary subject speciality (Polish language and foreign literature, 014.028) with an additional subject speciality (Ukrainian language and literature, 041.01), and the GER confirms it complies with MES Order No. 128 of 01.02.2021 governing such dual-subject programmes.",
+      "direction": "describes_asymmetry",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "Переглянути доцільність науково-педагогічної практики задля посилення практичної підготовки майбутніх учителів польської мови і зарубіжної літератури, майбутніх учителів української мови і літератури закладів загальної середньої освіти.",
+      "gloss_en": "The GER recommends reviewing the relevance of the academic-pedagogical practice placement in order to strengthen the practical preparation of future teachers of both subjects (Polish and Ukrainian).",
+      "direction": "neutral",
+      "about_primary_additional_distribution": false
+    },
+    {
+      "source": "EG",
+      "criterion": "1",
+      "quote_uk": "ЕГ переконалися в тому, що поєднання в ОПП польської та української мови є виправданим, оскільки поліпшує можливості працевлаштування.",
+      "gloss_en": "The EG was convinced that the combination of Polish and Ukrainian in the programme is justified, as it improves employment prospects.",
+      "direction": "neutral",
+      "about_primary_additional_distribution": false
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "accredited",
+  "decision_basis": "possibleSolution=1 (accredit); accreditationDecision=5. All criteria rated B; positive practices noted including balanced programme content.",
+  "key_finding": "This is the only case in the batch where the GER explicitly uses the terms 'основна предметна спеціальність' and 'додаткова предметна спеціальність' to describe the programme design, confirming a compliant asymmetric Major/Minor architecture under MES Order No. 128 (2021); importantly, no pressure toward parity was applied and the accreditation was granted with exemplary practices noted — showing that when a programme is designed and documented as asymmetric from the outset, accreditors accept it."
+}

@@ -125,7 +125,7 @@ def main():
 
     ax.set_xlabel("Publication year")
     ax.set_ylabel("Number of records")
-    ax.set_title("Corpus publication trend by conceptual pillar (n = {0})".format(len(db.entries)))
+    ax.set_title("Corpus publication trend by conceptual cluster (n = {0})".format(len(db.entries)))
     ax.legend(fontsize=8, frameon=False, loc="upper left", ncol=1)
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)

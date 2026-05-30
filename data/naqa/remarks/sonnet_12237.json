@@ -1,0 +1,62 @@
+{
+  "candidate_id": "12237",
+  "program_name": "Середня освіта (Українська мова і література. Історія)",
+  "degree": "MA",
+  "primary_subject": "Українська мова і література",
+  "additional_subject": "Історія",
+  "design": "asymmetric",
+  "balance_remarks": [
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "спостерігається нерівномірний розподіл кредитів між мовним (6 кредитів), літературним (1 кредит) та історичним (9 кредитів) блоками",
+      "gloss_en": "There is an uneven distribution of credits among the language block (6 credits), literary block (1 credit), and history block (9 credits).",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "Нерівномірний розподіл кредитів між мовним (6 кредитів), літературним (1 кредит) та історичним (9 кредитів) блоками.",
+      "gloss_en": "Uneven distribution of credits between the language block (6 credits), literary block (1 credit) and history block (9 credits) — listed as a formal weakness under Criterion 2.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "Щоб здійснювати повноцінну підготовку майбутніх учителів укр. мови і літератури, історії, проєктній групі ОП до початку 2025/2026 н.р. урівноважити ОК лінгвістичного, літературознавчого та історичного спрямування.",
+      "gloss_en": "In order to ensure full preparation of future teachers of Ukrainian language and literature, and history, the programme design group should by the start of 2025/2026 balance the components of linguistic, literary-studies, and history orientation.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "урівноважити розподіл кредитів на предметну підготовку з української мови, української літератури та історії",
+      "gloss_en": "Balance the distribution of credits for subject-content preparation in Ukrainian language, Ukrainian literature and history.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "Погоджуємося з ЕГ стосовно нерівномірного розподілу кредитів на предметну підготовку з української мови, української літератури та історії.",
+      "gloss_en": "We agree with the Expert Group regarding the uneven distribution of credits for subject-content preparation in Ukrainian language, Ukrainian literature and history.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "нерівномірно розподілені кредити на предметну підготовку",
+      "gloss_en": "Credits for subject-content preparation are distributed unevenly.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": true
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "accredited",
+  "decision_basis": "possibleSolution=1 (accredit); accreditationDecision=2. EG found deficiencies under Criteria 2, 6, 8 (level E) but judged none fundamental; all remediable within one year. Credit imbalance between subject blocks was a named weakness requiring correction.",
+  "key_finding": "Accreditors explicitly flagged and demanded correction of the unequal credit allocation across subject-content blocks (Ukrainian language 6 cr, Ukrainian literature 1 cr, History 9 cr) within a dual-subject programme — both EG and GER required 'balancing', illustrating regulatory pressure toward more even (though not necessarily 50/50) distribution rather than acceptance of asymmetric design."
+}

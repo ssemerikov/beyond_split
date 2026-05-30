@@ -1,0 +1,46 @@
+{
+  "candidate_id": "13755",
+  "program_name": "Середня освіта (Фізика, інформатика)",
+  "degree": "BA",
+  "primary_subject": "Фізика та астрономія (014.08)",
+  "additional_subject": "Інформатика (014.09)",
+  "design": "asymmetric",
+  "balance_remarks": [
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "Серед обов'язкових ОК виділено Обов'язкові компоненти предметної спеціальності 014.08 Середня освіта (Фізика та астрономія) – 61 кредит, а також обов'язкові компоненти предметної спеціальності 014.09 Середня освіта (Інформатика) – 31 кредит.",
+      "gloss_en": "Among mandatory components: 61 ECTS allocated to the primary subject speciality (Physics and Astronomy) versus 31 ECTS to the additional subject speciality (Informatics) — an approximately 2:1 ratio.",
+      "direction": "credit_split_statement",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "Методики навчання фізики і інформатики приблизно рівноцінні за обсягом кредитів (12 і 10)",
+      "gloss_en": "The teaching methodology courses for Physics and Informatics are approximately equal in credit volume (12 and 10 credits respectively), even though the subject-content components are not.",
+      "direction": "describes_asymmetry",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "розширити фундаментальну підготовку за предметною спеціальністю 014.09 Середня освіта (Інформатика), а також розглянути можливість включення в зміст ОП тематику з правової інформатики, теорії та методики організації та проведення конкурсів, олімпіад тощо з інформатичної галузі",
+      "gloss_en": "The GER recommends expanding the fundamental preparation for the additional subject speciality (Informatics 014.09) and including topics from legal informatics, competition/olympiad methodology, in order to ensure professional competencies for an Informatics teacher.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "",
+      "quote_uk": "ГЕР акцентує увагу на непаритетному розподілі кредитного обсягу і рекомендує розширити фундаментальну підготовку з інформатики, а також включити в зміст ОП тематику з правової інформатики, теорії та методики організації та проведення конкурсів, олімпіад тощо з інформатичної галузі, з метою забезпечення формування професійних компетентностей і результатів навчання вчителя інформатики.",
+      "gloss_en": "The GER explicitly flags the non-parity distribution of credit volume and recommends expanding Informatics preparation in order to ensure professional competencies and learning outcomes for the Informatics teacher.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "conditional",
+  "decision_basis": "possibleSolution=2 (conditional-deferred); accreditationDecision=2. All criteria rated B; deficiencies non-essential but correctable by 01.09.2025.",
+  "key_finding": "The GER explicitly named 'non-parity credit distribution' (непаритетний розподіл кредитного обсягу) between the two subject specialities — Physics (61 ECTS) and Informatics (31 ECTS) — as a concern requiring remedy, creating pressure toward greater parity and illustrating how accreditation bodies treat asymmetric dual-subject designs as problematic rather than legitimate."
+}

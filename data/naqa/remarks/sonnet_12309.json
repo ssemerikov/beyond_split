@@ -1,0 +1,38 @@
+{
+  "candidate_id": "12309",
+  "program_name": "Українська мова і література. Англійська мова і література",
+  "degree": "MA",
+  "primary_subject": "Українська мова і література (014.01)",
+  "additional_subject": "Англійська мова і література",
+  "design": "asymmetric",
+  "balance_remarks": [
+    {
+      "source": "EG",
+      "criterion": "8",
+      "quote_uk": "врівноважено обсяги предметної підготовки з української мови, літератури та англійської мови;",
+      "gloss_en": "The EG lists among the programme's positive practices that the volumes of subject-content preparation in Ukrainian language/literature and English language have been balanced — treating achieved balance as a quality marker rather than a requirement.",
+      "direction": "describes_asymmetry",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "В ОП «Українська мова і література. Англійська мова і література» немає ОК, у процесі вивчення якої здійснюється предметна підготовка з англійської літератури, хоча відповідна компонента міститься в її назві.",
+      "gloss_en": "The EG flags that the programme has no compulsory component delivering subject-content preparation in English literature, despite this being part of the programme's title — a critical gap in the additional subject's coverage.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "Забезпечити предметну підготовку здобувачів із зарубіжної/англійської літератури, увівши її як обов'язковий ОК до початку 2025/2026 н.р.",
+      "gloss_en": "The GER requires the introduction of compulsory subject-content preparation in English/world literature — addressing the absence of adequate coverage for the additional subject specialisation.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": true
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "accredited",
+  "decision_basis": "possibleSolution=1 (accredit); accreditationDecision=5. Criterion 1 rated B; Criterion 2 has noted weaknesses but non-critical.",
+  "key_finding": "Case 12309 reveals a structural under-provision for the additional subject: no compulsory component in English literature exists, despite the programme title. The EG simultaneously praises 'balanced volumes' in Ukrainian and English language training as a positive practice, showing that accreditors monitor per-subject content distribution and can cite both its adequacy and its absence as quality indicators — without mandating a 50/50 split."
+}

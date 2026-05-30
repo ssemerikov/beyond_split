@@ -1,0 +1,30 @@
+{
+  "candidate_id": "12109",
+  "program_name": "Українська мова і література, англійська мова",
+  "degree": "MA",
+  "primary_subject": "Українська мова і література",
+  "additional_subject": "Англійська мова",
+  "design": "asymmetric",
+  "balance_remarks": [
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "Водночас ЗВО може розглянути питання про доцільність збільшення обсягів предметної підготовки з української мови і літератури, англійської мови за рахунок кредитів, виділених на навчальні практики, які є більш доречними на першому (бакалаврському) рівні вищої освіти.",
+      "gloss_en": "At the same time the institution may consider the advisability of increasing the volume of subject-content preparation in Ukrainian language and literature, and English language at the expense of credits allocated to teaching practices, which are more appropriate at the first (bachelor's) level of higher education.",
+      "direction": "describes_asymmetry",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "розглянути питання про доцільність збільшення обсягів предметної підготовки з української мови і літератури, англійської мови",
+      "gloss_en": "Consider the advisability of increasing the volume of subject-content preparation in Ukrainian language and literature, and English language.",
+      "direction": "describes_asymmetry",
+      "about_primary_additional_distribution": true
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "accredited",
+  "decision_basis": "possibleSolution=1 (accredit); accreditationDecision=5. EG found programme corresponds to all Criteria at level B with no substantive deficiencies. Minor weaknesses: some content overlap with bachelor level, insufficient theoretical depth for master's level in philology, absence of non-formal learning recognition examples.",
+  "key_finding": "The GER raised a non-binding suggestion that the institution consider increasing subject-content volume for both Ukrainian language/literature AND English language at the expense of teaching-practice credits — framed as an advisory rather than a mandatory correction, and addressing both subjects together rather than their mutual ratio. No parity/imbalance critique was levelled at the distribution between the two subjects themselves."
+}

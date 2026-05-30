@@ -1,0 +1,38 @@
+{
+  "candidate_id": "15601",
+  "program_name": "Середня освіта (Математика, інформатика)",
+  "degree": "BA",
+  "primary_subject": "Математика (014.04)",
+  "additional_subject": "Інформатика (014.09)",
+  "design": "symmetric",
+  "balance_remarks": [
+    {
+      "source": "GER",
+      "criterion": "",
+      "quote_uk": "Розподіл кредитного обсягу ОПП за двома предметними спеціальностями є паритетним Обов'язкові компоненти предметної спеціальності 014.04 Середня освіта (Математика) 57 кредитів ЄКТС;",
+      "gloss_en": "The distribution of the programme's credit volume between the two subject specialisations is parity-based. The compulsory components of subject specialisation 014.04 Secondary Education (Mathematics) amount to 57 ECTS credits [with the remainder allocated to Computer Science].",
+      "direction": "credit_split_statement",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "8",
+      "quote_uk": "Система забезпечення якості демонструє закриття циклу та вчасне реагування на результати моніторингу, прикладом чого є зміна обсягу кредитів на вивчення фахових методичних дисциплін та облаштування вільного простору за запитами здобувачів",
+      "gloss_en": "The quality assurance system demonstrates a closed-loop approach and timely responses to monitoring results, an example of which is the change in the volume of credits for the study of professional methodological disciplines and the arrangement of free space at students' request.",
+      "direction": "neutral",
+      "about_primary_additional_distribution": false
+    },
+    {
+      "source": "EG",
+      "criterion": "9",
+      "quote_uk": "відкрите обговорення дозволило гаранту зібрати відгуки від вчителів-практиків та керівників баз практик, що сприяло, зокрема, оптимізації розподілу кредитів ЄКТС на фахові методичні дисципліни.",
+      "gloss_en": "Open discussion allowed the programme guarantor to collect feedback from practising teachers and practice supervisors, which contributed, in particular, to optimising the distribution of ECTS credits for professional methodological disciplines.",
+      "direction": "neutral",
+      "about_primary_additional_distribution": false
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "accredited",
+  "decision_basis": "possibleSolution=1 (accredit); accreditationDecision=5. No substantial deficiencies found across all criteria (level 'B'). GER confirmed parity distribution between the two subject specialisations.",
+  "key_finding": "The GER affirmatively described the credit distribution between the two subject specialisations as 'parity-based' (паритетний), with Mathematics receiving 57 ECTS. This confirms that accreditors explicitly use parity as a positive normative standard when evaluating dual-subject programmes, validating (and implicitly requiring) symmetric design."
+}

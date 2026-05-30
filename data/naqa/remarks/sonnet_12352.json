@@ -1,0 +1,38 @@
+{
+  "candidate_id": "12352",
+  "program_name": "Середня освіта (Французька мова та література, англійська мова та література, зарубіжна література)",
+  "degree": "MA",
+  "primary_subject": "Французька мова та зарубіжна література (014.02)",
+  "additional_subject": "Англійська мова та зарубіжна література (014.021)",
+  "design": "asymmetric",
+  "balance_remarks": [
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "враховуючи підготовку вчителя іноземних мов за двома предметними спеціальностями 014.023 Французька мова та зарубіжна література та 014.021 Англійська мова та зарубіжна література, збільшити обсяг практики, на розгляд ЗВО, але не менше 6 кредитів на кожну предметну спеціальність.",
+      "gloss_en": "The GER recommends expanding teaching practice to at least 6 ECTS credits per subject specialisation (French and English/world literature), acknowledging the dual-subject structure and implicitly requiring a minimum parallel-track allocation rather than a merged or single-subject practice.",
+      "direction": "credit_split_statement",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "(9 кредитів ЄКТС), на думку ГЕР, занадто малий, щоб належним чином підготувати здобувачів освіти до проведення занять (по 3 кредити на підготовку вчителя/викладача першої та другої іноземної мови, 3 кредити на підготовку викладача/вчителя зарубіжної літератури).",
+      "gloss_en": "The GER judges the total 9-ECTS practice allocation as too small, noting it currently breaks down as 3 ECTS for the first foreign language, 3 ECTS for the second foreign language, and 3 ECTS for world literature — an explicit per-subject credit split that the GER finds inadequate.",
+      "direction": "credit_split_statement",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "ОК11 «Педагогічна практика» логічно уміщує 3 модулі (відповідно до фокусу ОП: 1.Педагогічна практика з першої іноземної мови, 2.Педагогічна практика з другої іноземної мови; 3.Педагогічна практика із зарубіжної літератури). Здобувачі проводили уроки в ЗВО, знають про кількість уроків, які вони повинні провести (8/6/4) із кожного модуля.",
+      "gloss_en": "The EG describes the teaching practice as explicitly divided into three modules — first foreign language (8 lessons), second foreign language (6 lessons), and world literature (4 lessons) — an asymmetric lesson distribution across the subject components.",
+      "direction": "describes_asymmetry",
+      "about_primary_additional_distribution": true
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "accredited",
+  "decision_basis": "possibleSolution=1 (accredit); accreditationDecision=5. All criteria rated B; positive practices noted including balanced OP content.",
+  "key_finding": "Case 12352 provides concrete per-subject credit and lesson-count data for a three-component dual-subject programme. The GER explicitly flags the current 9-ECTS practice allocation as insufficient and demands at least 6 ECTS per each of the two main subject specialisations, illustrating how accreditors negotiate minimum subject-specific practice thresholds without imposing strict 50/50 parity."
+}

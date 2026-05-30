@@ -1,0 +1,46 @@
+{
+  "candidate_id": "15783",
+  "program_name": "Середня освіта (Інформатика, математика)",
+  "degree": "BA",
+  "primary_subject": "Інформатика (014.09)",
+  "additional_subject": "Математика (014.04)",
+  "design": "asymmetric",
+  "balance_remarks": [
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "НП ОП 2024 має поділ ще на обов'язкові дисципліни предметної підготовки з інформатики та математики (75 кр. до 31 кр.). У НП ОП 2025 співвідношення кредитів обов'язкових дисциплін між предметними спеціальностями становить: 59 з інформатики до 42 з математики.",
+      "gloss_en": "The 2024 curriculum plan additionally divides compulsory subject-preparation disciplines into computer science and mathematics (75 credits vs 31 credits). In the 2025 curriculum plan, the ratio of compulsory discipline credits between the subject specialisations is 59 (computer science) to 42 (mathematics).",
+      "direction": "credit_split_statement",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "8",
+      "quote_uk": "Внутрішні процедури контролю на етапі до 2025 року не повною мірою забезпечили своєчасну ідентифікацію системних відхилень, зокрема щодо дисбалансу в розподілі кредитів, що потребувало коригування для забезпечення паритетності підготовки.",
+      "gloss_en": "Internal quality-control procedures prior to 2025 did not fully ensure timely identification of systemic deviations, in particular regarding the imbalance in credit distribution, which required correction to ensure parity of preparation.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "",
+      "quote_uk": "В ОПП 2024 року спостерігався дисбаланс у розподілі навч. між двома предметними спеціальностями: співвідношення кредитів обов'язкових дисциплін за спеціальністю 014.09 Середня освіта (Інформатика) до 014.04 Середня освіта (Математика) становило 75 до 31, що свідчило про непаритетність підготовки. ЗВО врахувало зауваження ГЕР та під час перегляду ОПП скоригувало зазначене співвідношення, зменшивши обсяг дисциплін з інформатики до 59 кредитів, а з матем.",
+      "gloss_en": "In the 2024 programme, an imbalance in the distribution of teaching between the two subject specialisations was observed: the ratio of compulsory discipline credits for 014.09 (Computer Science) to 014.04 (Mathematics) was 75 to 31, which indicated non-parity of preparation. The institution took account of the GER's remarks and, during programme revision, corrected this ratio by reducing computer-science disciplines to 59 credits and mathematics [to 42].",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "Внутрішня система забезпечення якості освіти продемонструвала недостатню ефективність моніторингу, оскільки не виявила та не усунула системні недоліки (щодо балансу кредитів) до моменту початку зовнішньої акредитаційної експертизи.",
+      "gloss_en": "The internal quality assurance system demonstrated insufficient monitoring effectiveness, as it did not identify and eliminate systemic shortcomings (regarding credit balance) before the commencement of the external accreditation review.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": true
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "conditional",
+  "decision_basis": "possibleSolution=2 (conditional-deferred); accreditationDecision=5. Substantial deficiency 2.1.1 (total programme volume exceeded legal limit due to Physical Education credits). Balance issue was flagged historically and partially resolved by OP 2025 revision but conditional outcome driven mainly by volume violation.",
+  "key_finding": "This case provides the clearest evidence of direct GER pressure toward parity between the two subject specialisations: the original 75-to-31 credit split (Computer Science vs Mathematics) was explicitly labelled 'non-parity' (непаритетність), and the university was required to reduce the gap to 59-to-42. Both EG and GER invoked the language of 'balance' and 'parity' as normative standards, directly compelling a more symmetric design."
+}

@@ -1,0 +1,33 @@
+{
+  "n_cases": 36,
+  "by_degree": {
+    "BA": 14,
+    "MA": 22
+  },
+  "outcome": {
+    "accredited": 24,
+    "conditional": 11,
+    "refused": 1
+  },
+  "non_clean_n": 12,
+  "non_clean_pct": 33.3,
+  "cases_with_balance_remark_sonnet": 30,
+  "total_balance_remarks": 118,
+  "remarks_by_source": {
+    "EG": 60,
+    "GER": 56,
+    "NAQA": 1
+  },
+  "cases_parity_pressure": 23,
+  "cases_asymmetry_described": 15,
+  "nonclean_rate_pressure": [
+    10,
+    23
+  ],
+  "nonclean_rate_nopressure": [
+    2,
+    13
+  ],
+  "intermethod_agreement_sonnet_vs_regex": 0.778,
+  "intermethod_kappa": 0.077
+}

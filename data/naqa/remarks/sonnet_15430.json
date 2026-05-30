@@ -1,0 +1,38 @@
+{
+  "candidate_id": "15430",
+  "program_name": "Середня освіта (Мова і література (німецька) та мова і література (англійська))",
+  "degree": "BA",
+  "primary_subject": "Мова і література (німецька)",
+  "additional_subject": "Мова і література (англійська)",
+  "design": "unclear",
+  "balance_remarks": [
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "Кількість кредитів, спрямованих на забезпечення предметної (німецька, англійська мови, зарубіжна література), психолого-педагогічної та методичної підготовки, є збалансованою та узгоджується з професійною кваліфікацією, яку передбачає програма.",
+      "gloss_en": "The number of credits allocated to subject preparation (German, English, foreign literature), psychological-pedagogical, and methodological training is balanced and consistent with the professional qualification the programme provides.",
+      "direction": "neutral",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "Атестація здійснюється у формі двох атестаційних екзаменів за першою і другою предметними спеціальностями обсягом 3 кредити ЄКТС, що забезпечує нормативно визначений розподіл підсумкових форм контролю та завершеність освітньої траєкторії.",
+      "gloss_en": "Attestation takes the form of two certification exams for the first and second subject specialisations worth 3 ECTS credits, which ensures the normatively defined distribution of final assessment forms and completeness of the educational trajectory.",
+      "direction": "describes_asymmetry",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "University",
+      "criterion": "1",
+      "quote_uk": "здійснювався аналіз аналогічних освітніх програм провідних педагогічних ЗВО України (ТНПУ імені В. Гнатюка, ЧНУ імені Богдана Хмельницького, УжНУ, ХНПУ імені Г.С. Сковороди тощо) з метою забезпечення зіставності ПРН, структури підготовки та балансу між філологічною й методичною складовими.",
+      "gloss_en": "An analysis of analogous educational programmes of leading pedagogical institutions of Ukraine was carried out in order to ensure comparability of learning outcomes, programme structure, and balance between the philological and methodological components.",
+      "direction": "neutral",
+      "about_primary_additional_distribution": false
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "accredited",
+  "decision_basis": "possibleSolution=1 (accredit); accreditationDecision=5. EG found the programme fully compliant with all 9 criteria; balance between the two subject specialities (German as primary, English as additional) deemed adequate and consistent with the professional qualification.",
+  "key_finding": "Case 15430 presents a dual-language programme where the EG explicitly assessed the credit distribution between the two subject specialities as balanced and adequate, with no pressure toward parity or criticism of asymmetry. Separate attestation exams per speciality are noted as normatively correct. No concern about symmetric versus asymmetric design was raised."
+}

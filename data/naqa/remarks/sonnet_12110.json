@@ -1,0 +1,46 @@
+{
+  "candidate_id": "12110",
+  "program_name": "Середня освіта (Українська мова і література. Англійська мова)",
+  "degree": "MA",
+  "primary_subject": "Українська мова і література",
+  "additional_subject": "Англійська мова",
+  "design": "symmetric",
+  "balance_remarks": [
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "Не досягнуто паритетності у вимогах до проведення кількості уроків з української мови і літератури та англійської мови під час проходження практики.",
+      "gloss_en": "Parity has not been achieved in the requirements for the number of lessons in Ukrainian language and literature versus English language during teaching practice.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "Переглянути вимоги до проходження виробничої практики, щоб досягнути паритетності у вимогах до кількості проведення уроків з української мови і літератури та англійської мови (до початку 2025-2026 н.р.).",
+      "gloss_en": "Revise the requirements for teaching practice in order to achieve parity in the number of lessons required in Ukrainian language and literature and English language (by the start of 2025-2026 academic year).",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "Скоригувати програму виробничо-педагогічної практики з української мови і літератури та англійської мови в старшій школі стосовно визначення кількості уроків з української мови і літератури та англійської мови, які проводять здобувачі вищої освіти.",
+      "gloss_en": "Adjust the programme of teaching practice in Ukrainian language and literature and English language in senior school with respect to specifying the number of lessons in Ukrainian language and literature and English language to be conducted by students.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "У недоліках до критерію 2 у звіті ЕГ зафіксовано: «Не досягнуто паритетності у вимогах до проведення уроків з української мови і літератури та англійської мови під час проходження практики», однак у підкритерії 2.5 не подано аргументації виявленого недоліку.",
+      "gloss_en": "The EG report lists under Criterion 2 weaknesses: 'Parity has not been achieved in the lesson requirements for Ukrainian language and literature versus English language during practice', but sub-criterion 2.5 provides no substantiation of this finding.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "accredited",
+  "decision_basis": "possibleSolution=1 (accredit); accreditationDecision=5. EG found full correspondence for all criteria with no substantive deficiencies. Minor weaknesses include: lack of parity in practice lesson counts between the two subjects, outdated some institutional documents, absence of international academic mobility examples.",
+  "key_finding": "Accreditors explicitly demanded 'parity' (паритетність) in the number of lessons required of each subject during teaching practice — illustrating direct regulatory pressure toward 50/50 symmetric treatment of the two subjects at the practical-training level, even though the programme's overall credit design was not critiqued."
+}

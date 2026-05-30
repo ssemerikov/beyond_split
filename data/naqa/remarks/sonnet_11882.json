@@ -1,0 +1,38 @@
+{
+  "candidate_id": "11882",
+  "program_name": "Французька мова і друга західноєвропейська мова, зарубіжна література, методика навчання іноземних мов",
+  "degree": "MA",
+  "primary_subject": "Французька мова",
+  "additional_subject": "Друга західноєвропейська мова та зарубіжна література",
+  "design": "asymmetric",
+  "balance_remarks": [
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "Рекомендуємо при наступному оновленні ОП збалансувати обсяг кредитів на оволодіння здобувачами освіти мовними та фаховими і методичними літературознавчими компетеностями, зокрема збільшити обсяг ОК, спрямованих на формування кваліфікації вчителя зарубіжної літератури.",
+      "gloss_en": "We recommend that at the next update of the educational programme, the volume of credits for students to acquire linguistic and subject-methodological literary competencies be balanced, in particular by increasing the volume of educational components aimed at forming the qualification of a teacher of foreign literature.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "Для повнішого досягнення ПРН 4 збільшити обсяг ОК, спрямованих на оволодіння фаховими і методичними літературознавчими компетентностями.",
+      "gloss_en": "To more fully achieve PLO 4, increase the volume of educational components aimed at mastering subject-specific and methodological literary competencies.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "Зміст ОП «Французька мова і друга західноєвропейська мова, зарубіжна література, методика навчання іноземних мов» є чітко визначеним, структурованим та збалансованим у контексті загального часу навчання.",
+      "gloss_en": "The content of the educational programme 'French language and second Western European language, foreign literature, methodology of teaching foreign languages' is clearly defined, structured, and balanced in the context of the overall study time.",
+      "direction": "neutral",
+      "about_primary_additional_distribution": false
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "accredited",
+  "decision_basis": "possibleSolution=1 (accredit); accreditationDecision=5; рівень відповідності за всіма критеріями «В»; зразкові практики не встановлено",
+  "key_finding": "This case is structurally parallel to case 11886 (Spanish-language twin programme). The GER issues identical recommendations to 'balance' credits between language and literary-methodological competencies, calling for more credits towards the foreign literature teacher qualification. The EG, again, simultaneously characterises the programme as 'balanced'. This double occurrence at the same institution with the same GER recommendations constitutes a systematic pattern: accreditors consistently flag the under-weighting of the literature component relative to the primary language component in KNLU dual-track language-literature programmes."
+}

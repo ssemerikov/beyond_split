@@ -1,0 +1,78 @@
+{
+  "candidate_id": "14245",
+  "program_name": "Середня освіта (Географія. Історія)",
+  "degree": "BA",
+  "primary_subject": "Географія",
+  "additional_subject": "Історія",
+  "design": "asymmetric",
+  "balance_remarks": [
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "Спостерігаємо нерівномірний розподіл кредитів на географічну та історичну складову ОП.",
+      "gloss_en": "We observe an uneven distribution of credits for the geographical and historical components of the programme.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "Поважаючи автономію закладу, рекомендуємо переглянути розподіл кредитів між географічним та історичним напрямками підготовки.",
+      "gloss_en": "Respecting the institution's autonomy, we recommend reviewing the distribution of credits between the geographical and historical directions of preparation.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "Переглянути розподіл кредитів на географічний, історичний та громадянський напрями підготовки.",
+      "gloss_en": "Review the distribution of credits for the geographical, historical and civic directions of preparation.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "Розділити навчальну практику на географічну та історичну",
+      "gloss_en": "Divide the teaching practice into geographical and historical.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "Виключно географічний зміст навчальних практик (ООК 26.01, 26.03, 26.04) не дозволяє у повному обсязі сформувати СК 06, 08 та ПРН 11 без практичної підготовки з історичних дисциплін.",
+      "gloss_en": "The exclusively geographical content of the teaching practices (mandatory components 26.01, 26.03, 26.04) does not allow full formation of special competencies 06, 08 and learning outcome 11 without practical preparation in historical disciplines.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "ООК 27 та ООК 28 з виконання курсових робіт унормувати у такий спосіб, щоб кожний ООК був окремо з географії та історії, упорядкувати тематику курсових робіт",
+      "gloss_en": "Standardise mandatory components 27 and 28 on coursework in such a way that each component covers geography and history separately, and organise the topics of course works.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "Факт обрання з ООК 27 Курсова робота, що формує ПРН 01-05, 09, 11-13, 16, 18, та з ООК 28 Курсова робота (ПРН 06-08, 10, 13-15, 17-18) обох курсових робіт з географії чи історії, не дозволяє у повній мірі формувати зазначені ПРН.",
+      "gloss_en": "The fact that both course works in mandatory components 27 and 28 can be written on geography or history (rather than one for each) does not allow full formation of the specified learning outcomes.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "NAQA",
+      "criterion": "2",
+      "quote_uk": "Підтримати встановлений експертною групою рівень відповідності за критерієм 2 «Е» у зв'язку з наявністю суттєвих недоліків за критерієм.",
+      "gloss_en": "Support the level of compliance established by the expert group for criterion 2 as 'E' due to the presence of significant shortcomings under the criterion.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": true
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "refused",
+  "decision_basis": "possibleSolution=3 (refuse); accreditationDecision=5. NAQA upheld EG's level E (failure) for criterion 2, citing significant deficiencies. Uneven credit distribution between geography and history, exclusively geography-focused field practices, and joint coursework allowing students to specialise in only one subject all constituted substantial failures.",
+  "key_finding": "Case 14245 is an example where imbalanced credit distribution between the primary subject (Geography) and the additional subject (History) contributed directly to a refusal decision. GER explicitly flagged 'нерівномірний розподіл кредитів' and recommended reviewing the balance, while EG documented the geography-only practices and coursework as substantive deficiencies that prevented formation of history-related competencies. This demonstrates accreditation using de facto parity demands as grounds for refusal."
+}

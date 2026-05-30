@@ -1,0 +1,62 @@
+{
+  "candidate_id": "15818",
+  "program_name": "Польська мова і зарубіжна література та Українська мова і зарубіжна література",
+  "degree": "BA",
+  "primary_subject": "Польська мова і зарубіжна література (014.028)",
+  "additional_subject": "Українська мова і література (014.01)",
+  "design": "symmetric",
+  "balance_remarks": [
+    {
+      "source": "EG",
+      "criterion": "1",
+      "quote_uk": "ЕГ констатує наявність дисбалансу між мовно-літературною, психолого-педагогічною та методичною підготовкою здобувачів. Це проявляється у розподілі кредитів: на мовознавчо-літературознавчі освітні компоненти відведено 99 кредитів, на психолого-педагогічні – 14 кредитів, тоді як на методичні – лише 9 кредитів.",
+      "gloss_en": "The EG notes an imbalance between the philological, psycho-pedagogical, and methodological preparation of students. This manifests in the credit distribution: 99 credits are allocated to linguistics/literary-studies components, 14 to psycho-pedagogical, and only 9 to methodological components.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": false
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "простежується дисбаланс між мовно-літературною, психолого-педагогічною та методичною підготовкою здобувачів (99 кредитів проти 14 і 9 відповідно), що впливає на якість професійної підготовки майбутніх учителів.",
+      "gloss_en": "There is an imbalance between the philological-literary, psycho-pedagogical, and methodological preparation of students (99 credits versus 14 and 9 respectively), which affects the quality of professional training of future teachers.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": false
+    },
+    {
+      "source": "EG",
+      "criterion": "1",
+      "quote_uk": "Під час проєктування ОП переважно враховано досвід інших ЗВО в частині філологічної підготовки, тоді як практики, спрямовані на посилення педагогічної складової та підготовки вчителя, були враховані недостатньою мірою, що призвело до дисбалансу між філологічною та методичною підготовкою.",
+      "gloss_en": "During programme design, the experience of other institutions was predominantly taken into account in terms of philological preparation, while practices aimed at strengthening the pedagogical component and teacher training were insufficiently considered, leading to an imbalance between philological and methodological preparation.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": false
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "переглянути співвідношення обсягів у кредитах ЄКТС на ОК мовно-літературної, психолого-педагогічної та методичної підготовки здобувачів освіти, збільшити обсяги психолого-педагогічної та методичної підготовки.",
+      "gloss_en": "Revise the ratio of ECTS credits for linguistics/literary, psycho-pedagogical, and methodological training components, increasing the volumes of psycho-pedagogical and methodological preparation.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": false
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "ГЕР погоджується з ЕГ Звіт с.7 що на ОП «дисбаланс мовно-літературної (99 кр), психолого-педагогічної (14 кр) та методичної (9 кр) підготовки».",
+      "gloss_en": "The GER agrees with the EG report (p.7) that on this programme there is 'an imbalance of philological-literary (99 cr), psycho-pedagogical (14 cr) and methodological (9 cr) preparation'.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": false
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "чітких вимог щодо співвідношення кредитів між філологічним, психолого-педагогічним і методичним блоками не передбачено, однак ГЕР як і ЕГ акцентує, що на ОП здійснюється підготовка вчителя мови та літератури ЗЗСО, а не літературознавця чи філолога.",
+      "gloss_en": "There are no explicit requirements for the ratio of credits between the philological, psycho-pedagogical and methodological blocks; however, the GER, like the EG, emphasises that this programme trains a language and literature teacher for secondary schools, not a literary scholar or philologist.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": false
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "conditional",
+  "decision_basis": "possibleSolution=2 (conditional-deferred); accreditationDecision=2. Substantial deficiency: course topics and practicum content not aligned with 014 subject-area specialisation; disproportionately philological vs. pedagogical/methodological preparation.",
+  "key_finding": "This case shows an extreme imbalance (99 vs 14 vs 9 credits) between the philological content of the two subject disciplines and the pedagogical-methodological training. The EG and GER both flagged this as detrimental to teacher quality; the GER explicitly challenged the implicit conflation of a dual-subject teacher programme with a philology degree. The imbalance is between subject content broadly and pedagogy/methodology, rather than between the two teaching subjects inter se, but the GER's insistence on reorienting toward 'teacher, not philologist' parallels the Major/Minor asymmetry debate."
+}

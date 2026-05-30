@@ -1,0 +1,178 @@
+{
+ "id": 12364,
+ "status": {
+  "id": 800,
+  "name": "6.1 Програма візиту направлена на погодження до ЗВО"
+ },
+ "general": {
+  "universityId": 1961,
+  "universityName": "Тернопільський національний педагогічний університет імені Володимира Гнатюка",
+  "subUniversityId": null,
+  "partnerUniversityInfo": null,
+  "programName": "Середня освіта (Польська мова і література, українська мова і література)",
+  "programId": 49969,
+  "languages": [
+   24,
+   1
+  ],
+  "structureUnit": "Кафедра української мови та славістики",
+  "proQualification": "Вчитель польської мови і літератури, української мови і літератури, зарубіжної літератури, викладач закладу вищої освіти",
+  "guarantName": null,
+  "guarantPosition": "Доцент",
+  "guarantEdeboId": "411882",
+  "ownerName": null,
+  "description": "Освітньо-професійна програма (далі – ОПП) «Середня освіта (Польська мова і література, українська мова і література)» підготовки магістрів у Тернопільському національному педагогічному університеті імені Володимира Гнатюка розроблена і реалізується відповідно до Законів України «Про освіту», «Про вищу освіту», постанови Кабінету Міністрів України від 23.11.2011 р. №1341 (у редакції постанови  Кабінету Міністрів України від 25.06.2020 р. №519) «Про затвердження Національної рамки кваліфікації», базується на нормативних документах, які  визначають розроблення складових системи стандартів вищої освіти (далі – ВО) та регламентують провадження освітньо-професійної діяльності у закладах вищої освіти (далі – ЗВО), на підставі «Методичних рекомендацій щодо розроблення стандартів вищої освіти», затверджених наказом МОН України № 600 від 01.06.2017. \nІдея створення ОПП виникла у зв’язку з затребуваністю у регіоні фахівців, які володіють інноваційними фундаментальними знаннями в галузі освіти та здатні практично вирішувати спеціалізовані завдання психолого-педагогічного, організаційно-управлінського, аналітичного і науково-дослідницького характеру. Зазначена ОП враховує специфіку роботи вчителів польської і української мов та літератур, зарубіжної літератури зважає на актуальні суспільні проблеми сьогодення, передбачає дотримання фундаментальних принципів та підходів до сучасної вищої освіти: науковості, наступності та безперервності, гуманізму, демократизму, студентоцентризму, академічної доброчесності, колективної та особистої відповідальності за організацію та результати освітнього процесу. Дорадчим органом Гаранта ОП є Програмна рада. Зовнішні рецензенти: проф., зав. каф. полоністики і перекладу ВНУ імені Лесі Українки С.Сухарєва; доц. каф. іноземних мов та інформаційно-комунікаційних технологій ЗНУ.  Упровадження ОП забезпечується активною співпрацею з міським та обласним ДО, закладами ЗСО міста та Тернопільської області. До членів проєктної групи ОП входять викладачі кафедри української мови та славістики ТНПУ. Зовнішні та внутрішні стейкхолдери, роботодавці: доц. кафедри історії та культури української мови ЧНУ імені Юрія Федьковича Я.Редьква і перекладач, директор видавництва «Крок» Ю. Матевощук. Залучені студенти ОП: В.Корбеляк, С.Веселовська. При розробці ОП враховано досвід таких закладів України, як: ВНУ ім. Лесі Українки, ХНУ, КНУ ім. Т.Шевченка та зарубіжних: Гуманітарно-природничий університет ім. Яна Длугоша, м. Ченстохова (Польща), Люблінський Католицький Університет Яна Павла ІІ і відповідно до нормативних документів МОН України, концепції розвитку педагогічної освіти, пропозицій стейкхолдерів та тенденцій розвитку спеціальності. Здійснюється постійний моніторинг, обговорення та вдосконалення ОП.",
+  "accreditationId": 14167,
+  "universityRegNumber": "96",
+  "educationalDegrees": [
+   5,
+   6
+  ],
+  "otherUnit": "Кафедра інформатики та методики її навчання, кафедра української та зарубіжної літератур і методик їх навчання, кафедра педагогіки та менеджменту освіти, кафедра психології, кафедра іноземних мов, кафедра філософії та суспільних наук",
+  "locationEducationalActivity": "вул. М. Кривоноса, 2, м. Тернопіль, 46027, Україна",
+  "isProQualification": true,
+  "corporateEmailByGuarantor": null,
+  "phoneByGuarantor": null,
+  "addPhoneByGuarantor": null,
+  "generalAll": 67719,
+  "generalOwn": 67719,
+  "generalRented": 0,
+  "generalRentedOut": 0,
+  "trainingAll": 16650,
+  "trainingOwn": 16650,
+  "trainingRented": 0,
+  "trainingRentedOut": 0,
+  "isRestrictedInformation": null,
+  "restrictedInformation": [],
+  "educationForms": [
+   {
+    "educationFormId": 1,
+    "termStudy": [
+     1,
+     4
+    ]
+   },
+   {
+    "educationFormId": 3,
+    "termStudy": [
+     1,
+     4
+    ]
+   }
+  ],
+  "educationApplicants": {
+   "foreignPeople": [
+    {
+     "id": 3,
+     "name": "заочна",
+     "students": [
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      }
+     ]
+    },
+    {
+     "id": 1,
+     "name": "очна денна",
+     "students": [
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      }
+     ]
+    }
+   ],
+   "studentsContingent": [
+    {
+     "id": 3,
+     "name": "заочна",
+     "students": [
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      }
+     ]
+    },
+    {
+     "id": 1,
+     "name": "очна денна",
+     "students": [
+      {
+       "value": 7
+      },
+      {
+       "value": 9
+      }
+     ]
+    }
+   ],
+   "studyYearInformation": [
+    {
+     "year": "2024 - 2025",
+     "totalStudents": 15
+    },
+    {
+     "year": "2023 - 2024",
+     "totalStudents": 15
+    }
+   ]
+  },
+  "additionFiles": [],
+  "educationFiles": [
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "EGTvLAUm6ztEKrM+hSlz7OsSBLTQ+frs4NHmQT3WjEc=",
+    "sign": "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",
+    "id": 3572274,
+    "name": "60749_opp_serednia_osvita_(poljsjka_mova_i_literatura,_ukrayinsjka_mova_i_literatura).pdf"
+   }
+  ],
+  "studyFiles": [
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "DaanEkJhPL4fyQLt+Pc+V9/1kWpJUMyf3LGfqyXaoVk=",
+    "sign": "MIIJLwYJKoZIhvcNAQcCoIIJIDCCCRwCAQExDjAMBgoqhiQCAQEBAQIBMAsGCSqGSIb3DQEHAaCCBhYwggYSMIIFuqADAgECAhRemE1Sb4LzjwQAAAAwSocB5tl4BTANBgsqhiQCAQEBAQMBATCBvjEpMCcGA1UECgwg0JDQoiDQmtCRICLQn9Cg0JjQktCQ0KLQkdCQ0J3QmiIxPTA7BgNVBAMMNNCa0J3QldCU0J8g0JDQptCh0Jog0JDQoiDQmtCRICLQn9Cg0JjQktCQ0KLQkdCQ0J3QmiIxGTAXBgNVBAUTEFVBLTE0MzYwNTcwLTIzMTAxCzAJBgNVBAYTAlVBMREwDwYDVQQHDAjQmtC40ZfQsjEXMBUGA1UEYQwOTlRSVUEtMTQzNjA1NzAwHhcNMjQxMDAzMTM1NTMyWhcNMjUxMDAzMjA1OTU5WjCCAT0xFjAUBgNVBAoMDdCU0J4g0KLQndCf0KMxKDAmBgNVBAwMH9Cf0JXQoNCo0JjQmSDQn9Cg0J7QoNCV0JrQotCe0KAxNTAzBgNVBAMMLNCU0KDQntCR0JjQmiDQndCQ0JTQhtCvINCc0JjQpdCQ0JnQm9CG0JLQndCQMRUwEwYDVQQEDAzQlNCg0J7QkdCY0JoxKDAmBgNVBCoMH9Cd0JDQlNCG0K8g0JzQmNCl0JDQmdCb0IbQktCd0JAxGTAXBgNVBAUTEFRJTlVBLTI0NzM1MDIxMDcxCzAJBgNVBAYTAlVBMRswGQYDVQQHDBLQotCV0KDQndCe0J/QhtCb0KwxIzAhBgNVBAgMGtCi0JXQoNCd0J7Qn9CG0JvQrNCh0KzQmtCQMRcwFQYDVQRhDA5OVFJVQS0wMjEyNTU0NDCBiDBgBgsqhiQCAQEBAQMBATBRBg0qhiQCAQEBAQMBAQIGBECp1utF8TxwgoDElnsjH16t9ljrpMA3KR042WvwJcpOF/jpcg3GFbQ6KJdfC8Heo2Q4tWTqLBef0BI+bbj6xXkEAyQABCElAe1ZFNHgJO5kTk32Q4cywt0KyvZen84kTn5Aud9tmwGjggLfMIIC2zApBgNVHQ4EIgQghcfoFIY3veG4tBB+YJRCDl5LcWY0H4S7g+O6y7EWCy4wKwYDVR0jBCQwIoAgXphNUm+C84/0vi5ABGgN/rOvysLkBHVNB9CuTISwfB0wDgYDVR0PAQH/BAQDAgbAMEgGA1UdIARBMD8wPQYJKoYkAgEBAQICMDAwLgYIKwYBBQUHAgEWImh0dHBzOi8vYWNzay5wcml2YXRiYW5rLnVhL2Fjc2tkb2MwCQYDVR0TBAIwADBqBggrBgEFBQcBAwReMFwwCAYGBACORgEBMCwGBgQAjkYBBTAiMCAWGmh0dHBzOi8vYWNzay5wcml2YXRiYW5rLnVhEwJlbjAVBggrBgEFBQcLAjAJBgcEAIvsSQEBMAsGCSqGJAIBAQECATA+BgNVHR8ENzA1MDOgMaAvhi1odHRwOi8vYWNzay5wcml2YXRiYW5rLnVhL2NybC9QQi0yMDIzLVMxNy5jcmwwSQYDVR0uBEIwQDA+oDygOoY4aHR0cDovL2Fjc2sucHJpdmF0YmFuay51YS9jcmxkZWx0YS9QQi1EZWx0YS0yMDIzLVMxNy5jcmwwgYUGCCsGAQUFBwEBBHkwdzA0BggrBgEFBQcwAYYoaHR0cDovL2Fjc2sucHJpdmF0YmFuay51YS9zZXJ2aWNlcy9vY3NwLzA/BggrBgEFBQcwAoYzaHR0cDovL2Fjc2sucHJpdmF0YmFuay51YS9hcmNoL2Rvd25sb2FkL1BCLTIwMjMucDdiMEMGCCsGAQUFBwELBDcwNTAzBggrBgEFBQcwA4YnaHR0cDovL2Fjc2sucHJpdmF0YmFuay51YS9zZXJ2aWNlcy90c3AvMFgGA1UdCQRRME8wGgYMKoYkAgEBAQsBBAIBMQoTCDAyMTI1NTQ0MBwGDCqGJAIBAQELAQQBATEMEwoyNDczNTAyMTA3MBMGDCqGJAIBAQELAQQHATEDEwEwMA0GCyqGJAIBAQEBAwEBA0MABECYTOM+KiiROy4b4ZrGkSDlB6OuEhYXVr4j9b17sTTeNpnvbwlMbzrOO96lX9fDzGX6jeg2FL+BE09ktyGiHjUCMYIC3jCCAtoCAQEwgdcwgb4xKTAnBgNVBAoMINCQ0KIg0JrQkSAi0J/QoNCY0JLQkNCi0JHQkNCd0JoiMT0wOwYDVQQDDDTQmtCd0JXQlNCfINCQ0KbQodCaINCQ0KIg0JrQkSAi0J/QoNCY0JLQkNCi0JHQkNCd0JoiMRkwFwYDVQQFExBVQS0xNDM2MDU3MC0yMzEwMQswCQYDVQQGEwJVQTERMA8GA1UEBwwI0JrQuNGX0LIxFzAVBgNVBGEMDk5UUlVBLTE0MzYwNTcwAhRemE1Sb4LzjwQAAAAwSocB5tl4BTAMBgoqhiQCAQEBAQIBoIIBmjAYBgkqhkiG9w0BCQMxCwYJKoZIhvcNAQcBMBwGCSqGSIb3DQEJBTEPFw0yNDEwMDcxNDA4MTNaMC8GCSqGSIb3DQEJBDEiBCANpqcSQmE8vh/JAu349z5X3/WRaklQzJ/csZ+rJdqhWTCCAS0GCyqGSIb3DQEJEAIvMYIBHDCCARgwggEUMIIBEDAMBgoqhiQCAQEBAQIBBCDWHkob8v9QJoKHWvefz0fRj6AX0HcreE+LpNRUCSOkNTCB3TCBxKSBwTCBvjEpMCcGA1UECgwg0JDQoiDQmtCRICLQn9Cg0JjQktCQ0KLQkdCQ0J3QmiIxPTA7BgNVBAMMNNCa0J3QldCU0J8g0JDQptCh0Jog0JDQoiDQmtCRICLQn9Cg0JjQktCQ0KLQkdCQ0J3QmiIxGTAXBgNVBAUTEFVBLTE0MzYwNTcwLTIzMTAxCzAJBgNVBAYTAlVBMREwDwYDVQQHDAjQmtC40ZfQsjEXMBUGA1UEYQwOTlRSVUEtMTQzNjA1NzACFF6YTVJvgvOPBAAAADBKhwHm2XgFMA0GCyqGJAIBAQEBAwEBBEBUxJF4uIt2Ex1ll0NpduZFNzWaM47ln5YEz3HwCvQWWi7M4P2S0PwIQT/0TDbwWFF/g8x+lcaKGHtWaugqf0AQ",
+    "id": 3571867,
+    "name": "60749_navchaljnyi_plan_2023-2024.pdf"
+   }
+  ],
+  "feedbackFiles": [
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "GavahyqvWhjzBgVl8zy3ex907MRqKG7p9BXWPMwMI8A=",
+    "sign": "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",
+    "id": 3571870,
+    "name": "60749_retsenziia_redjkva.pdf"
+   },
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "Vf+birqKx94c3Kcnr7iUM970/0yowPcqmlRn2t8qYow=",
+    "sign": "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",
+    "id": 3571871,
+    "name": "60749_retsenziia_sukharieva.pdf"
+   },
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "dzD4u+2e6EYQYtArAhyFFOBJ+l2CRx2w1o5HnDaH0TA=",
+    "sign": "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",
+    "id": 3571872,
+    "name": "60749_retsenziia_yurchyshyn.pdf"
+   }
+  ],
+  "isMilitaryUniversity": null,
+  "isNextYear": null,
+  "typeEducationalProgram": null
+ }
+}

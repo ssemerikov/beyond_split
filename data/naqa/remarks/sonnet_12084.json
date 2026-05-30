@@ -1,0 +1,13 @@
+{
+  "candidate_id": "12084",
+  "program_name": "Математика та інформатика",
+  "degree": "MA",
+  "primary_subject": "Математика",
+  "additional_subject": "Інформатика",
+  "design": "unclear",
+  "balance_remarks": [],
+  "has_balance_remark": false,
+  "decision_outcome": "conditional",
+  "decision_basis": "possibleSolution=2 (conditional-deferred); accreditationDecision=2. EG set level B for all criteria with no substantive deficiencies, but the GER/NAQA decision was conditional-deferred. Issues include: ОК1 duplicating bachelor-level content, missing practical sessions in several methodology OKs, absence of student publications, insufficient practitioner involvement.",
+  "key_finding": "This programme combines Mathematics (primary subject) and Computer Science (informatics as methodology rather than a fully independent subject specialisation), so the dual-subject balance question in the primary/additional sense does not arise in the same form. No accreditation remarks addressed distribution of credits or lesson-counts between mathematics and informatics as competing subject domains."
+}

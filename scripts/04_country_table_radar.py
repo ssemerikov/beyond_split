@@ -102,13 +102,13 @@ def plot_weight_bar(countries: list[dict]):
     primary = [c["weight_primary_pct"] for c in has_data]
     secondary = [c["weight_secondary_pct"] for c in has_data]
     ax.bar(x - w / 2, primary, width=w, color="#2E86C1", label="Primary subject (Hauptfach / major)")
-    ax.bar(x + w / 2, secondary, width=w, color="#E74C3C", label="Secondary subject (Nebenfach / minor)")
+    ax.bar(x + w / 2, secondary, width=w, color="#E74C3C", label="Additional subject (Nebenfach / minor)")
     ax.axhline(50, color="#888888", linestyle="--", linewidth=0.8)
     ax.text(len(x) - 0.5, 51, "50/50 reference", color="#888888", fontsize=9, ha="right")
     ax.set_xticks(x)
     ax.set_xticklabels([c["id"] for c in has_data])
     ax.set_ylabel("Subject-content ECTS share (%)")
-    ax.set_title("Primary vs. secondary subject weight in dual-subject teacher programmes")
+    ax.set_title("Primary vs. additional subject weight in dual-subject teacher programmes")
     ax.set_ylim(0, 90)
     ax.legend(frameon=False, fontsize=9)
     ax.spines["top"].set_visible(False)
@@ -140,7 +140,7 @@ def plot_radar(countries: list[dict]):
             "model": c["model_type"],
         })
 
-    axes_labels = ["Primary %", "Secondary %", "Duration ×10", "Asymmetry gap"]
+    axes_labels = ["Primary %", "Additional %", "Duration ×10", "Asymmetry gap"]
     n = len(axes_labels)
     angles = [i / n * 2 * math.pi for i in range(n)] + [0]
 

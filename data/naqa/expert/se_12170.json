@@ -1,0 +1,154 @@
+{
+ "id": 12170,
+ "status": {
+  "id": 800,
+  "name": "6.1 Програма візиту направлена на погодження до ЗВО"
+ },
+ "general": {
+  "universityId": 1971,
+  "universityName": "Житомирський державний університет імені Івана Франка",
+  "subUniversityId": null,
+  "partnerUniversityInfo": null,
+  "programName": "Англійська та німецька мови й зарубіжна література в закладах освіти",
+  "programId": 50158,
+  "languages": [
+   1,
+   2,
+   10
+  ],
+  "structureUnit": "Кафедра міжкультурної комунікації та іншомовної освіти",
+  "proQualification": "магістр середньої освіти (Мова та зарубіжна література (англійська)). Вчитель англійської мови та зарубіжної літератури, викладач закладу фахової передвищої, вищої освіти. Вчитель німецької мови, викладач закладу фахової передвищої, вищої освіти",
+  "guarantName": null,
+  "guarantPosition": "Професор",
+  "guarantEdeboId": "28389",
+  "ownerName": null,
+  "description": "Інститут іноземної філології ЖДУ імені Івана Франка було засновано під назвою Житомирський державний вчительський інститут в 1949 році у складі факультетів англійської, німецької та французької мов. Сьогодні навчально-науковий інститут іноземної філології налічує 5 кафедр: англійської мови та прикладної лінгвістики, англійської філології та перекладу, германської філології та зарубіжної літератури, іноземних мов і новітніх технологій навчання і міжкультурної комунікації та іншомовної освіти, на якій функціонує ОП. За понад 70 років свого існування факультет іноземних мов підготував понад 6000  випускників, серед них вчителі з англійської, німецької та французької мов і зарубіжної літератури. В 2017 року кафедра міжкультурної комунікації та іншомовної освіти (тоді міжкультурної комунікації та прикладної лінгвістики) взяла участь у спільному проєкті Міністерства освіти і науки України та Британської Ради «Шкільний вчитель нового покоління», метою якого було вдосконалення змісту та підходів до мовної та професійно-методичної підготовки майбутнього вчителя іноземних мов за ОКР \"бакалавр\". Подальшим кроком у розвитку системи професійно-педагогічної підготовки вчителя іноземної мови та зарубіжної літератури до роботи у профільній школі стало створення у 2017 р. ОПП \"Середня освіта (Мова і література (англійська та німецька))\" другого (магістерського) рівня вищої освіти, наступницею якої стала в 2023 р. дана ОПП. У період з 2017-2024 рр. викладачі кафедри проф. Калініна Л.В., проф. Щерба Н.С., доц. Прокопчук Н.Р., доц. Кузьменко О.Ю., доц. Григор'єва Т.Ю., доц. Гирин О.В., доц. Савчук І.І. неодноразово брали участь у стажуваннях, які дозволили їм підвищити рівень педагогічної та фахової майстерності і вплинуло на якість професійної діяльності в межах програми. Над змістом, наповненням та якістю чинної ОПП працювала робоча група, до складу якої з метою врахування галузевих і регіональних потреб, ввійшли роботодавці за фахом: В. Калінін – кандидат педагогічних наук, доцент, заступник директора з навчально-методичної роботи комунального закладу Житомирського обласного інституту післядипломної педагогічної освіти; М. Сервачук – директор Житомирської загальноосвітньої школи №17 (тепер ліцею № 17); С. Мельник, завуч Житомирської міської гімназії №23 ім. М. Очерета (тепер ліцею № 23). Програма відповідає стратегії розвитку ЖДУ, передбачає механізми забезпечення якості освіти, використовує практику вітчизняних і зарубіжних ЗВО, систематично досліджує та враховує потреби здобувачів вищої освіти, побажання та зауваження роботодавців і стейкхолдерів, що систематизуються та аналізуються після щорічних зустрічей. ОПП поєднує класичні традиції університетської освіти та актуальні нововведення, зумовлені сучасними освітніми реаліями. У межах освітньої програми систематично встановлюються зв'язки з провідними науковцями вітчизняних і зарубіжних ЗВО та вітчизняних ЗСО для реалізації проєктів «Запрошені професори» та «PRO Студії від професіоналів». Систематичне обов'язкове стажування кадрового складу зумовлює постійний розвиток якості освіти за ОПП.",
+  "accreditationId": 14011,
+  "universityRegNumber": "109",
+  "educationalDegrees": [
+   6,
+   5
+  ],
+  "otherUnit": "ННІ педагогіки (кафедра професійно-педагогічної, спеціальної освіти, андрагогіки та управління), Навчально-науковий інститут іноземної філології (кафедра германської філології та зарубіжної літератури, кафедра англійської мови та прикладної лінгвістики), Соціально-психологічний (кафедра психології, логопедії та інклюзивної освіти)",
+  "locationEducationalActivity": "м. Житомир, вул. Університетська, 49 (навчальний корпус №2)",
+  "isProQualification": true,
+  "corporateEmailByGuarantor": null,
+  "phoneByGuarantor": null,
+  "addPhoneByGuarantor": null,
+  "generalAll": 55864,
+  "generalOwn": 55864,
+  "generalRented": 0,
+  "generalRentedOut": 303,
+  "trainingAll": 14169,
+  "trainingOwn": 14169,
+  "trainingRented": 0,
+  "trainingRentedOut": 0,
+  "isRestrictedInformation": null,
+  "restrictedInformation": [],
+  "educationForms": [
+   {
+    "educationFormId": 3,
+    "termStudy": [
+     1,
+     4
+    ]
+   },
+   {
+    "educationFormId": 1,
+    "termStudy": [
+     1,
+     4
+    ]
+   }
+  ],
+  "educationApplicants": {
+   "foreignPeople": [
+    {
+     "id": 1,
+     "name": "очна денна",
+     "students": [
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      }
+     ]
+    },
+    {
+     "id": 3,
+     "name": "заочна",
+     "students": [
+      {
+       "value": 0
+      },
+      {
+       "value": 0
+      }
+     ]
+    }
+   ],
+   "studentsContingent": [
+    {
+     "id": 1,
+     "name": "очна денна",
+     "students": [
+      {
+       "value": 19
+      },
+      {
+       "value": 19
+      }
+     ]
+    },
+    {
+     "id": 3,
+     "name": "заочна",
+     "students": [
+      {
+       "value": 6
+      },
+      {
+       "value": 8
+      }
+     ]
+    }
+   ],
+   "studyYearInformation": [
+    {
+     "year": "2024 - 2025",
+     "totalStudents": 50
+    },
+    {
+     "year": "2023 - 2024",
+     "totalStudents": 50
+    }
+   ]
+  },
+  "additionFiles": [],
+  "educationFiles": [
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "zls01Sz7giuCwUkZQP4HchARhtKA87+d02tzDEhcv50=",
+    "sign": "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",
+    "id": 3565953,
+    "name": "ОП2024.pdf"
+   }
+  ],
+  "studyFiles": [
+   {
+    "contentType": "application/pdf",
+    "fieldName": null,
+    "hash": "7N9i3odL30OTH8Feeg9PD8xYZiHDufkvwc18ZvwhhXM=",
+    "sign": "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",
+    "id": 3565954,
+    "name": "НП_ДФ2024.pdf"
+   }
+  ],
+  "feedbackFiles": [],
+  "isMilitaryUniversity": null,
+  "isNextYear": null,
+  "typeEducationalProgram": null
+ }
+}

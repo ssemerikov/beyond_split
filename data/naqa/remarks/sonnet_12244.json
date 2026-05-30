@@ -1,0 +1,46 @@
+{
+  "candidate_id": "12244",
+  "program_name": "Середня освіта (Англійська, німецька/польська мови та зарубіжна література)",
+  "degree": "MA",
+  "primary_subject": "Англійська мова та зарубіжна література (014.021)",
+  "additional_subject": "Німецька або польська мова (додаткова спеціалізація, вибіркова)",
+  "design": "asymmetric",
+  "balance_remarks": [
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "На предметну підготовку із історії зарубіжної літератури та порівняльного літературознавства відведено 12 кредитів, предметну підготовку із англійської мови відведено 8 кредитів, 7 кредитів відведено на дисципліни з методик викладання іноземної мови та зарубіжної літератури, 6 кредитів відведено на психолого-педагогічні дисципліни, така ж кількість (6) - на методологію науки та досліджень, 18 кредитів спрямовано на практичну підготовку. На думку ЕГ зазначені обсяги вказують на певний дисбаланс ОПП у бік літературної підготовки здобувачів освіти, проте цей дисбаланс не є критичним і не має негативного впливу на загальну якість підготовки фахівців.",
+      "gloss_en": "The EG provides the same full credit breakdown as in case 12248 (same programme at same institution): 12 ECTS for world literature, 8 for English language, 7 for methodology, 6 each for pedagogy and research methodology, 18 for practice. The EG names this an imbalance toward literary preparation but classifies it as non-critical.",
+      "direction": "criticises_imbalance",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "5",
+      "quote_uk": "Наявні критерії оцінювання результатів підсумкового іспиту не дають змоги за рівних умов перевірити отримані результати навчання здобувачів освіти, які скористались можливістю отримати додаткову спеціальність, та тих, хто не скористався.",
+      "gloss_en": "The EG finds that the existing final exam assessment criteria do not allow equal-condition verification of learning outcomes for students who took the additional specialisation option versus those who did not.",
+      "direction": "describes_asymmetry",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "5",
+      "quote_uk": "Відповідно до основної предметної спеціальності 014.021 Середня освіта (Англійська мова та зарубіжна література) доцільним є в зміст кваліфікаційної роботи закласти комплексну перевірку рівня сформованості компетентностей та результатів навчання. Перевірку сформованості ЗК, СК і ПРН за додатковою спеціалізацією здійснювати атестаційним іспитом.",
+      "gloss_en": "The GER recommends that the qualification thesis comprehensively assess competencies tied to the primary subject specialisation (English language and world literature), while the additional specialisation's competencies should be assessed through the attestation exam — a direct asymmetric assessment split matching the Major/Minor structure.",
+      "direction": "describes_asymmetry",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "1",
+      "quote_uk": "Доцільно з назви ОПП вилучити слова «…німецька/польська…» як такі, що визначаються лише вибірковими компонентами та можуть бути не обраними здобувачами вищої освіти",
+      "gloss_en": "The GER recommends removing 'German/Polish' from the programme title because these languages appear only as elective components and may not be chosen — implicitly reinforcing the asymmetric logic: the additional language is not a guaranteed equal component but an optional add-on.",
+      "direction": "describes_asymmetry",
+      "about_primary_additional_distribution": true
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "accredited",
+  "decision_basis": "possibleSolution=1 (accredit); accreditationDecision=5. Non-critical weaknesses across multiple criteria; all criteria assessed as meeting requirements.",
+  "key_finding": "Case 12244 (twin of 12248 at the same institution) explicitly endorses a Major/Minor assessment architecture via the GER's recommendation: thesis for primary subject, attestation exam for additional. The GER also recommends removing the additional-subject language from the programme title because it is elective, institutionally confirming that the additional subject occupies a subordinate, optional role — consistent with the paper's asymmetric model."
+}

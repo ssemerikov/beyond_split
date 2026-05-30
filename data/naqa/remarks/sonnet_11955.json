@@ -1,0 +1,46 @@
+{
+  "candidate_id": "11955",
+  "program_name": "Середня освіта (Фізика та інформатика)",
+  "degree": "MA",
+  "primary_subject": "Фізика та астрономія",
+  "additional_subject": "Інформатика",
+  "design": "asymmetric",
+  "balance_remarks": [
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "аналіз навчально-методичного забезпечення практики ОК13 виявив відсутність диференціації у розподілі завдань між шкільними дисциплінами (фізикою, астрономією та інформатикою), що ускладнює створення паритету при вивченні методик навчання цих дисциплін",
+      "gloss_en": "Analysis of the teaching and learning materials for practice component OK13 revealed a lack of differentiation in the distribution of tasks between the school disciplines (physics, astronomy and informatics), which makes it difficult to create parity in studying the teaching methodologies of these disciplines.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "EG",
+      "criterion": "2",
+      "quote_uk": "За підготовку за основною предметною спеціальністю \"Середня освіта (Фізика та астрономія)\" відповідають дисципліни ОК6, ОК7, ОК8, ОК9, ОК15.4 та практики ОК12, ОК13 (для кваліфікації вчителя ЗЗСО), ОК14 (для кваліфікації викладача ЗФПО), ОК15.4. З підготовкою за додатковою спеціалізацією \"Середня освіта (Інформатика)\" пов'язані ОК10, ОК11, ОК12, ОК13.",
+      "gloss_en": "Preparation in the primary subject speciality 'Secondary Education (Physics and Astronomy)' is covered by components OK6, OK7, OK8, OK9, OK15.4 and practices OK12, OK13 (for secondary school teacher qualification), OK14 (for vocational college lecturer qualification), OK15.4. Preparation in the additional specialisation 'Secondary Education (Informatics)' is associated with OK10, OK11, OK12, OK13.",
+      "direction": "describes_asymmetry",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "2",
+      "quote_uk": "групі забезпечення при виборі здобувачами тем кваліфікаційних робіт, мотивувати їх обирати теми з обох предметних спеціальностей ОП",
+      "gloss_en": "The support group, when students choose thesis topics, should motivate them to choose topics from both subject specialities of the educational programme.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    },
+    {
+      "source": "GER",
+      "criterion": "",
+      "quote_uk": "Зміст ОК 17 включає 30 запитань з методики навчання інформатики в профільній школі і закладах фахової передвищої освіти, 30 запитань з інформатики, 30 запитань з методика навчання фізики та астрономії в профільній школі й закладах фахової передвищої освіти, 10 запитань з астрономії, 20 запитань з фізики, що вважаємо достатнім для встановлення сформованості ПРН і паритетним з огляду на професійну кваліфікацію ОП.",
+      "gloss_en": "The content of component OK17 includes 30 questions on the methodology of teaching informatics in specialised schools and vocational colleges, 30 questions on informatics, 30 questions on the methodology of teaching physics and astronomy in specialised schools and vocational colleges, 10 questions on astronomy, 20 questions on physics, which we consider sufficient to establish the formation of programme learning outcomes and parity in view of the professional qualification of the educational programme.",
+      "direction": "pressure_toward_parity",
+      "about_primary_additional_distribution": true
+    }
+  ],
+  "has_balance_remark": true,
+  "decision_outcome": "accredited",
+  "decision_basis": "possibleSolution=1 (accredit); accreditationDecision=5; ОП загалом відповідає усім критеріям з недоліками, що є несуттєвими",
+  "key_finding": "This is the most analytically explicit case in the batch. The EG formally identifies primary (Physics & Astronomy: 5 dedicated components) and additional (Informatics: 2 dedicated components) subject specialities by name, acknowledging an asymmetric credit allocation. Despite this asymmetry, the accreditation succeeds. However, both EG and GER then apply parity pressure: the EG criticises the lack of differentiation of practice tasks between the subjects, calling for 'parity' in methodology training, and the GER endorses the exam question distribution (60 informatics vs 60 physics/astronomy) as 'paritetnyi' and recommends motivating students to write theses on both specialities. This shows accreditors simultaneously accepting structural asymmetry while imposing parity norms at assessment and practice level."
+}
